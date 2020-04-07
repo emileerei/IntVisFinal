@@ -11,11 +11,15 @@
   <h1>Painting Palette Breakdown</h1>
 
   <div class="navbar">
-    <img src="/imgs/" alt="website logo">
+    <img src="/imgs/logo.png" alt="website logo">
     <div class="searchbar">
-      <!-- search bar box -->
-      <!-- search bar button -->
-      <!-- search bar help tooltip/button -->
+      <input 
+          type="text"
+          name="searchBar" 
+          id="searchBar"
+          placeholder="Search for anything"
+      />
+      <input type="submit">
     </div>
   </div>
 
@@ -26,8 +30,9 @@
       <div class="rheader">Overview</div>
       <div class="rheader">Palette Preview</div>
       <div class="rheader">Add to Compare</div>
-      <div class="list">
-        <p>Nothing to Show</p>
+
+      <p>Nothing to Show</p>
+      <ul id="paintingList"></ul>
         <!-- Will be filled in with JS -->
         <!-- TODO: figure out how to connect CSS with JS to create style for each result. -->
       </div>

@@ -1,0 +1,8 @@
+.navbar {
+  border: 1px solid black;
+  width: 30%;
+}
+
+.navbar img {
+  max-width: 35px;
+}
