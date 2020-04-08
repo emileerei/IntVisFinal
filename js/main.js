@@ -1,4 +1,5 @@
 const paintingList = document.getElementById("paintingList");
+const searchResultString = document.getElementById("searchString");
 const searchBar = document.getElementById("searchBar");
 let paintingDatabase = [
   {name: "Gaspar Rem", artist: "AACHEN, Hans von", timeline: "1601-1650", date: "1574-75", technique: "Oil on canvas"},
@@ -15,6 +16,7 @@ let paintingDatabase = [
 
 searchBar.addEventListener("keyup", e => {
   const searchString = e.target.value.toLowerCase();
+  searchResultString.innerHTML = `Search Results for "${searchString}"`
   // we split the string provided by the user into an array of individual searches
   // const parsedString = searchString.split(" ");
   const parsedString = parseString(searchString);
@@ -71,8 +73,8 @@ const displayPaintings = (paintings) => {
   const htmlString = paintings.map((painting) => {
     return `
       <li class="painting">
-        <p>${painting.name}</p>
-        <p>${painting.artist}</p>
+        <p>${painting.name} <br /> ${painting.artist}</p>
+        <input type="checkbox" id="checkbox" name="checkbox" value="compare">
       </li>
     `;}).join('');
   paintingList.innerHTML = htmlString;

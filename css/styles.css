@@ -1,8 +1,117 @@
-.navbar {
-  border: 1px solid black;
-  width: 30%;
+body {
+  margin: 0 10px 0 0;
+  font-family: 'Roboto', 'sans-serif';
+  font-size: 1rem;
+  color: #000000;
+  text-align: center;
 }
 
-.navbar img {
-  max-width: 35px;
+h1 {
+  font-family: 'Roboto Slab', 'serif';
+  font-size: 2rem;
 }
+
+h2 {
+  font-family: 'Roboto Slab', 'serif';
+  font-size: 1.5rem;
+}
+
+/* SEARCH BAR/NAV BAR */
+
+.navbar {
+  display: inline-block;
+}
+
+.logo {
+  float: left;
+  width: 3%;
+  margin-right: 20px;
+}
+
+#searchBar {
+  width: 40%;
+  padding: 5px 10px;
+  border: 1px solid #a1a1a1;
+}
+
+.submitButton {
+  background-color: #eeeeee;
+  padding: 5px 10px;
+  border: 1px solid #a1a1a1;
+}
+
+.help-icon {
+  background-color: #eeeeee;
+  width: 2%;
+  padding: 2px 0px;
+  border: 1px solid #a1a1a1;
+}
+
+/* SEARCH RESULTS */
+
+.searchresults {
+  margin: 100px auto;
+  width: 70%;
+  border: 1px solid #a1a1a1;
+}
+
+.searchresults > h2 {
+  margin-top: -40px;
+}
+
+.results {
+  margin: 0 10px;
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: 2fr 2fr 1fr;
+  grid-template-areas: 
+      'label label label'
+      'painting painting painting';
+}
+
+.results > h3 {
+  margin: 10px 0;
+  display: inline-block;
+  width: 100%;
+  padding: 10px 0;
+  border: 1px solid #a1a1a1;
+}
+
+#paintingList {
+  margin: 0 auto;
+  display: grid;
+  grid-area: painting;
+  grid-template-columns: 100%;
+  grid-gap: 10px;
+  padding: 0;
+}
+
+.painting {
+  list-style-type: none;
+  border: 1px solid #a1a1a1;
+  display: grid;
+  grid-template-columns: 1fr 1fr 2fr 1fr;
+  grid-template-areas: 
+      'image info palette checkbox';
+}
+
+.painting > img {
+  grid-area: image;
+  margin: 5px;
+}
+
+.painting > p {
+  grid-area: info;
+  margin-bottom: 20px;
+  text-align: left;
+}
+
+.painting > .palette {
+  grid-area: palette;
+}
+
+.painting > #checkbox {
+  grid-area: checkbox;
+}
+
+/* COMPARE PANEL */

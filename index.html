@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" type="text/css" href="/css/styles.css">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
   <title>Painting Palette Breakdown</title>
 </head>
 <body>
@@ -11,30 +12,25 @@
   <h1>Painting Palette Breakdown</h1>
 
   <div class="navbar">
-    <img src="/imgs/logo.png" alt="website logo">
-    <div class="searchbar">
+    <!-- <img class="logo" src="/imgs/logo.png" alt="website logo"> -->
       <input 
           type="text"
           name="searchBar" 
           id="searchBar"
           placeholder="Search for anything"
       />
-      <input type="submit">
-    </div>
+      <img class="help-icon" src="/imgs/help.png" alt="help button">
   </div>
 
   <!-- TODO: figure out best way to make results layout -->
   <div class="searchresults">
-    <h2>Search Results</h2>
+    <h2 id="searchString">Search Results</h2>
     <div class="results">
-      <div class="rheader">Overview</div>
-      <div class="rheader">Palette Preview</div>
-      <div class="rheader">Add to Compare</div>
+      <h3>Overview</h3>
+      <h3>Palette Preview</h3>
+      <h3>Add to Compare</h3>
 
-      <p>Nothing to Show</p>
       <ul id="paintingList"></ul>
-        <!-- Will be filled in with JS -->
-        <!-- TODO: figure out how to connect CSS with JS to create style for each result. -->
       </div>
     </div>
   </div>
