@@ -31,6 +31,7 @@ h2 {
 #searchBar {
   width: 40%;
   padding: 5px 10px;
+  font-size: 1rem;
   border: 1px solid #a1a1a1;
 }
 
@@ -51,7 +52,7 @@ h2 {
 
 .searchresults {
   margin: 100px auto;
-  width: 70%;
+  width: 60%;
   border: 1px solid #a1a1a1;
 }
 
@@ -63,7 +64,7 @@ h2 {
   margin: 0 10px;
   display: grid;
   grid-gap: 10px;
-  grid-template-columns: 2fr 2fr 1fr;
+  grid-template-columns: 1.5fr 2fr .8fr;
   grid-template-areas: 
       'label label label'
       'painting painting painting';
@@ -78,7 +79,7 @@ h2 {
 }
 
 #paintingList {
-  margin: 0 auto;
+  margin: 0 0 10px;
   display: grid;
   grid-area: painting;
   grid-template-columns: 100%;
@@ -90,28 +91,48 @@ h2 {
   list-style-type: none;
   border: 1px solid #a1a1a1;
   display: grid;
-  grid-template-columns: 1fr 1fr 2fr 1fr;
+  grid-template-columns: 1.5fr 2fr .8fr;
   grid-template-areas: 
-      'image info palette checkbox';
+      'info palette checkbox';
 }
 
-.painting > img {
-  grid-area: image;
-  margin: 5px;
+.paintingimg {
+  float: left;
+  margin-left: 5px;
+  max-width: 80px;
+  max-height: 80px;
 }
 
 .painting > p {
   grid-area: info;
-  margin-bottom: 20px;
+  margin: auto 0;
+}
+
+.info {
+  margin: auto 0;
+  grid-area: info;
+  display: inline;
+  margin-left: 85px;
   text-align: left;
 }
 
 .painting > .palette {
+  margin: auto auto;
   grid-area: palette;
 }
 
+.box {
+  float: left;
+  margin: 20px 5px;
+  width: 50px;
+  height: 50px;
+}
+
 .painting > #checkbox {
+  margin: auto auto;
   grid-area: checkbox;
+  width: 40px;
+  height: 40px;
 }
 
 /* COMPARE PANEL */
