@@ -19,12 +19,11 @@
           id="searchBar"
           placeholder="Search for anything"
       />
-      <img class="help-icon" src="/imgs/help.png" alt="help button">
+      <a href="/"><img class="help-icon" src="/imgs/help.png" alt="help button"></a>
   </div>
 
-  <!-- TODO: figure out best way to make results layout -->
   <div class="searchresults">
-    <h2 id="searchString">Search Results</h2>
+    <h2 class="resultstitle">Search Results</h2>
     <div class="results">
       <h3>Overview</h3>
       <h3>Palette Preview</h3>
@@ -35,11 +34,13 @@
     </div>
   </div>
 
-  <div class="comparepaintings">
-    <div class="list">
+  <div class="compareresults">
+    <h2 class="resultstitle">Compare Paintings</h2>
+    <div class="compare">
       <!-- TODO: possibly change class name even though results and compare paintings lists are somewhat similar -->
+      <ul id="compareList"></ul>
     </div>
-    <!-- compare button -->
+    <button class="comparebutton">Compare</button>
   </div>
 
   <script src="/js/main.js"></script>
