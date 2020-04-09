@@ -1,7 +1,6 @@
-# IntVisFinal
-Interactive Visualization Final Project
+# IntVisFinal (Name not yet decided)
 
-An interface for visualization the color palettes of various paintings across several centuries of art. Currently a work in progress.
+An interface for visualizing the color palettes of various paintings across several centuries of art. Currently a work in progress.
 
 ## Modules
 * web - Our main interface / visualization, using javascript
