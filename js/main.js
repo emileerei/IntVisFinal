@@ -60,7 +60,6 @@ searchBar.addEventListener("keyup", e => {
   let filteredPaintings = [];
   fp.forEach(arr => {
     arr.forEach(painting => {
-      // console.log(painting);
       // makes sure there are no duplicates in final array
       if( !filteredPaintings.includes(painting) ) {
         filteredPaintings.push(painting);
