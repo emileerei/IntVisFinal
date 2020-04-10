@@ -96,7 +96,7 @@ h2 {
 
 .paintingimg {
   float: left;
-  margin-left: 5px;
+  margin-left: 10px;
   max-width: 80px;
   max-height: 80px;
 }
@@ -122,8 +122,8 @@ h2 {
 .box {
   float: left;
   margin: 20px 5px;
-  width: 50px;
-  height: 50px;
+  width: 60px;
+  height: 60px;
 }
 
 .painting > #checkbox {
@@ -134,7 +134,7 @@ h2 {
 /* COMPARE PANEL */
 
 .compareresults {
-  margin: 100px 0 0 30px;
+  margin: 100px 0 0 50px;
   float: left;
   width: 20%;
   border: 1px solid #a1a1a1;
