@@ -49,6 +49,20 @@ h2 {
   margin-top: -40px;
 }
 
+.navlink {
+  display: inline-block;
+  margin-right: 10px;
+  color: #000;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.home-icon {
+  margin: 0 auto;
+  width: 20px;
+}
+
 /* SEARCH RESULTS */
 
 .searchresults {
@@ -136,7 +150,7 @@ h2 {
 .compareresults {
   margin: 100px 0 0 50px;
   float: left;
-  width: 20%;
+  width: 15%;
   border: 1px solid #a1a1a1;
 }
 
@@ -165,3 +179,32 @@ h2 {
   font-size: 0.8rem;
   border: 1px solid #a1a1a1;
 }
+
+#searchbutton {
+  margin: 0px auto;
+  font-size: 1rem;
+}
+
+/* RADAR CHART */
+
+.legend {
+  font-family: 'Lato', sans-serif;
+  fill: #333333;
+}
+
+.tooltip {
+  fill: #333333;
+}
+
+.radarchart {
+  display: inline-block;
+}
+
+.radarChart {
+  display: inline-block;
+}
+
+.paintingsidebar {
+  display: inline-block;
+}
+
