@@ -49,6 +49,20 @@ h2 {
   margin-top: -40px;
 }
 
+.navlink {
+  display: inline-block;
+  margin-right: 10px;
+  color: #000;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.home-icon {
+  margin: 0 auto;
+  width: 20px;
+}
+
 /* SEARCH RESULTS */
 
 .searchresults {
@@ -164,4 +178,20 @@ h2 {
   padding: 5px 10px;
   font-size: 0.8rem;
   border: 1px solid #a1a1a1;
+}
+
+#searchbutton {
+  margin: 0px auto;
+  font-size: 1rem;
+}
+
+/* RADAR CHART */
+
+.legend {
+  font-family: 'Lato', sans-serif;
+  fill: #333333;
+}
+
+.tooltip {
+  fill: #333333;
 }
