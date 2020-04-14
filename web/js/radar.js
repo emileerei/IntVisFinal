@@ -390,7 +390,7 @@ var margin = { top: 100, right: 100, bottom: 100, left: 100 },
 function loadJSON(callback) {
   var xobj = new XMLHttpRequest();
   xobj.overrideMimeType("application/json");
-  xobj.open("GET", "/q.json", false);
+  xobj.open("GET", "/data/json/q.json", false);
   xobj.onreadystatechange = function () {
     if (xobj.readyState == 4 && xobj.status == "200") {
       callback(xobj.responseText);
