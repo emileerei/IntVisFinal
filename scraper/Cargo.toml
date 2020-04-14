@@ -1,0 +1,12 @@
+[package]
+name = "scraper"
+version = "0.1.0"
+authors = ["Casey <406326-casey@users.noreply.gitlab.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+csv = "1.1.3"
+serde = {version="1.0.106", features=["derive"]}
+chrono = "0.4.11"
