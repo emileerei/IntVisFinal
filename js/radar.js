@@ -7,8 +7,8 @@
 
 function RadarChart(id, data, options) {
   var cfg = {
-    w: 600, //Width of the circle
-    h: 600, //Height of the circle
+    w: 200, //Width of the circle
+    h: 200, //Height of the circle
     margin: { top: 10, right: 10, bottom: 10, left: 10 }, //The margins of the SVG
     levels: 10, //How many levels or inner circles should there be drawn
     maxValue: 100, //What is the value that the biggest circle will represent
@@ -378,7 +378,7 @@ function RadarChart(id, data, options) {
 			////////////////////////////////////////////////////////////// 
 
 			var margin = {top: 100, right: 100, bottom: 100, left: 100},
-				width = Math.min(700, window.innerWidth - 10) - margin.left - margin.right,
+				width = Math.min(600, window.innerWidth - 10) - margin.left - margin.right,
 				height = Math.min(width, window.innerHeight - margin.top - margin.bottom - 20);
 					
 			////////////////////////////////////////////////////////////// 
@@ -422,7 +422,7 @@ function RadarChart(id, data, options) {
           { axis: "Green", value: paintingDatabase[1].radarGreen + 0.4},
           { axis: "Blue", value: paintingDatabase[1].radarBlue },
           { axis: "Purple", value: paintingDatabase[1].radarPurple + 0.5},
-          { axis: "Black", value: paintingDatabase[1].radarGray + 0.8},
+          { axis: "Black", value: paintingDatabase[1].radarGray + 0.6},
         ],
         [
           //Painting 3
