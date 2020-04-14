@@ -3,7 +3,13 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" type="text/css" href="/css/styles.css">
+
+  <!-- CSS -->
+  <link rel="stylesheet" type="text/css" href="css/styles.css">
+
+  <!-- Google Font -->
+  <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+
   <title>Painting Palette Breakdown</title>
 </head>
 <body>
@@ -11,35 +17,36 @@
   <h1>Painting Palette Breakdown</h1>
 
   <div class="navbar">
-    <img src="/imgs/" alt="website logo">
-    <div class="searchbar">
-      <!-- search bar box -->
-      <!-- search bar button -->
-      <!-- search bar help tooltip/button -->
-    </div>
+    <!-- <img class="logo" src="/imgs/logo.png" alt="website logo"> -->
+      <a class="navlink" href="/index.html"><img class="home-icon" src="imgs/home.png"></a>
+      <input 
+          type="text"
+          name="searchBar" 
+          id="searchBar"
+          placeholder="Search for anything"
+      />
+      <a href="/index.html"><button id="searchbutton" class="comparebutton">Search</button></a>
+      <a href="/"><img class="help-icon" src="imgs/help.png" alt="help button"></a>
   </div>
 
-  <!-- TODO: figure out best way to make results layout -->
   <div class="searchresults">
-    <h2>Search Results</h2>
+    <h2 class="resultstitle" id="searchString">Search Results</h2>
     <div class="results">
-      <div class="rheader">Overview</div>
-      <div class="rheader">Palette Preview</div>
-      <div class="rheader">Add to Compare</div>
-      <div class="list">
-        <p>Nothing to Show</p>
-        <!-- Will be filled in with JS -->
-        <!-- TODO: figure out how to connect CSS with JS to create style for each result. -->
+      <h3>Overview</h3>
+      <h3>Palette Preview</h3>
+      <h3>Compare</h3>
+
+      <ul id="paintingList"></ul>
       </div>
     </div>
   </div>
 
-  <div class="comparepaintings">
-    <div class="list">
-      <!-- TODO: possibly change class name even though results and compare paintings lists are somewhat similar -->
-      <p>Nothing to Compare</p>
+  <div class="compareresults">
+    <h2 class="resultstitle">Compare Paintings</h2>
+    <div class="compare">
+      <ul id="compareList"></ul>
     </div>
-    <!-- compare button -->
+    <a href="/compare.html"><button class="comparebutton">Compare</button></a>
   </div>
 
   <script src="/js/main.js"></script>
