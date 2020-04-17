@@ -17,6 +17,7 @@ function RadarChart(id, data, options) {
     opacityArea: 0.35, //The opacity of the area of the blob
     dotRadius: 4, //The size of the colored circles of each blog
     opacityCircles: 1, //The opacity of the circles of each blob
+    opacity: d3.scale.category10(),
     strokeWidth: 2, //The width of the stroke around each blob
     roundStrokes: true, //If true the area and stroke will follow a round path (cardinal-closed)
     color: d3.scale.category10(), //Color function
@@ -255,6 +256,9 @@ function RadarChart(id, data, options) {
     .style("stroke", function (d, i) {
       return cfg.color(i);
     })
+    .style("opacity", function (d, i) {
+      return cfg.opacity(i);
+    })
     .style("fill", "none");
 
   //Append the circles
@@ -276,7 +280,9 @@ function RadarChart(id, data, options) {
     .style("fill", function (d, i, j) {
       return cfg.color(j);
     })
-    .style("fill-opacity", 0.8);
+    .style("fill-opacity", function (d, i, j) {
+      return cfg.opacity(j);
+    });
 
   /////////////////////////////////////////////////////////
   //////// Append invisible circles for tooltip ///////////
@@ -440,7 +446,8 @@ var data = [
 //////////////////// Draw the Chart //////////////////////////
 //////////////////////////////////////////////////////////////
 
-var color = d3.scale.ordinal().range(["#000", "#000", "#fff"]);
+var color = d3.scale.ordinal().range(["#444", "#444", "#222"]);
+var opacity = d3.scale.ordinal().range([0.5,0.5,0.9]);
 
 var radarChartOptions = {
   w: width,
@@ -450,6 +457,7 @@ var radarChartOptions = {
   levels: 10,
   roundStrokes: true,
   color: color,
+  opacity: opacity,
 };
 //Call function to draw the Radar chart
 RadarChart(".radarChart", data, radarChartOptions);
