@@ -23,7 +23,6 @@ searchBar.addEventListener("keyup", (e) => {
   const searchString = e.target.value.toLowerCase();
   searchResultString.innerHTML = `Search Results for "${searchString}"`;
   // we split the string provided by the user into an array of individual searches
-  // const parsedString = searchString.split(" ");
   const parsedString = parseString(searchString);
   let fp = [];
   parsedString.forEach((element) => {

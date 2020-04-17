@@ -24,12 +24,6 @@ h2 {
   width: 100%;
 }
 
-/* .logo {
-  float: left;
-  width: 3%;
-  margin-right: 20px;
-} */
-
 #searchBar {
   margin: 0 auto;
   width: 30%;
@@ -46,7 +40,8 @@ h2 {
 }
 
 .resultstitle {
-  margin-top: -40px;
+  font-family: 'Roboto Slab', 'serif';
+  margin-top: -30px;
 }
 
 .navlink {
@@ -198,6 +193,7 @@ h2 {
 
 .radarchart {
   display: inline-block;
+  /* margin-right: 50px; */
 }
 
 .radarChart {
@@ -205,6 +201,9 @@ h2 {
 }
 
 .paintingsidebar {
-  display: inline-block;
+  margin: 100px 50px 0 0;
+  float: right;
+  width: 15%;
+  border: 1px solid #a1a1a1;float: right;
+  border: 1px solid black;
 }
-

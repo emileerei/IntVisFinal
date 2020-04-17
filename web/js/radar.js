@@ -9,10 +9,10 @@ function RadarChart(id, data, options) {
   var cfg = {
     w: 200, //Width of the circle
     h: 200, //Height of the circle
-    margin: { top: 10, right: 10, bottom: 10, left: 10 }, //The margins of the SVG
+    margin: { top: 0, right: 10, bottom: 0, left: 10 }, //The margins of the SVG
     levels: 10, //How many levels or inner circles should there be drawn
     maxValue: 100, //What is the value that the biggest circle will represent
-    labelFactor: 1.25, //How much farther than the radius of the outer circle should the labels be placed
+    labelFactor: 1.15, //How much farther than the radius of the outer circle should the labels be placed
     wrapWidth: 60, //The number of pixels after which a label needs to be given a new line
     opacityArea: 0.35, //The opacity of the area of the blob
     dotRadius: 4, //The size of the colored circles of each blog
@@ -376,7 +376,7 @@ function RadarChart(id, data, options) {
 //////////////////////// Set-Up //////////////////////////////
 //////////////////////////////////////////////////////////////
 
-var margin = { top: 100, right: 100, bottom: 100, left: 100 },
+var margin = { top: 50, right: 100, bottom: 100, left: 100 },
   width = Math.min(600, window.innerWidth - 10) - margin.left - margin.right,
   height = Math.min(
     width,
@@ -440,7 +440,7 @@ var data = [
 //////////////////// Draw the Chart //////////////////////////
 //////////////////////////////////////////////////////////////
 
-var color = d3.scale.ordinal().range(["#444", "#444", "#444"]);
+var color = d3.scale.ordinal().range(["#000", "#000", "#fff"]);
 
 var radarChartOptions = {
   w: width,
