@@ -1,6 +1,7 @@
 const paintingList = document.getElementById("paintingList");
 const searchResultString = document.getElementById("searchString");
 const searchBar = document.getElementById("searchBar");
+const compareList = document.getElementById("compareList");
 
 function loadJSON(callback) {
   var xobj = new XMLHttpRequest();
@@ -23,7 +24,7 @@ searchBar.addEventListener("keyup", (e) => {
   const searchString = e.target.value.toLowerCase();
   searchResultString.innerHTML = `Search Results for "${searchString}"`;
   // we split the string provided by the user into an array of individual searches
-  const parsedString = parseString(searchString);
+  const parsedString = searchString.split(" ");
   let fp = [];
   parsedString.forEach((element) => {
     if (element.startsWith("title:")) {
@@ -94,6 +95,7 @@ searchBar.addEventListener("keyup", (e) => {
 });
 
 const displayPaintings = (paintings) => {
+  console.log(paintings);
   const htmlString = paintings
     .map((painting) => {
       return `
@@ -107,7 +109,7 @@ const displayPaintings = (paintings) => {
           <div style="background-color:${painting.palette4}" class="box"></div>
           <div style="background-color:${painting.palette5}" class="box"></div>
         </div>
-        <input type="checkbox" id="checkbox" name="checkbox" value="compare">
+        <input type="checkbox" class="checkbox" id=${painting.id} name="checkbox" value="compare">
       </li>
     `;
     })
@@ -115,8 +117,65 @@ const displayPaintings = (paintings) => {
   paintingList.innerHTML = htmlString;
 };
 
-function parseString(searchString) {
-  const parsedString = searchString.split(" ");
+var selections = [];
+document.body.addEventListener('change', function(e) {
+  console.log(e.target);
+  var checkboxes = document.querySelectorAll('input[type=checkbox]');
+  for (var checkbox of checkboxes) {
+    var updated;
+    checkbox.addEventListener('change', function(event) {
+      if (event.target.checked) {
+        updated = addComparisons(event.target.id, selections);
+        selections = [updated];
+        displayComparison(updated);
+      } else {
+        updated = removeComparisons(event.target.id, selections);
+        selections = [updated];
+        displayComparison(updated);
+      }
+    })
+  }
+}, false);
 
-  return parsedString;
+function addComparisons(id, selected) {
+  selected.push(paintingDatabase.filter((painting) => {
+    return painting.id == id;
+  }));
+
+  var updated_selections = [];
+  selected.forEach(arr => {
+    arr.forEach(e => {
+      if (!updated_selections.includes(e)) {
+        updated_selections.push(e);
+      }
+    });
+  });
+  selected = updated_selections;
+  return updated_selections;
+}
+
+function removeComparisons(id, selected) {
+  var updated_selections = [];
+  selected.forEach(arr => {
+    arr.forEach(p => {
+      if (p.id != id && !updated_selections.includes(p)) {
+        updated_selections.push(p);
+      }
+    })
+  });
+  selected = updated_selections;
+  return updated_selections;
+}
+
+const displayComparison = (ids) => {
+  const htmlString = ids
+    .map((pid) => {
+      return `<li class="compares">   
+        <p>
+        <div class="info"><strong>${pid.title}</strong> <br /> ${pid.author}</div></p>
+      </li>
+    `;
+    })
+    .join("");
+  compareList.innerHTML = htmlString;
 }

@@ -410,6 +410,7 @@ loadJSON(function (json) {
   paintingDatabase = JSON.parse(json);
 });
 
+
 var data = [
   [
     //Painting 1
