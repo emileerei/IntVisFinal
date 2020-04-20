@@ -149,33 +149,52 @@ h2 {
   border: 1px solid #a1a1a1;
 }
 
+.scrollcover {
+  max-height: 400px;
+  overflow: scroll;
+}
+
 #compareList {
   margin: 0 10px 10px;
   display: grid;
-  grid-area: painting;
   grid-template-columns: 100%;
   grid-gap: 10px;
   padding: 0;
 }
 
 .compares {
+  margin: 0;
+  padding: 10px 0;
   list-style-type: none;
   border: 1px solid #a1a1a1;
   display: grid;
-  grid-template-columns: 3fr 1fr;
+  grid-template-columns: 3fr 0.5fr;
   grid-template-areas: 
       'info checkbox';
 }
 
-.info {
+.compares > p {
+  grid-area: info;
+  margin: auto 0;
+}
+
+.paintingimg3 {
+  float: left;
+  margin-left: 10px;
+  max-width: 80px;
+  max-height: 80px;
+}
+
+.compares > .info {
   margin: auto 0;
   grid-area: info;
   display: inline;
   margin-left: 100px;
   text-align: left;
+  font-size: 0.8rem;
 }
 
-.checkbox {
+.compares > .checkbox {
   margin: auto auto;
   grid-area: checkbox;
 }
@@ -205,20 +224,28 @@ h2 {
 }
 
 .radarchart {
+  margin-top: 20px;
   display: inline-block;
-  /* margin-left: 200px; */
+}
+
+/* if no fixed pos: remove this */
+.radarchart > h2 {
+  position: fixed;
+  margin-left: -80px;
 }
 
 .radarChart {
   display: inline-block;
+  /* if no fixed pos: remove this */
+  position: fixed;
+  margin-top: 70px;
+  margin-left: -250px;
 }
 
 .paintingsidebar {
-  margin: 100px 50px 0 0;
+  margin: 50px 100px 0 0;
   float: right;
-  width: 30%;
-  border: 1px solid #a1a1a1;
-  border: 1px solid black;
+  width: 32%;
 }
 
 #selectedList {
@@ -228,15 +255,21 @@ h2 {
 }
 
 .selectedPainting {
-  margin: auto 0;
-  padding: 5px;
+  margin: 10px 0;
+  padding: 10px;
   list-style-type: none;
   border: 1px solid #a1a1a1;
   display: grid;
-  grid-template-columns: 1fr 3fr;
+  grid-template-columns: 1fr 4fr;
   grid-template-areas: 
       'image info'
       'image palette';
+}
+
+.selectedPainting > p {
+  grid-area: image;
+  padding: 0;
+  margin: 0;
 }
 
 .selectedPainting > .info {
@@ -245,11 +278,24 @@ h2 {
   display: inline;
   text-align: left;
   font-size: 0.8rem;
+  margin-left: 10px;
 }
 
 .selectedPainting > .palette {
   margin: auto 0;
   grid-area: palette;
+  margin-left: 10px;
+}
+
+.selectedtitle {
+  margin: 50px 0 0;
+  line-height: 0;
+}
+
+.paintingimg2 {
+  float: left;
+  max-width: 100px;
+  max-height: 100px;
 }
 
 .selectedImagePreview {
@@ -261,5 +307,5 @@ h2 {
   width: 40px;
   height: 40px;
   float: left;
-  margin: 2px 4px;
+  margin: 2px 4px 0;
 }

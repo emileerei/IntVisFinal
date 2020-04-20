@@ -22,40 +22,24 @@
   <div class="navbar">
     <!-- <img class="logo" src="/imgs/logo.png" alt="website logo"> -->
       <a class="navlink" href="/web/index.html"><img class="home-icon" src="/imgs/home.png"></a>
-      <input 
-          type="text"
-          name="searchBar" 
-          id="searchBar"
-          placeholder="Search for anything"
-      />
-      <a href="/web/index.html"><button id="searchbutton" class="comparebutton">Search</button></a>
+    
       <a href="/web/index.html"><img class="help-icon" src="/imgs/help.png" alt="help button"></a>
   </div>
 
   <div class="radarchart">
     <h2>Radar Chart Comparison</h2>
-    <h3 id="paintingTitle" style="line-height: 5px;">Selected Painting Title</h3>
-    <h4 id="paintingArtist" style="line-height: 0px;">Artist Name</h4>
-    
     <div class="radarChart"></div>
 
   </div>
 
   <div class="paintingsidebar">
+    <h3 id="paintingTitle" style="line-height: 5px;">Selected Painting Title</h3>
+    <h4 id="paintingArtist" style="line-height: 0px;">Artist Name</h4>
     <div id="selectedPaintingImage"></div>
-    <div class="selectedlist">
-      <h3 class="resultstitle">Selected Paintings</h3>
-      <ul id="selectedList"></ul>
+    <h3 class="selectedtitle">Selected Paintings</h3>
+    <ul id="selectedList"></ul>
     </div>
   </div>
-
-  <!-- <div class="compareresults">
-    <h3 class="resultstitle">Compare Paintings</h3>
-    <div class="compare">
-      <ul id="compareList"></ul>
-    </div>
-    <a href="/web/compare.html"><button class="comparebutton">Compare</button></a>
-  </div> -->
 
   <script src="/web/js/radar.js"></script>
 

@@ -484,14 +484,17 @@ function populateSelectionSidebar(paintings) {
     image.innerHTML = `<img class="selectedImagePreview" src="${paintings[0].url}">`
   }
 
+// TODO: put background color on selected/focus painting (if statement?)
   paintings.forEach(painting => {
     console.log(painting);
     const htmlString = paintings
       .map((painting) => {
         return `
       <li class="selectedPainting">   
-        <div class="info"><strong>${painting.title}</strong> <span style="float:right;">${painting.date}</span>
-        <br /> ${painting.author}</div>
+        <p>
+        <img class="paintingimg2" src="${painting.url}">
+        <div class="info"><span style="text-overflow:ellipsis; overflow:hidden;"><strong>${painting.title}</strong></span> <span style="float:right;">${painting.date}</span>
+        <br /> ${painting.author}<span style="text-transform:capitalize; float:right;">${painting.painting_type}</span></div></p>
         <div class="palette">
           <div style="background-color:${painting.palette1}" class="smallbox"></div>
           <div style="background-color:${painting.palette2}" class="smallbox"></div>

@@ -99,9 +99,11 @@ const displayPaintings = (paintings) => {
   const htmlString = paintings
     .map((painting) => {
       return `
-      <li class="painting">   
-        <p> 
-        <div class="info"><strong>${painting.title}</strong> <br /> ${painting.author}</div></p>
+      <li class="painting">  
+      <p>
+      <img class="paintingimg" src="${painting.url}">
+        <div class="info">
+        <strong>${painting.title}</strong> <br /> ${painting.author}</div></p>
         <div class="palette">
           <div style="background-color:${painting.palette1}" class="box"></div>
           <div style="background-color:${painting.palette2}" class="box"></div>
@@ -178,7 +180,9 @@ const displayComparison = (ids) => {
     .map((pid) => {
       return `<li class="compares">   
         <p>
+        <img class="paintingimg3" src="${pid.url}">
         <div class="info"><strong>${pid.title}</strong> <br /> ${pid.author}</div></p>
+        <input type="checkbox" class="checkbox" id=${pid.id} name="checkbox" value="compare">
       </li>
     `;
     })
