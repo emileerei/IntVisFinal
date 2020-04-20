@@ -126,11 +126,15 @@ document.body.addEventListener('change', function(e) {
     checkbox.addEventListener('change', function(event) {
       if (event.target.checked) {
         updated = addComparisons(event.target.id, selections);
+        updated[0]["selected"] = true;
         selections = [updated];
+        localStorage.setItem('current-comparisons', JSON.stringify(updated));
         displayComparison(updated);
       } else {
         updated = removeComparisons(event.target.id, selections);
+        updated[0]["selected"] = true;
         selections = [updated];
+        localStorage.setItem('current-comparisons', JSON.stringify(updated));
         displayComparison(updated);
       }
     })
@@ -146,6 +150,7 @@ function addComparisons(id, selected) {
   selected.forEach(arr => {
     arr.forEach(e => {
       if (!updated_selections.includes(e)) {
+        e["selected"] = false;
         updated_selections.push(e);
       }
     });
@@ -159,6 +164,7 @@ function removeComparisons(id, selected) {
   selected.forEach(arr => {
     arr.forEach(p => {
       if (p.id != id && !updated_selections.includes(p)) {
+        p["selected"] = false;
         updated_selections.push(p);
       }
     })
