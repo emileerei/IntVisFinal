@@ -206,7 +206,7 @@ h2 {
 
 .radarchart {
   display: inline-block;
-  /* margin-right: 50px; */
+  /* margin-left: 200px; */
 }
 
 .radarChart {
@@ -216,7 +216,50 @@ h2 {
 .paintingsidebar {
   margin: 100px 50px 0 0;
   float: right;
-  width: 15%;
-  border: 1px solid #a1a1a1;float: right;
+  width: 30%;
+  border: 1px solid #a1a1a1;
   border: 1px solid black;
+}
+
+#selectedList {
+  margin: auto 0;
+  padding: 10px;
+  list-style-type: none;
+}
+
+.selectedPainting {
+  margin: auto 0;
+  padding: 5px;
+  list-style-type: none;
+  border: 1px solid #a1a1a1;
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+  grid-template-areas: 
+      'image info'
+      'image palette';
+}
+
+.selectedPainting > .info {
+  margin: auto 0;
+  grid-area: info;
+  display: inline;
+  text-align: left;
+  font-size: 0.8rem;
+}
+
+.selectedPainting > .palette {
+  margin: auto 0;
+  grid-area: palette;
+}
+
+.selectedImagePreview {
+  max-height: 300px;
+  max-width: 400px;
+}
+
+.smallbox {
+  width: 40px;
+  height: 40px;
+  float: left;
+  margin: 2px 4px;
 }

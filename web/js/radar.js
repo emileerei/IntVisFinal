@@ -477,5 +477,33 @@ function populateTitles(paintings) {
 }
 
 function populateSelectionSidebar(paintings) {
-  
+  var image = document.getElementById("selectedPaintingImage");
+  var selectedList = document.getElementById("selectedList");
+
+  if (paintings[0].selected) {
+    image.innerHTML = `<img class="selectedImagePreview" src="${paintings[0].url}">`
+  }
+
+  paintings.forEach(painting => {
+    console.log(painting);
+    const htmlString = paintings
+      .map((painting) => {
+        return `
+      <li class="selectedPainting">   
+        <div class="info"><strong>${painting.title}</strong> <span style="float:right;">${painting.date}</span>
+        <br /> ${painting.author}</div>
+        <div class="palette">
+          <div style="background-color:${painting.palette1}" class="smallbox"></div>
+          <div style="background-color:${painting.palette2}" class="smallbox"></div>
+          <div style="background-color:${painting.palette3}" class="smallbox"></div>
+          <div style="background-color:${painting.palette4}" class="smallbox"></div>
+          <div style="background-color:${painting.palette5}" class="smallbox"></div>
+        </div>
+      </li>
+    `;
+    })
+    .join("");
+
+    selectedList.innerHTML = htmlString;
+  });
 }
