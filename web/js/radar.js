@@ -14,7 +14,7 @@ function RadarChart(id, data, options) {
     maxValue: 100, //What is the value that the biggest circle will represent
     labelFactor: 1.15, //How much farther than the radius of the outer circle should the labels be placed
     wrapWidth: 60, //The number of pixels after which a label needs to be given a new line
-    opacityArea: 0.35, //The opacity of the area of the blob
+    opacityArea: 0.45, //The opacity of the area of the blob
     dotRadius: 4, //The size of the colored circles of each blog
     opacityCircles: 1, //The opacity of the circles of each blob
     opacity: d3.scale.category10(),
@@ -410,55 +410,72 @@ loadJSON(function (json) {
   paintingDatabase = JSON.parse(json);
 });
 
+var data2;
 
-var data = [
-  [
-    //Painting 1
-    { axis: "Red", value: paintingDatabase[0].radarRed + 0.8 },
-    { axis: "Orange", value: paintingDatabase[0].radarOrange + 0.2 },
-    { axis: "Yellow", value: paintingDatabase[0].radarYellow + 0.3 },
-    { axis: "Green", value: paintingDatabase[0].radarGreen + 0.1 },
-    { axis: "Blue", value: paintingDatabase[0].radarBlue + 0.1 },
-    { axis: "Purple", value: paintingDatabase[0].radarPurple + 0.1 },
-    { axis: "Black", value: paintingDatabase[0].radarGray + 0.2 },
-  ],
-  [
-    //Painting 2
-    { axis: "Red", value: paintingDatabase[1].radarRed + 0.4 },
-    { axis: "Orange", value: paintingDatabase[1].radarOrange + 0.5 },
-    { axis: "Yellow", value: paintingDatabase[1].radarYellow + 0.5 },
-    { axis: "Green", value: paintingDatabase[1].radarGreen + 0.4 },
-    { axis: "Blue", value: paintingDatabase[1].radarBlue },
-    { axis: "Purple", value: paintingDatabase[1].radarPurple + 0.5 },
-    { axis: "Black", value: paintingDatabase[1].radarGray + 0.6 },
-  ],
-  [
-    //Painting 3
-    { axis: "Red", value: paintingDatabase[2].radarRed },
-    { axis: "Orange", value: paintingDatabase[2].radarOrange },
-    { axis: "Yellow", value: paintingDatabase[2].radarYellow },
-    { axis: "Green", value: paintingDatabase[2].radarGreen },
-    { axis: "Blue", value: paintingDatabase[2].radarBlue },
-    { axis: "Purple", value: paintingDatabase[2].radarPurple },
-    { axis: "Black", value: paintingDatabase[2].radarGray },
-  ],
-];
-//////////////////////////////////////////////////////////////
-//////////////////// Draw the Chart //////////////////////////
-//////////////////////////////////////////////////////////////
+document.addEventListener('DOMContentLoaded', function() {
+  var comparisons = JSON.parse(localStorage.getItem('current-comparisons'));
+  console.log(comparisons);
+  data2 = populateRadarData(comparisons);
+  populateTitles(comparisons);
+  populateSelectionSidebar(comparisons);
 
-var color = d3.scale.ordinal().range(["#444", "#444", "#222"]);
-var opacity = d3.scale.ordinal().range([0.5,0.5,0.9]);
+  var color = d3.scale.ordinal().range(populateRange(data2.length, "#111", "#999"));
+  var opacity = d3.scale.ordinal().range(populateRange(data2.length, 0.9, 0.7));
 
-var radarChartOptions = {
-  w: width,
-  h: height,
-  margin: margin,
-  maxValue: 1,
-  levels: 10,
-  roundStrokes: true,
-  color: color,
-  opacity: opacity,
-};
-//Call function to draw the Radar chart
-RadarChart(".radarChart", data, radarChartOptions);
+  var radarChartOptions = {
+    w: width,
+    h: height,
+    margin: margin,
+    maxValue: 1,
+    levels: 10,
+    roundStrokes: true,
+    color: color,
+    opacity: opacity,
+  };
+  //Call function to draw the Radar chart
+  RadarChart(".radarChart", data2, radarChartOptions);
+});
+
+// uses the data provided from search page to populate the radar chart's data
+function populateRadarData(paintings) {
+  var data = [];
+  var colorArray = ["Red", "Orange", "Yellow", "Green", "Blue", "Purple", "Black"];
+
+  paintings.forEach(p => {
+    data.push([{ axis: colorArray[0], value: p.radarRed + Math.random() },
+      { axis: colorArray[1], value: p.radarOrange + Math.random() },
+      { axis: colorArray[2], value: p.radarYellow + Math.random() },
+      { axis: colorArray[3], value: p.radarGreen + Math.random() },
+      { axis: colorArray[4], value: p.radarBlue + Math.random() },
+      { axis: colorArray[5], value: p.radarPurple + Math.random() },
+      { axis: colorArray[6], value: p.radarGray + Math.random() }]);
+  });
+
+  return data;
+}
+
+// used for generating the range of colors and opacities for the radar chart blobs
+function populateRange(n, primary, secondary) {
+  var range = [];
+  for (var i = 0; i < n; i++) {
+    if (i != n-1) {
+      range.push(secondary);
+    }
+  }
+  range.push(primary);
+
+  return range;
+}
+
+function populateTitles(paintings) {
+  var title = document.getElementById("paintingTitle");
+  var artist = document.getElementById("paintingArtist");
+  if (paintings[0].selected) {
+    title.innerHTML = paintings[0].title;
+    artist.innerHTML = paintings[0].author;
+  }
+}
+
+function populateSelectionSidebar(paintings) {
+  
+}
