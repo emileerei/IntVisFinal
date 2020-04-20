@@ -15,11 +15,11 @@ NUM_COLORS = 7
 # TODO: update with final values
 def compute_histogram(h, s, v):
     conditions = [
-        h < 7,  # red
+        h < 9,  # red
         h < 21,  # orange
-        h < 31,  # yellow
-        h < 75,  # green
-        h < 132,  # blue
+        h < 33,  # yellow
+        h < 82,  # green
+        h < 128,  # blue
         h < 171,  # purple
         True  # red again
     ]
