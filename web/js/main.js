@@ -3,6 +3,16 @@ const searchResultString = document.getElementById("searchString");
 const searchBar = document.getElementById("searchBar");
 const compareList = document.getElementById("compareList");
 
+// For only a few images per page
+// TODO: make it configurable
+var perPage = 5; // const
+var pageNum = 0;
+
+function setPage(num) {
+  pageNum = num;
+  parseSearchResults();
+}
+
 function loadJSON(callback) {
   var xobj = new XMLHttpRequest();
   xobj.overrideMimeType("application/json");
@@ -20,8 +30,51 @@ loadJSON(function (json) {
   paintingDatabase = JSON.parse(json);
 });
 
-searchBar.addEventListener("keyup", (e) => {
-  const searchString = e.target.value.toLowerCase();
+function populatePageLinks(total) {
+  var pageLinkDiv = document.getElementById("pageLinks");
+
+  // Remove all existing children
+  while (pageLinkDiv.firstChild) {
+    pageLinkDiv.removeChild(pageLinkDiv.lastChild);
+  }
+
+  // Add text / dropdown box maybe
+  var t = document.createTextNode(total + " Results (" + perPage + " per page):\t");
+  pageLinkDiv.appendChild(t);
+
+  var whitespace = document.createTextNode("\u00A0");
+  pageLinkDiv.appendChild(whitespace);
+
+
+  // Add all the links
+  var numPages = total / perPage;
+
+  for (var i = 0; i < numPages; ++i) {
+    if (pageNum != i) {
+      var a = document.createElement('a');
+      var linkText = document.createTextNode("" + (i + 1))
+      a.appendChild(linkText);
+      a.title = "tooltip";
+      a.href = "javascript:setPage(" + i + ")";
+      pageLinkDiv.appendChild(a);
+    }
+    else {
+      var linkText = document.createTextNode("" + (i + 1))
+      pageLinkDiv.appendChild(linkText);
+    }
+
+    // Add a gap between links
+    var whitespace = document.createTextNode("\u00A0");
+    pageLinkDiv.appendChild(whitespace);
+
+
+  }
+
+}
+
+function parseSearchResults() {
+  //const searchString = e.target.value.toLowerCase();
+  const searchString = searchBar.value.toLowerCase();
   searchResultString.innerHTML = `Search Results for "${searchString}"`;
   // we split the string provided by the user into an array of individual searches
   const parsedString = searchString.split(" ");
@@ -92,8 +145,18 @@ searchBar.addEventListener("keyup", (e) => {
   });
 
   displayPaintings(filteredPaintings);
+  populatePageLinks(filteredPaintings.length);
+
+}
+
+searchBar.addEventListener("keyup", (e) => {
+  pageNum = 0;
+  parseSearchResults();
 });
 
+// TODO: remove hardcoded palette[0] etc. to make it flexible and handle the whole list
+// can replace painting.local_img with painting.img_url to download it from wga
+// i have the images downloaded in images/*/*.jpg
 const displayPaintings = (paintings) => {
   console.log(paintings);
   const htmlString = paintings
@@ -101,20 +164,21 @@ const displayPaintings = (paintings) => {
       return `
       <li class="painting">  
       <p>
-      <img class="paintingimg" src="${painting.url}">
+      <img class="paintingimg" src="${painting.local_img}">
         <div class="info">
         <strong>${painting.title}</strong> <br /> ${painting.author}</div></p>
         <div class="palette">
-          <div style="background-color:${painting.palette1}" class="box"></div>
-          <div style="background-color:${painting.palette2}" class="box"></div>
-          <div style="background-color:${painting.palette3}" class="box"></div>
-          <div style="background-color:${painting.palette4}" class="box"></div>
-          <div style="background-color:${painting.palette5}" class="box"></div>
+          <div style="background-color:${painting.palette[0]}" class="box" title="${painting.palette[0]}"></div>
+          <div style="background-color:${painting.palette[1]}" class="box" title="${painting.palette[1]}"></div>
+          <div style="background-color:${painting.palette[2]}" class="box" title="${painting.palette[2]}"></div>
+          <div style="background-color:${painting.palette[3]}" class="box" title="${painting.palette[3]}"></div>
+          <div style="background-color:${painting.palette[4]}" class="box" title="${painting.palette[4]}"></div>
         </div>
         <input type="checkbox" class="checkbox" id=${painting.id} name="checkbox" value="compare">
       </li>
     `;
     })
+    .slice(pageNum * perPage, pageNum * perPage + perPage)
     .join("");
   paintingList.innerHTML = htmlString;
 };
@@ -180,7 +244,7 @@ const displayComparison = (ids) => {
     .map((pid) => {
       return `<li class="compares">   
         <p>
-        <img class="paintingimg3" src="${pid.url}">
+        <img class="paintingimg3" src="${pid.local_img}">
         <div class="info"><strong>${pid.title}</strong> <br /> ${pid.author}</div></p>
         <input type="checkbox" class="checkbox" id=${pid.id} name="checkbox" value="compare">
       </li>

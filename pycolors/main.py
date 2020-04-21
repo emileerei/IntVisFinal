@@ -1,6 +1,160 @@
 import cv2
 import numpy as np
 
+import time
+import csv
+import json
+
+
+def page_url_to_url(page):
+    page = page.replace(".html", ".jpg")
+    page = page.replace("/html/", "/art/")
+    return page
+
+
+def get_local_img_loc(id, author):
+    first_letter = author[0].lower()
+    filename = "images/{}/{}.jpg".format(author[0].lower(), id)
+    # print(filename)
+    return filename
+
+
+def get_local_loc(id, author):
+    first_letter = author[0].lower()
+    filename = "/images/{}/{}.jpg".format(author[0].lower(), id)
+    # print(filename)
+    return filename
+
+
+def rgb_to_hexcode(rgb):
+    rgb = (rgb[0][0], rgb[0][1], rgb[0][2])
+    return '#%02x%02x%02x' % rgb
+
+
+# rgb_to_hex((255, 255, 195))
+
+def palette_to_json_string_list(palette):
+    # def palette_to_json_string(palette):
+    # palette = np.array([[ 73, 132, 136], [121, 133, 143], [173, 134, 144], [176, 134, 144], [179, 134, 144]], dtype=np.uint8).reshape(5, 1, 3)
+    # print("palette original", palette.shape)
+    pal = np.array(palette, dtype=np.uint8).reshape(PALETTE_SIZE, 1, 3)
+    # print(pal)
+    # print(pal.shape)
+    rgb = cv2.cvtColor(pal, cv2.COLOR_LAB2RGB)
+    hex_codes = []
+    for r in rgb:
+        hex = rgb_to_hexcode(r)
+        hex_codes.append(hex)
+        # print("RGB:", r, "HEX:", hex)
+
+    # final = "[" + ", ".join(hex_codes) + "]"
+    # print("Hex:", final)
+    return hex_codes
+
+
+def work(input_filename):
+    img_bgr = cv2.imread(input_filename)
+    img_hsv = np.array(cv2.cvtColor(img_bgr, cv2.COLOR_BGR2HSV))
+    img_lab = np.array(cv2.cvtColor(img_bgr, cv2.COLOR_BGR2LAB))
+
+    # Flattened HSV vectors
+    hs = img_hsv[:, :, 0].flatten()
+    ss = img_hsv[:, :, 1].flatten()
+    vs = img_hsv[:, :, 2].flatten()
+
+    hist = compute_histogram(hs, ss, vs)
+    # print(hist)
+
+    (palette, iter) = compute_palette(img_hsv, img_lab)
+    hex_string_list = palette_to_json_string_list(palette)
+    # print(hex_string_list)
+
+    return (hist, hex_string_list, iter)
+    # output_palette(palette, output_filename)
+
+
+# ID,AUTHOR,TIMELINE,DATE,TITLE,TECHNIQUE,TYPE,URL
+def parse_csv_image(index, total, csv_img):
+    id = csv_img['ID']
+    author = csv_img['AUTHOR']
+    timeline = csv_img['TIMELINE']
+    date = csv_img['DATE']
+    title = csv_img['TITLE']
+    tech = csv_img['TECHNIQUE']
+    type = csv_img['TYPE']
+    page_url = csv_img['URL']
+
+    img_url = page_url_to_url(page_url)
+    input_filename = get_local_img_loc(id, author)
+    local_loc = get_local_loc(id, author)
+
+    # print("", index, "/", total, ":" author, title)
+    print("{}/{}: {} ({})".format(index, total, title, author))
+    (hist, hex_string_list, iter) = work(input_filename)
+
+    j = json.dumps(
+        {
+            "author": author,
+            "date": date,
+            "id": id,
+            "painting_type": type,
+            "palette": hex_string_list,
+            "radar_hist": hist.tolist(),
+            "technique": tech,
+            "timeline": timeline,
+            "title": title,
+            "wga_url": page_url,
+            "img_url": img_url,
+            "iterations_taken": iter,
+            "local_img": local_loc
+        }
+    )
+
+    # print("Final json object")
+    # print(j)
+
+    return j
+
+
+def read_csv(filename):
+
+    overall_start_time = time.time()
+
+    with open(filename) as file:
+        total = 0
+        for _ in csv.DictReader(file):
+            total += 1
+
+    with open(filename) as file:
+        reader = csv.DictReader(file)
+        objs = []
+        pos = 0
+
+        print("There are", total, "images in", filename)
+
+        for row in reader:
+            start_time = time.time()
+            obj = parse_csv_image(pos, total, row)
+            print("Finished:", obj)
+            print("\tTook", time.time() - start_time, "seconds")
+            objs.append("\t" + obj)
+
+            pos = pos + 1
+            # if (pos == 2):
+            #     break
+        # print("OBJ list")
+        # print(objs)
+
+        final = "[\n" + ",\n".join(objs) + "\n]"
+        # print("FINAL JSON")
+        # print(final)
+
+        print("\nFinished. Took", time.time() - overall_start_time, "to complete.")
+        print("--------------------")
+
+        return final
+
+
 # defines
 PALETTE_SIZE = 5
 NUM_ITERATIONS = 40
@@ -170,22 +324,30 @@ def compute_palette(img_hsv, img_lab):
 
     # Sort and create the final output image
     palette = sort_palette(seeds)
-    output_palette(palette, "output.jpg")
+    # output_palette(palette, "output.jpg")
 
-    return palette
+    return (palette, i)
 
 
 if __name__ == "__main__":
-    img_bgr = cv2.imread("test3.jpg")
-    img_hsv = np.array(cv2.cvtColor(img_bgr, cv2.COLOR_BGR2HSV))
-    img_lab = np.array(cv2.cvtColor(img_bgr, cv2.COLOR_BGR2LAB))
+    final_json = read_csv("q.csv")
+    output_json_filename = "q.json"
 
-    # Flattened HSV vectors
-    hs = img_hsv[:, :, 0].flatten()
-    ss = img_hsv[:, :, 1].flatten()
-    vs = img_hsv[:, :, 2].flatten()
+    print("Writing", output_json_filename)
+    out_file = open(output_json_filename, "w")
+    out_file.write(final_json)
+    out_file.close()
 
-    hist = compute_histogram(hs, ss, vs)
-    print(hist)
-
-    pal = compute_palette(img_hsv, img_lab)
+    # img_bgr = cv2.imread("test3.jpg")
+    # img_hsv = np.array(cv2.cvtColor(img_bgr, cv2.COLOR_BGR2HSV))
+    # img_lab = np.array(cv2.cvtColor(img_bgr, cv2.COLOR_BGR2LAB))
+    #
+    # # Flattened HSV vectors
+    # hs = img_hsv[:, :, 0].flatten()
+    # ss = img_hsv[:, :, 1].flatten()
+    # vs = img_hsv[:, :, 2].flatten()
+    #
+    # hist = compute_histogram(hs, ss, vs)
+    # print(hist)
+    #
+    # pal = compute_palette(img_hsv, img_lab)

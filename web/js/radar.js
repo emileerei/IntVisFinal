@@ -95,7 +95,7 @@ function RadarChart(id, data, options) {
     .attr("width", cfg.w / 2)
     .attr("height", cfg.h / 2)
     .append("svg:image")
-    .attr("xlink:href", "/imgs/wheel.png")
+    .attr("xlink:href", "/imgs/wheel2.png")
     .attr("width", cfg.w)
     .attr("height", cfg.h)
     .attr("x", 0)
@@ -441,14 +441,17 @@ function populateRadarData(paintings) {
   var data = [];
   var colorArray = ["Red", "Orange", "Yellow", "Green", "Blue", "Purple", "Black"];
 
+  // JSON values are  ROYGBPG
+  // RADAR values are ROYGBPG
   paintings.forEach(p => {
-    data.push([{ axis: colorArray[0], value: p.radarRed + Math.random() },
-      { axis: colorArray[1], value: p.radarOrange + Math.random() },
-      { axis: colorArray[2], value: p.radarYellow + Math.random() },
-      { axis: colorArray[3], value: p.radarGreen + Math.random() },
-      { axis: colorArray[4], value: p.radarBlue + Math.random() },
-      { axis: colorArray[5], value: p.radarPurple + Math.random() },
-      { axis: colorArray[6], value: p.radarGray + Math.random() }]);
+    data.push([
+      { axis: colorArray[0], value: p.radar_hist[0] + Math.random() },
+      { axis: colorArray[1], value: p.radar_hist[1] + Math.random() },
+      { axis: colorArray[2], value: p.radar_hist[2] + Math.random() },
+      { axis: colorArray[3], value: p.radar_hist[3] + Math.random() },
+      { axis: colorArray[4], value: p.radar_hist[4] + Math.random() },
+      { axis: colorArray[5], value: p.radar_hist[5] + Math.random() },
+      { axis: colorArray[6], value: p.radar_hist[6] + Math.random() }]);
   });
 
   return data;
@@ -481,7 +484,7 @@ function populateSelectionSidebar(paintings) {
   var selectedList = document.getElementById("selectedList");
 
   if (paintings[0].selected) {
-    image.innerHTML = `<img class="selectedImagePreview" src="${paintings[0].url}">`
+    image.innerHTML = `<img class="selectedImagePreview" src="${paintings[0].local_img}">`
   }
 
 // TODO: put background color on selected/focus painting (if statement?)
@@ -492,15 +495,15 @@ function populateSelectionSidebar(paintings) {
         return `
       <li class="selectedPainting">   
         <p>
-        <img class="paintingimg2" src="${painting.url}">
+        <img class="paintingimg2" src="${painting.local_img}">
         <div class="info"><span style="text-overflow:ellipsis; overflow:hidden;"><strong>${painting.title}</strong></span> <span style="float:right;">${painting.date}</span>
         <br /> ${painting.author}<span style="text-transform:capitalize; float:right;">${painting.painting_type}</span></div></p>
         <div class="palette">
-          <div style="background-color:${painting.palette1}" class="smallbox"></div>
-          <div style="background-color:${painting.palette2}" class="smallbox"></div>
-          <div style="background-color:${painting.palette3}" class="smallbox"></div>
-          <div style="background-color:${painting.palette4}" class="smallbox"></div>
-          <div style="background-color:${painting.palette5}" class="smallbox"></div>
+          <div style="background-color:${painting.palette[0]}" class="smallbox" title="${painting.palette[0]}"></div>
+          <div style="background-color:${painting.palette[1]}" class="smallbox" title="${painting.palette[1]}"></div>
+          <div style="background-color:${painting.palette[2]}" class="smallbox" title="${painting.palette[2]}"></div>
+          <div style="background-color:${painting.palette[3]}" class="smallbox" title="${painting.palette[3]}"></div>
+          <div style="background-color:${painting.palette[4]}" class="smallbox" title="${painting.palette[4]}"></div>
         </div>
       </li>
     `;
