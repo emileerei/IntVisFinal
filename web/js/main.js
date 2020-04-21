@@ -1,5 +1,5 @@
 const paintingList = document.getElementById("paintingList");
-const searchResultString = document.getElementById("searchString");
+//const searchResultString = document.getElementById("searchString");
 const searchBar = document.getElementById("searchBar");
 const compareList = document.getElementById("compareList");
 
@@ -75,7 +75,7 @@ function populatePageLinks(total) {
 function parseSearchResults() {
   //const searchString = e.target.value.toLowerCase();
   const searchString = searchBar.value.toLowerCase();
-  searchResultString.innerHTML = `Search Results for "${searchString}"`;
+  //searchResultString.innerHTML = `Search Results for "${searchString}"`;
   // we split the string provided by the user into an array of individual searches
   const parsedString = searchString.split(" ");
   let fp = [];
@@ -252,4 +252,13 @@ const displayComparison = (ids) => {
     })
     .join("");
   compareList.innerHTML = htmlString;
+}
+
+
+// For updating
+window.onload = function setup() {
+  console.log("Loaded");
+  this.parseSearchResults();
+
+  // TODO: update the comparison list here!
 }
