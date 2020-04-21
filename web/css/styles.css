@@ -41,7 +41,7 @@ h2 {
 
 .resultstitle {
   font-family: 'Roboto Slab', 'serif';
-  margin-top: -30px;
+  margin-top: -35px;
 }
 
 .navlink {
@@ -61,7 +61,7 @@ h2 {
 /* SEARCH RESULTS */
 
 .searchresults {
-  margin: 100px 30px 0 0;
+  margin: 100px 30px 50px 0;
   float: right;
   width: 70%;
   border: 1px solid #a1a1a1;
@@ -83,6 +83,11 @@ h2 {
   width: 100%;
   padding: 10px 0;
   border: 1px solid #a1a1a1;
+}
+
+#pageLinks {
+  margin: 0 auto;
+  padding: 0;
 }
 
 #paintingList {
@@ -134,11 +139,25 @@ h2 {
   margin: 20px 5px;
   width: 60px;
   height: 60px;
-  /*
-  Why doesn't this work?
-  stroke: white;
-  stroke-width: 5;
-  */
+}
+
+/* Tooltip text */
+.box .tooltiptext {
+  visibility: hidden;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  padding: 5px 10px;
+  border-radius: 6px;
+ 
+  /* Position the tooltip text - see examples below! */
+  position: absolute;
+  z-index: 1;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.box:hover .tooltiptext {
+  visibility: visible;
 }
 
 .painting > .checkbox {
@@ -157,7 +176,7 @@ h2 {
 
 .scrollcover {
   max-height: 400px;
-  overflow: scroll;
+  overflow-y: scroll;
 }
 
 #compareList {
@@ -315,4 +334,23 @@ h2 {
   height: 40px;
   float: left;
   margin: 2px 4px 0;
+}
+
+/* Tooltip text */
+.smallbox .tooltiptext {
+  visibility: hidden;
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  padding: 5px 10px;
+  border-radius: 6px;
+ 
+  /* Position the tooltip text - see examples below! */
+  position: absolute;
+  z-index: 1;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.smallbox:hover .tooltiptext {
+  visibility: visible;
 }

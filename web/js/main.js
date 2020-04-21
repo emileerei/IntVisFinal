@@ -67,7 +67,6 @@ function populatePageLinks(total) {
     var whitespace = document.createTextNode("\u00A0");
     pageLinkDiv.appendChild(whitespace);
 
-
   }
 
 }
@@ -158,7 +157,7 @@ searchBar.addEventListener("keyup", (e) => {
 // can replace painting.local_img with painting.img_url to download it from wga
 // i have the images downloaded in images/*/*.jpg
 const displayPaintings = (paintings) => {
-  console.log(paintings);
+  // slice, update index
   const htmlString = paintings
     .map((painting) => {
       return `
@@ -170,11 +169,11 @@ const displayPaintings = (paintings) => {
         <div class="info">
         <strong>${painting.title}</strong> <br /> ${painting.author}</div></p>
         <div class="palette">
-          <div style="background-color:${painting.palette[0]}" class="box" title="${painting.palette[0]}"></div>
-          <div style="background-color:${painting.palette[1]}" class="box" title="${painting.palette[1]}"></div>
-          <div style="background-color:${painting.palette[2]}" class="box" title="${painting.palette[2]}"></div>
-          <div style="background-color:${painting.palette[3]}" class="box" title="${painting.palette[3]}"></div>
-          <div style="background-color:${painting.palette[4]}" class="box" title="${painting.palette[4]}"></div>
+          <div style="background-color:${painting.palette[0]}" class="box" title="${painting.palette[0]}"><span class="tooltiptext">${painting.palette[0]}</span></div>
+          <div style="background-color:${painting.palette[1]}" class="box" title="${painting.palette[1]}"><span class="tooltiptext">${painting.palette[1]}</span></div>
+          <div style="background-color:${painting.palette[2]}" class="box" title="${painting.palette[2]}"><span class="tooltiptext">${painting.palette[2]}</span></div>
+          <div style="background-color:${painting.palette[3]}" class="box" title="${painting.palette[3]}"><span class="tooltiptext">${painting.palette[3]}</span></div>
+          <div style="background-color:${painting.palette[4]}" class="box" title="${painting.palette[4]}"><span class="tooltiptext">${painting.palette[4]}</span></div>
         </div>
         <input type="checkbox" class="checkbox" id=${painting.id} name="checkbox" value="compare">
       </li>
@@ -191,7 +190,6 @@ document.body.addEventListener('change', function(e) {
   var checkboxes = document.querySelectorAll('input[type=checkbox]');
   for (var checkbox of checkboxes) {
     var updated;
-    checkbox.addEventListener('change', function(event) {
       if (event.target.checked) {
         updated = addComparisons(event.target.id, selections);
         updated[0]["selected"] = true;
@@ -200,12 +198,13 @@ document.body.addEventListener('change', function(e) {
         displayComparison(updated);
       } else {
         updated = removeComparisons(event.target.id, selections);
-        updated[0]["selected"] = true;
+        if (updated[0]) {
+          updated[0]["selected"] = true;
+        }
         selections = [updated];
         localStorage.setItem('current-comparisons', JSON.stringify(updated));
         displayComparison(updated);
       }
-    })
   }
 }, false);
 
