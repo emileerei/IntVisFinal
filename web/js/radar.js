@@ -426,13 +426,13 @@ function populateRadarData(paintings) {
   // RADAR values are ROYGBPG
   paintings.forEach(p => {
     data.push([
-      { axis: colorArray[0], value: p.radar_hist[0] + Math.random() },
-      { axis: colorArray[1], value: p.radar_hist[1] + Math.random() },
-      { axis: colorArray[2], value: p.radar_hist[2] + Math.random() },
-      { axis: colorArray[3], value: p.radar_hist[3] + Math.random() },
-      { axis: colorArray[4], value: p.radar_hist[4] + Math.random() },
-      { axis: colorArray[5], value: p.radar_hist[5] + Math.random() },
-      { axis: colorArray[6], value: p.radar_hist[6] + Math.random() }]);
+      { axis: colorArray[0], value: p.radar_hist[0] },
+      { axis: colorArray[1], value: p.radar_hist[1] },
+      { axis: colorArray[2], value: p.radar_hist[2] },
+      { axis: colorArray[3], value: p.radar_hist[3] },
+      { axis: colorArray[4], value: p.radar_hist[4] },
+      { axis: colorArray[5], value: p.radar_hist[5] },
+      { axis: colorArray[6], value: p.radar_hist[6] }]);
   });
 
   return data;
@@ -491,11 +491,11 @@ function populateSelectionSidebar(paintings) {
           </div>
         </p>
         <div class="palette">
-          <div style="background-color:${painting.palette[0]}" class="smallbox" title="${painting.palette[0]}"></div>
-          <div style="background-color:${painting.palette[1]}" class="smallbox" title="${painting.palette[1]}"></div>
-          <div style="background-color:${painting.palette[2]}" class="smallbox" title="${painting.palette[2]}"></div>
-          <div style="background-color:${painting.palette[3]}" class="smallbox" title="${painting.palette[3]}"></div>
-          <div style="background-color:${painting.palette[4]}" class="smallbox" title="${painting.palette[4]}"></div>
+          <div style="background-color:${painting.palette[0]}" class="smallbox" title="${painting.palette[0]}"><span class="tooltiptext">${painting.palette[0]}</span></div>
+          <div style="background-color:${painting.palette[1]}" class="smallbox" title="${painting.palette[1]}"><span class="tooltiptext">${painting.palette[1]}</span></div>
+          <div style="background-color:${painting.palette[2]}" class="smallbox" title="${painting.palette[2]}"><span class="tooltiptext">${painting.palette[2]}</span></div>
+          <div style="background-color:${painting.palette[3]}" class="smallbox" title="${painting.palette[3]}"><span class="tooltiptext">${painting.palette[3]}</span></div>
+          <div style="background-color:${painting.palette[4]}" class="smallbox" title="${painting.palette[4]}"><span class="tooltiptext">${painting.palette[4]}</span></div>
         </div>
       </li>
     `;
