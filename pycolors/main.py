@@ -5,6 +5,7 @@ import time
 import csv
 import json
 
+import sys
 
 def page_url_to_url(page):
     page = page.replace(".html", ".jpg")
@@ -328,15 +329,18 @@ def compute_palette(img_hsv, img_lab):
 
     return (palette, i)
 
-
-if __name__ == "__main__":
-    final_json = read_csv("q.csv")
-    output_json_filename = "q.json"
+def process(letter):
+    final_json = read_csv("../data/csv/{}.csv".format(letter))
+    output_json_filename = "output/{}.json".format(letter)
 
     print("Writing", output_json_filename)
     out_file = open(output_json_filename, "w")
     out_file.write(final_json)
     out_file.close()
+
+
+if __name__ == "__main__":
+    process(sys.argv[1])
 
     # img_bgr = cv2.imread("test3.jpg")
     # img_hsv = np.array(cv2.cvtColor(img_bgr, cv2.COLOR_BGR2HSV))
