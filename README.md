@@ -24,3 +24,11 @@ which should compile the program and place an executable in a created target dir
     cargo run
     
 Our Rust modules are currently set up mostly hardcoded and do not take command line arguments, so you'll probably need to edit the main function at the bottom of each src/main.rs file to point it at the right locations/files.
+
+# Todo (web):
+* help button tooltip/popup
+* radar chart blob tooltip
+* hex color for palette hovers
+* selected painting background
+* change focus painting
+* remove search bar

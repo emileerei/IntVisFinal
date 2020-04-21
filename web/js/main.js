@@ -95,7 +95,7 @@ searchBar.addEventListener("keyup", (e) => {
 });
 
 const displayPaintings = (paintings) => {
-  console.log(paintings);
+  // slice, update index
   const htmlString = paintings
     .map((painting) => {
       return `

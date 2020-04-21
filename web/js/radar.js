@@ -393,28 +393,9 @@ var margin = { top: 50, right: 100, bottom: 100, left: 100 },
 ////////////////////////// Data //////////////////////////////
 //////////////////////////////////////////////////////////////
 
-function loadJSON(callback) {
-  var xobj = new XMLHttpRequest();
-  xobj.overrideMimeType("application/json");
-  xobj.open("GET", "/data/json/q.json", false);
-  xobj.onreadystatechange = function () {
-    if (xobj.readyState == 4 && xobj.status == "200") {
-      callback(xobj.responseText);
-    }
-  };
-  xobj.send(null);
-}
-
-var paintingDatabase;
-loadJSON(function (json) {
-  paintingDatabase = JSON.parse(json);
-});
-
 var data2;
-
 document.addEventListener('DOMContentLoaded', function() {
   var comparisons = JSON.parse(localStorage.getItem('current-comparisons'));
-  console.log(comparisons);
   data2 = populateRadarData(comparisons);
   populateTitles(comparisons);
   populateSelectionSidebar(comparisons);
