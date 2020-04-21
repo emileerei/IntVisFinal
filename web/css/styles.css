@@ -108,6 +108,7 @@ h2 {
   margin-left: 10px;
   max-width: 80px;
   max-height: 80px;
+  cursor: pointer;
 }
 
 .painting > p {
@@ -133,6 +134,11 @@ h2 {
   margin: 20px 5px;
   width: 60px;
   height: 60px;
+  /*
+  Why doesn't this work?
+  stroke: white;
+  stroke-width: 5;
+  */
 }
 
 .painting > .checkbox {
@@ -301,6 +307,7 @@ h2 {
 .selectedImagePreview {
   max-height: 300px;
   max-width: 400px;
+  cursor: pointer;
 }
 
 .smallbox {
