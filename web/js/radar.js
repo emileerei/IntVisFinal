@@ -484,8 +484,11 @@ function populateSelectionSidebar(paintings) {
   var selectedList = document.getElementById("selectedList");
 
   if (paintings[0].selected) {
-    image.innerHTML = `<img class="selectedImagePreview" src="${paintings[0].local_img}">`
+    image.innerHTML = `<img class="selectedImagePreview" src="${paintings[0].local_img}" 
+    title="Click to view full" onclick="javascript:window.open('${paintings[0].local_img}', 'Image');" 
+    >`
   }
+    //onclick="${paintings[0].local_img}"
 
 // TODO: put background color on selected/focus painting (if statement?)
   paintings.forEach(painting => {
@@ -495,9 +498,17 @@ function populateSelectionSidebar(paintings) {
         return `
       <li class="selectedPainting">   
         <p>
-        <img class="paintingimg2" src="${painting.local_img}">
-        <div class="info"><span style="text-overflow:ellipsis; overflow:hidden;"><strong>${painting.title}</strong></span> <span style="float:right;">${painting.date}</span>
-        <br /> ${painting.author}<span style="text-transform:capitalize; float:right;">${painting.painting_type}</span></div></p>
+          <img class="paintingimg2" src="${painting.local_img}">
+          <div class="info">
+            <span style="text-overflow:ellipsis; overflow:hidden;">
+              <strong>${painting.title}</strong>
+            </span> 
+            <span style="float:right;">${painting.date}</span>
+            <br /> 
+            ${painting.author}
+            <span style="text-transform:capitalize; float:right;">${painting.painting_type}</span>
+          </div>
+        </p>
         <div class="palette">
           <div style="background-color:${painting.palette[0]}" class="smallbox" title="${painting.palette[0]}"></div>
           <div style="background-color:${painting.palette[1]}" class="smallbox" title="${painting.palette[1]}"></div>

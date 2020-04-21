@@ -164,7 +164,9 @@ const displayPaintings = (paintings) => {
       return `
       <li class="painting">  
       <p>
-      <img class="paintingimg" src="${painting.local_img}">
+      <img class="paintingimg" src="${painting.local_img}"
+      title="Click to view full" onclick="javascript:window.open('${painting.local_img}', 'Image');" 
+      >
         <div class="info">
         <strong>${painting.title}</strong> <br /> ${painting.author}</div></p>
         <div class="palette">
@@ -261,4 +263,6 @@ window.onload = function setup() {
   this.parseSearchResults();
 
   // TODO: update the comparison list here!
+
+  // TODO: make the pagenum local storage and load it between page swaps
 }
