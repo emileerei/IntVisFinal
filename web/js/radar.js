@@ -505,3 +505,8 @@ function populateSelectionSidebar(paintings) {
     selectedList.innerHTML = htmlString;
   });
 }
+
+function helpPopupFunction() {
+  var popup = document.getElementById("helpPopup");
+  popup.classList.toggle("show");
+}

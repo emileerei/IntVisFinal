@@ -87,12 +87,12 @@ function parseSearchResults() {
             .includes(element.replace("title:", ""));
         })
       );
-    } else if (element.startsWith("author:")) {
+    } else if (element.startsWith("artist:")) {
       fp.push(
         paintingDatabase.filter((painting) => {
           return painting.author
             .toLowerCase()
-            .includes(element.replace("author:", ""));
+            .includes(element.replace("artist:", ""));
         })
       );
     } else if (element.startsWith("timeline:")) {
@@ -253,6 +253,11 @@ const displayComparison = (ids) => {
     })
     .join("");
   compareList.innerHTML = htmlString;
+}
+
+function helpPopupFunction() {
+  var popup = document.getElementById("helpPopup");
+  popup.classList.toggle("show");
 }
 
 
