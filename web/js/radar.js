@@ -426,13 +426,13 @@ function populateRadarData(paintings) {
   // RADAR values are ROYGBPG
   paintings.forEach(p => {
     data.push([
-      { axis: colorArray[0], value: p.radar_hist[0] },
-      { axis: colorArray[1], value: p.radar_hist[1] },
-      { axis: colorArray[2], value: p.radar_hist[2] },
-      { axis: colorArray[3], value: p.radar_hist[3] },
-      { axis: colorArray[4], value: p.radar_hist[4] },
-      { axis: colorArray[5], value: p.radar_hist[5] },
-      { axis: colorArray[6], value: p.radar_hist[6] }]);
+      { axis: colorArray[0], value: p.radar[0] },
+      { axis: colorArray[1], value: p.radar[1] },
+      { axis: colorArray[2], value: p.radar[2] },
+      { axis: colorArray[3], value: p.radar[3] },
+      { axis: colorArray[4], value: p.radar[4] },
+      { axis: colorArray[5], value: p.radar[5] },
+      { axis: colorArray[6], value: p.radar[6] }]);
   });
 
   return data;

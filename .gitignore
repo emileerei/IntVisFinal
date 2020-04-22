@@ -1,13 +1,28 @@
 colors/*
 images/*
+
+pycolors/.idea/*
 pycolors/hues/*
 pycolors/hues2/*
 pycolors/sathues/*
 pycolors/output/*
 pycolors/*.out
 pycolors/*.jpg
+pycolors/notes.txt
+pycolors/output.txt
+pycolors/pycolors.iml
+pycolors/q.csv
+pycolors/q.json
+
 scraper/.idea/*
 scraper/target/*
 scraper/output.txt
+
+data/json/new.json
+data/json/old.json
+data/json/oldest.json
+data/json/q.json.BAK
+data/json/q2.json
+data/json/q3.json
 
 

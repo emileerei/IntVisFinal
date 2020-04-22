@@ -1,18 +1,22 @@
 body {
   margin: 0 10px 0 0;
-  font-family: 'Roboto', 'sans-serif';
+  /*font-family: 'Roboto', 'sans-serif';*/
+  /*font-family: 'Martel', serif;*/
   font-size: 1rem;
   color: #000000;
   text-align: center;
+  background-color: #fafafa;
 }
 
 h1 {
-  font-family: 'Roboto Slab', 'serif';
+  /*font-family: 'Roboto Slab', 'serif';*/
+  font-family: 'Martel', serif;
   font-size: 2rem;
 }
 
 h2 {
-  font-family: 'Roboto Slab', 'serif';
+  /*font-family: 'Roboto Slab', 'serif';*/
+  font-family: 'Martel', serif;
   font-size: 1.5rem;
 }
 
@@ -30,6 +34,7 @@ h2 {
   padding: 5px 10px;
   font-size: 1rem;
   border: 1px solid #a1a1a1;
+  border-radius: 5px;
 }
 
 .help-icon {
@@ -96,8 +101,9 @@ h2 {
 }
 
 .resultstitle {
-  font-family: 'Roboto Slab', 'serif';
-  margin-top: -35px;
+  /*font-family: 'Roboto Slab', 'serif';*/
+  font-family: 'Martel', 'serif';
+  /*margin-top: -35px;*/
 }
 
 .navlink {
@@ -121,6 +127,12 @@ h2 {
   float: right;
   width: 70%;
   border: 1px solid #a1a1a1;
+  border-radius: 10px;
+  background-color: #fdfdfd;
+  padding-top: 25px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-bottom: 25px;
 }
 
 .results {
@@ -139,11 +151,11 @@ h2 {
   width: 100%;
   padding: 10px 0;
   border: 1px solid #a1a1a1;
+  border-radius: 5px;
 }
 
 #pageLinks {
   margin: 0 auto;
-  padding: 0;
 }
 
 #paintingList {
@@ -162,6 +174,7 @@ h2 {
   grid-template-columns: 1.5fr 2fr .8fr;
   grid-template-areas: 
       'info palette checkbox';
+      border-radius: 4px;
 }
 
 .paintingimg {
@@ -195,6 +208,7 @@ h2 {
   margin: 20px 5px;
   width: 60px;
   height: 60px;
+  border-radius: 5px;
 }
 
 /* Tooltip text */
@@ -409,4 +423,21 @@ h2 {
 /* Show the tooltip text when you mouse over the tooltip container */
 .smallbox:hover .tooltiptext {
   visibility: visible;
+}
+
+.paintingSearchTechniqueText {
+  color: #7a7a7a;
+  text-shadow: #000;
+  font-family: 'Nunito', sans-serif;
+}
+
+.paintingSearchMainText {
+  color: #000000;
+  /*font-family: 'Nunito', sans-serif;*/
+  font-family: 'EB Garamond', serif;
+  font-size: 13pt;
+}
+
+.mainLogoText {
+  font-family: 'Martel', serif;
 }
