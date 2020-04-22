@@ -1,0 +1,13 @@
+colors/*
+images/*
+pycolors/hues/*
+pycolors/hues2/*
+pycolors/sathues/*
+pycolors/output/*
+pycolors/*.out
+pycolors/*.jpg
+scraper/.idea/*
+scraper/target/*
+scraper/output.txt
+
+
