@@ -114,6 +114,23 @@ fn main() {
     //parse_and_save("../scrape/j.csv", "../images/j/", 0);
     //parse_and_save("../scrape/k.csv", "../images/k/", 0);
 
+    parse_and_save("../../../scrape/l.csv", "../../../images/l/", 0);
+    parse_and_save("../../../scrape/m.csv", "../../../images/m/", 0);
+    parse_and_save("../../../scrape/n.csv", "../../../images/n/", 0);
+    parse_and_save("../../../scrape/o.csv", "../../../images/o/", 0);
+    parse_and_save("../../../scrape/p.csv", "../../../images/p/", 0);
+    parse_and_save("../../../scrape/q.csv", "../../../images/q/", 0);
+    parse_and_save("../../../scrape/r.csv", "../../../images/r/", 0);
+    parse_and_save("../../../scrape/s.csv", "../../../images/s/", 0);
+    parse_and_save("../../../scrape/t.csv", "../../../images/t/", 0);
+    parse_and_save("../../../scrape/u.csv", "../../../images/u/", 0);
+    parse_and_save("../../../scrape/v.csv", "../../../images/v/", 0);
+    parse_and_save("../../../scrape/w.csv", "../../../images/w/", 0);
+    parse_and_save("../../../scrape/x.csv", "../../../images/x/", 0);
+    parse_and_save("../../../scrape/y.csv", "../../../images/y/", 0);
+    parse_and_save("../../../scrape/z.csv", "../../../images/z/", 0);
+
+
     // TODO: make it take command line arguments or something. i'm pretty lazy
     // though so whatever
 }
