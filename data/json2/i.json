@@ -1,0 +1,2132 @@
+[
+  {
+    "author": "IBBETSON, Julius Caesar",
+    "date": "1785",
+    "id": 14557,
+    "local_img": "/images/i/14557.jpg",
+    "num_iterations": 13,
+    "painting_type": "historical",
+    "palette": [
+      "#281a17",
+      "#624634",
+      "#8f7659",
+      "#dbdfd6",
+      "#bcc0bd"
+    ],
+    "radar": [
+      0.10564792156219482,
+      0.2976381480693817,
+      0.05451833829283714,
+      0.003911980427801609,
+      0.03523716330528259,
+      0.002210268983617425,
+      0.500836193561554
+    ],
+    "technique": "Oil on canvas, 50,5 x 61 cm",
+    "time_elapsed": 1,
+    "timeline": "1751-1800",
+    "title": "George Biggins' Ascent in Lunardi' Balloon",
+    "url_wga_info": "https://www.wga.hu/html/i/ibbetson/balloon.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/ibbetson/balloon.jpg"
+  },
+  {
+    "author": "IBBETSON, Julius Caesar",
+    "date": "1792",
+    "id": 14558,
+    "local_img": "/images/i/14558.jpg",
+    "num_iterations": 27,
+    "painting_type": "landscape",
+    "palette": [
+      "#442b0b",
+      "#9f712c",
+      "#734e17",
+      "#d2c48b",
+      "#bcaf7c"
+    ],
+    "radar": [
+      0.00021772152103949338,
+      0.4724658131599426,
+      0.5109873414039612,
+      0.01589873433113098,
+      0.0,
+      0.0,
+      0.00043037976138293743
+    ],
+    "technique": "Oil on canvas, 37 x 46 cm",
+    "time_elapsed": 3,
+    "timeline": "1751-1800",
+    "title": "Landscape with Travellers",
+    "url_wga_info": "https://www.wga.hu/html/i/ibbetson/landscap.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/ibbetson/landscap.jpg"
+  },
+  {
+    "author": "IBBETSON, Julius Caesar",
+    "date": "1811",
+    "id": 14559,
+    "local_img": "/images/i/14559.jpg",
+    "num_iterations": 11,
+    "painting_type": "genre",
+    "palette": [
+      "#ebe0be",
+      "#333024",
+      "#575548",
+      "#8a886c",
+      "#1b1c19"
+    ],
+    "radar": [
+      0.0010238726390525699,
+      0.10559681802988052,
+      0.5829124450683594,
+      0.14734748005867004,
+      0.005326259881258011,
+      0.0008169761276803911,
+      0.1569761335849762
+    ],
+    "technique": "Oil on canvas, 35 x 46 cm",
+    "time_elapsed": 1,
+    "timeline": "1751-1800",
+    "title": "Market Day, Masham, North Yorkshire",
+    "url_wga_info": "https://www.wga.hu/html/i/ibbetson/market.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/ibbetson/market.jpg"
+  },
+  {
+    "author": "IBI, Sinibaldo",
+    "date": "-",
+    "id": 14560,
+    "local_img": "/images/i/14560.jpg",
+    "num_iterations": 18,
+    "painting_type": "religious",
+    "palette": [
+      "#8b3c1f",
+      "#997538",
+      "#bd9e55",
+      "#3e371f",
+      "#625428"
+    ],
+    "radar": [
+      0.0653768852353096,
+      0.39574873447418213,
+      0.45623114705085754,
+      0.07462311536073685,
+      0.008020100183784962,
+      0.0,
+      0.0
+    ],
+    "technique": "Oil on panel, 23 x 55 cm",
+    "time_elapsed": 1,
+    "timeline": "1501-1550",
+    "title": "Marriage of the Virgin",
+    "url_wga_info": "https://www.wga.hu/html/i/ibi/marriage.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/ibi/marriage.jpg"
+  },
+  {
+    "author": "INDUNO, Gerolamo",
+    "date": "1851",
+    "id": 14561,
+    "local_img": "/images/i/14561.jpg",
+    "num_iterations": 7,
+    "painting_type": "historical",
+    "palette": [
+      "#191313",
+      "#462f25",
+      "#806048",
+      "#c2aa91",
+      "#eee8ea"
+    ],
+    "radar": [
+      0.1485166698694229,
+      0.29703888297080994,
+      0.0002277777821291238,
+      0.000027777778086601757,
+      0.00284444447606802,
+      0.015933332964777946,
+      0.5354111194610596
+    ],
+    "technique": "Oil on cardboard, 35 x 27 cm",
+    "time_elapsed": 0,
+    "timeline": "1851-1900",
+    "title": "Volunteer Defending Rome",
+    "url_wga_info": "https://www.wga.hu/html/i/induno/voluntee.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/induno/voluntee.jpg"
+  },
+  {
+    "author": "INDUNO, Gerolamo",
+    "date": "1871",
+    "id": 14562,
+    "local_img": "/images/i/14562.jpg",
+    "num_iterations": 19,
+    "painting_type": "genre",
+    "palette": [
+      "#453a35",
+      "#978d82",
+      "#6a6054",
+      "#d8d4cd",
+      "#1d171b"
+    ],
+    "radar": [
+      0.19328702986240387,
+      0.2411527782678604,
+      0.11452777683734894,
+      0.050236109644174576,
+      0.07024074345827103,
+      0.07192129641771317,
+      0.2586342692375183
+    ],
+    "technique": "Oil on canvas, 110 x 93 cm",
+    "time_elapsed": 2,
+    "timeline": "1851-1900",
+    "title": "Waiting for the Train",
+    "url_wga_info": "https://www.wga.hu/html/i/induno/waiting.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/induno/waiting.jpg"
+  },
+  {
+    "author": "INGLÉS, Jorge",
+    "date": "1455",
+    "id": 14563,
+    "local_img": "/images/i/14563.jpg",
+    "num_iterations": 16,
+    "painting_type": "religious",
+    "palette": [
+      "#030303",
+      "#604c44",
+      "#856052",
+      "#af8568",
+      "#d9bc90"
+    ],
+    "radar": [
+      0.3467569649219513,
+      0.5133625268936157,
+      0.07174502313137054,
+      0.0007569721201434731,
+      0.00006374502117978409,
+      0.005705179180949926,
+      0.06160956248641014
+    ],
+    "technique": "Panel",
+    "time_elapsed": 1,
+    "timeline": "1451-1500",
+    "title": "Saint Preaching",
+    "url_wga_info": "https://www.wga.hu/html/i/ingles/saint_pr.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/ingles/saint_pr.jpg"
+  },
+  {
+    "author": "INGRES, Jean-Auguste-Dominique",
+    "date": "1801",
+    "id": 14564,
+    "local_img": "/images/i/14564.jpg",
+    "num_iterations": 28,
+    "painting_type": "study",
+    "palette": [
+      "#312522",
+      "#563318",
+      "#926735",
+      "#d7c383",
+      "#19171c"
+    ],
+    "radar": [
+      0.10549629479646683,
+      0.4016493856906891,
+      0.1080888882279396,
+      0.0006024691392667592,
+      0.22852839529514313,
+      0.053688887506723404,
+      0.1019456759095192
+    ],
+    "technique": "Oil on canvas, 100 x 80 cm",
+    "time_elapsed": 3,
+    "timeline": "1801-1850",
+    "title": "Study of a Male Nude",
+    "url_wga_info": "https://www.wga.hu/html/i/ingres/00ingres.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/ingres/00ingres.jpg"
+  },
+  {
+    "author": "INGRES, Jean-Auguste-Dominique",
+    "date": "1804",
+    "id": 14565,
+    "local_img": "/images/i/14565.jpg",
+    "num_iterations": 10,
+    "painting_type": "portrait",
+    "palette": [
+      "#ddc3c0",
+      "#a44734",
+      "#41322e",
+      "#745c4a",
+      "#19171c"
+    ],
+    "radar": [
+      0.3312360346317291,
+      0.3189130425453186,
+      0.022341614589095116,
+      0.0017763974610716105,
+      0.0785403698682785,
+      0.11724844574928284,
+      0.1299441009759903
+    ],
+    "technique": "Oil on canvas, 227 x 147 cm",
+    "time_elapsed": 1,
+    "timeline": "1801-1850",
+    "title": "Portrait of Napoleon Bonaparte, First Consul",
+    "url_wga_info": "https://www.wga.hu/html/i/ingres/00ingrex.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/ingres/00ingrex.jpg"
+  },
+  {
+    "author": "INGRES, Jean-Auguste-Dominique",
+    "date": "1805",
+    "id": 14566,
+    "local_img": "/images/i/14566.jpg",
+    "num_iterations": 20,
+    "painting_type": "portrait",
+    "palette": [
+      "#1a1717",
+      "#843a2f",
+      "#ad8850",
+      "#e4d8a9",
+      "#555a32"
+    ],
+    "radar": [
+      0.18726341426372528,
+      0.16144390404224396,
+      0.20624877512454987,
+      0.26562926173210144,
+      0.04806829243898392,
+      0.03474634140729904,
+      0.0966000035405159
+    ],
+    "technique": "Oil on canvas, 116 x 89 cm",
+    "time_elapsed": 2,
+    "timeline": "1801-1850",
+    "title": "Monsieur Rivière",
+    "url_wga_info": "https://www.wga.hu/html/i/ingres/012ingre.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/ingres/012ingre.jpg"
+  },
+  {
+    "author": "INGRES, Jean-Auguste-Dominique",
+    "date": "1806",
+    "id": 14567,
+    "local_img": "/images/i/14567.jpg",
+    "num_iterations": 18,
+    "painting_type": "portrait",
+    "palette": [
+      "#493020",
+      "#7f4c2a",
+      "#a98550",
+      "#dcdbc7",
+      "#181810"
+    ],
+    "radar": [
+      0.12488679587841034,
+      0.4560440182685852,
+      0.20403774082660675,
+      0.0906100645661354,
+      0.00008805031393421814,
+      0.00006289307930273935,
+      0.12427043914794922
+    ],
+    "technique": "Oil on canvas, 259 x 162 cm",
+    "time_elapsed": 2,
+    "timeline": "1801-1850",
+    "title": "Napoleon I on the Imperial Throne",
+    "url_wga_info": "https://www.wga.hu/html/i/ingres/010ingre.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/ingres/010ingre.jpg"
+  },
+  {
+    "author": "INGRES, Jean-Auguste-Dominique",
+    "date": "1806",
+    "id": 14568,
+    "local_img": "/images/i/14568.jpg",
+    "num_iterations": 10,
+    "painting_type": "portrait",
+    "palette": [
+      "#eadedd",
+      "#4b221a",
+      "#744f3d",
+      "#ad8f7e",
+      "#150d0f"
+    ],
+    "radar": [
+      0.34705156087875366,
+      0.29516494274139404,
+      0.004726804327219725,
+      0.0007371134124696255,
+      0.014943298883736134,
+      0.03200000151991844,
+      0.3053762912750244
+    ],
+    "technique": "Oil on canvas, 259 x 162 cm",
+    "time_elapsed": 1,
+    "timeline": "1801-1850",
+    "title": "Napoleon I on the Imperial Throne (detail)",
+    "url_wga_info": "https://www.wga.hu/html/i/ingres/010ingrx.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/ingres/010ingrx.jpg"
+  },
+  {
+    "author": "INGRES, Jean-Auguste-Dominique",
+    "date": "1806",
+    "id": 14569,
+    "local_img": "/images/i/14569.jpg",
+    "num_iterations": 11,
+    "painting_type": "portrait",
+    "palette": [
+      "#534643",
+      "#a27635",
+      "#e2ca93",
+      "#091516",
+      "#bbbcbd"
+    ],
+    "radar": [
+      0.006124352104961872,
+      0.1837046593427658,
+      0.28007254004478455,
+      0.023730570450425148,
+      0.11267875880002975,
+      0.012927461415529251,
+      0.38076165318489075
+    ],
+    "technique": "Oil on canvas, 117 x 82 cm",
+    "time_elapsed": 1,
+    "timeline": "1801-1850",
+    "title": "Madame Rivière",
+    "url_wga_info": "https://www.wga.hu/html/i/ingres/011ingre.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/ingres/011ingre.jpg"
+  },
+  {
+    "author": "INGRES, Jean-Auguste-Dominique",
+    "date": "1806",
+    "id": 14570,
+    "local_img": "/images/i/14570.jpg",
+    "num_iterations": 11,
+    "painting_type": "portrait",
+    "palette": [
+      "#838181",
+      "#a19d9a",
+      "#4e4a46",
+      "#e0d7c5",
+      "#191920"
+    ],
+    "radar": [
+      0.034810345619916916,
+      0.23375287652015686,
+      0.07250574976205826,
+      0.032959770411252975,
+      0.22491954267024994,
+      0.048017241060733795,
+      0.35303449630737305
+    ],
+    "technique": "Oil on canvas, 100 x 70 cm",
+    "time_elapsed": 1,
+    "timeline": "1801-1850",
+    "title": "Mademoiselle Caroline Rivière",
+    "url_wga_info": "https://www.wga.hu/html/i/ingres/01ingres.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/ingres/01ingres.jpg"
+  },
+  {
+    "author": "INGRES, Jean-Auguste-Dominique",
+    "date": "1808",
+    "id": 14571,
+    "local_img": "/images/i/14571.jpg",
+    "num_iterations": 17,
+    "painting_type": "other",
+    "palette": [
+      "#2c261f",
+      "#90785c",
+      "#584832",
+      "#baad99",
+      "#090a0c"
+    ],
+    "radar": [
+      0.019100304692983627,
+      0.6159635186195374,
+      0.14444376528263092,
+      0.018395137041807175,
+      0.0017021276289597154,
+      0.0007902735378593206,
+      0.19960486888885498
+    ],
+    "technique": "Oil on canvas, 146 x 97 cm",
+    "time_elapsed": 2,
+    "timeline": "1801-1850",
+    "title": "The Valpinçon Bather",
+    "url_wga_info": "https://www.wga.hu/html/i/ingres/02ingres.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/ingres/02ingres.jpg"
+  },
+  {
+    "author": "INGRES, Jean-Auguste-Dominique",
+    "date": "1808-25",
+    "id": 14572,
+    "local_img": "/images/i/14572.jpg",
+    "num_iterations": 29,
+    "painting_type": "mythological",
+    "palette": [
+      "#2b2525",
+      "#52413a",
+      "#c7a187",
+      "#8f6b53",
+      "#101218"
+    ],
+    "radar": [
+      0.12857067584991455,
+      0.4401623010635376,
+      0.0007486910908482969,
+      0.0002774869208224118,
+      0.20214135944843292,
+      0.08153402805328369,
+      0.14656545221805573
+    ],
+    "technique": "Oil on canvas, 189 x 144 cm",
+    "time_elapsed": 3,
+    "timeline": "1801-1850",
+    "title": "Oedipus and the Sphynx",
+    "url_wga_info": "https://www.wga.hu/html/i/ingres/071ingre.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/ingres/071ingre.jpg"
+  },
+  {
+    "author": "INGRES, Jean-Auguste-Dominique",
+    "date": "1809",
+    "id": 14573,
+    "local_img": "/images/i/14573.jpg",
+    "num_iterations": 17,
+    "painting_type": "portrait",
+    "palette": [
+      "#222222",
+      "#8a6f51",
+      "#453f37",
+      "#ccbb9a",
+      "#090b0f"
+    ],
+    "radar": [
+      0.035165876150131226,
+      0.16479146480560303,
+      0.04181990399956703,
+      0.04234123229980469,
+      0.07126539945602417,
+      0.013905213214457035,
+      0.6307108998298645
+    ],
+    "technique": "Oil on canvas, 75 x 53 cm",
+    "time_elapsed": 2,
+    "timeline": "1801-1850",
+    "title": "François-Marius Granet",
+    "url_wga_info": "https://www.wga.hu/html/i/ingres/03ingres.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/ingres/03ingres.jpg"
+  },
+  {
+    "author": "INGRES, Jean-Auguste-Dominique",
+    "date": "1811",
+    "id": 14574,
+    "local_img": "/images/i/14574.jpg",
+    "num_iterations": 6,
+    "painting_type": "mythological",
+    "palette": [
+      "#7e5e50",
+      "#b1896b",
+      "#e3caad",
+      "#191a34",
+      "#453541"
+    ],
+    "radar": [
+      0.16526931524276733,
+      0.4290538728237152,
+      0.017882904037833214,
+      0.00001873536348284688,
+      0.25785478949546814,
+      0.10760187357664108,
+      0.02231850102543831
+    ],
+    "technique": "Oil on canvas, 320 x 260 cm",
+    "time_elapsed": 1,
+    "timeline": "1801-1850",
+    "title": "Jupiter and Thetis",
+    "url_wga_info": "https://www.wga.hu/html/i/ingres/03ingrex.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/ingres/03ingrex.jpg"
+  },
+  {
+    "author": "INGRES, Jean-Auguste-Dominique",
+    "date": "1813",
+    "id": 14575,
+    "local_img": "/images/i/14575.jpg",
+    "num_iterations": 9,
+    "painting_type": "mythological",
+    "palette": [
+      "#4a3d39",
+      "#856f56",
+      "#cbb598",
+      "#101215",
+      "#292427"
+    ],
+    "radar": [
+      0.16644050180912018,
+      0.29635947942733765,
+      0.010546835139393806,
+      0.0004911392461508512,
+      0.047093670815229416,
+      0.20797468721866608,
+      0.2710936665534973
+    ],
+    "technique": "Oil on canvas, 348 x 275 cm",
+    "time_elapsed": 1,
+    "timeline": "1801-1850",
+    "title": "The Dream of Ossian",
+    "url_wga_info": "https://www.wga.hu/html/i/ingres/04ingres.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/ingres/04ingres.jpg"
+  },
+  {
+    "author": "INGRES, Jean-Auguste-Dominique",
+    "date": "1813-40",
+    "id": 14576,
+    "local_img": "/images/i/14576.jpg",
+    "num_iterations": 29,
+    "painting_type": "other",
+    "palette": [
+      "#e0d3d0",
+      "#a0857d",
+      "#5e4231",
+      "#2f231a",
+      "#12100c"
+    ],
+    "radar": [
+      0.09579255431890488,
+      0.557468056678772,
+      0.06619148701429367,
+      0.0031702127307653427,
+      0.030622340738773346,
+      0.03837234154343605,
+      0.2083829790353775
+    ],
+    "technique": "Oil on canvas",
+    "time_elapsed": 3,
+    "timeline": "1801-1850",
+    "title": "Raphael and La Fornarina",
+    "url_wga_info": "https://www.wga.hu/html/i/ingres/072ingre.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/ingres/072ingre.jpg"
+  },
+  {
+    "author": "INGRES, Jean-Auguste-Dominique",
+    "date": "1814",
+    "id": 14577,
+    "local_img": "/images/i/14577.jpg",
+    "num_iterations": 24,
+    "painting_type": "other",
+    "palette": [
+      "#44372e",
+      "#d2a37b",
+      "#996b43",
+      "#4e6973",
+      "#1b1617"
+    ],
+    "radar": [
+      0.07421818375587463,
+      0.4625818133354187,
+      0.01688000001013279,
+      0.01688000001013279,
+      0.1871345490217209,
+      0.20455272495746613,
+      0.037752728909254074
+    ],
+    "technique": "Oil on canvas, 91 x 162 cm",
+    "time_elapsed": 2,
+    "timeline": "1801-1850",
+    "title": "The Grand Odalisque",
+    "url_wga_info": "https://www.wga.hu/html/i/ingres/05ingres.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/ingres/05ingres.jpg"
+  },
+  {
+    "author": "INGRES, Jean-Auguste-Dominique",
+    "date": "1819",
+    "id": 14578,
+    "local_img": "/images/i/14578.jpg",
+    "num_iterations": 25,
+    "painting_type": "mythological",
+    "palette": [
+      "#c8b9b1",
+      "#49413b",
+      "#7a7066",
+      "#15161b",
+      "#29262a"
+    ],
+    "radar": [
+      0.0871526300907135,
+      0.21140526235103607,
+      0.024752631783485413,
+      0.004100000020116568,
+      0.36944738030433655,
+      0.11025789380073547,
+      0.19288420677185059
+    ],
+    "technique": "Oil on canvas, 147 x 190 cm",
+    "time_elapsed": 3,
+    "timeline": "1801-1850",
+    "title": "Roger Freeing Angelica",
+    "url_wga_info": "https://www.wga.hu/html/i/ingres/06ingres.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/ingres/06ingres.jpg"
+  },
+  {
+    "author": "INGRES, Jean-Auguste-Dominique",
+    "date": "1819",
+    "id": 14579,
+    "local_img": "/images/i/14579.jpg",
+    "num_iterations": 17,
+    "painting_type": "other",
+    "palette": [
+      "#19100f",
+      "#301a15",
+      "#83513e",
+      "#593526",
+      "#c4a393"
+    ],
+    "radar": [
+      0.5407214164733887,
+      0.3430895507335663,
+      0.004089552443474531,
+      0.000751243787817657,
+      0.01950746215879917,
+      0.01936318352818489,
+      0.07247760891914368
+    ],
+    "technique": "Oil on canvas, 480 x 390 cm",
+    "time_elapsed": 2,
+    "timeline": "1801-1850",
+    "title": "Paolo and Francesca",
+    "url_wga_info": "https://www.wga.hu/html/i/ingres/07ingres.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/ingres/07ingres.jpg"
+  },
+  {
+    "author": "INGRES, Jean-Auguste-Dominique",
+    "date": "1820",
+    "id": 14580,
+    "local_img": "/images/i/14580.jpg",
+    "num_iterations": 11,
+    "painting_type": "mythological",
+    "palette": [
+      "#171212",
+      "#2b2321",
+      "#433731",
+      "#6a5744",
+      "#b49976"
+    ],
+    "radar": [
+      0.25335246324539185,
+      0.6594836115837097,
+      0.010155737400054932,
+      0.0012049180222675204,
+      0.0004918032791465521,
+      0.02420491725206375,
+      0.05110655725002289
+    ],
+    "technique": "Oil on canvas, 83 x 163 cm",
+    "time_elapsed": 1,
+    "timeline": "1801-1850",
+    "title": "The Source",
+    "url_wga_info": "https://www.wga.hu/html/i/ingres/09ingres.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/ingres/09ingres.jpg"
+  },
+  {
+    "author": "INGRES, Jean-Auguste-Dominique",
+    "date": "1821",
+    "id": 14581,
+    "local_img": "/images/i/14581.jpg",
+    "num_iterations": 13,
+    "painting_type": "religious",
+    "palette": [
+      "#3a221f",
+      "#7b422e",
+      "#ab834f",
+      "#d7d3b4",
+      "#080908"
+    ],
+    "radar": [
+      0.2448078840970993,
+      0.24820196628570557,
+      0.09390147775411606,
+      0.03490147739648819,
+      0.004187192302197218,
+      0.015743842348456383,
+      0.35825616121292114
+    ],
+    "technique": "Oil on canvas, 47 x 56 cm",
+    "time_elapsed": 2,
+    "timeline": "1801-1850",
+    "title": "The Entry of the Future Charles V into Paris in 1358",
+    "url_wga_info": "https://www.wga.hu/html/i/ingres/10ingres.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/ingres/10ingres.jpg"
+  },
+  {
+    "author": "INGRES, Jean-Auguste-Dominique",
+    "date": "1821",
+    "id": 14582,
+    "local_img": "/images/i/14582.jpg",
+    "num_iterations": 6,
+    "painting_type": "portrait",
+    "palette": [
+      "#642321",
+      "#91776f",
+      "#090c0b",
+      "#373d3f",
+      "#282c2e"
+    ],
+    "radar": [
+      0.16431720554828644,
+      0.059419356286525726,
+      0.012795698828995228,
+      0.05372580513358116,
+      0.23219354450702667,
+      0.0019354838877916336,
+      0.47561290860176086
+    ],
+    "technique": "Oil on canvas, 107 x 86 cm",
+    "time_elapsed": 1,
+    "timeline": "1801-1850",
+    "title": "Portrait of Count Guryev",
+    "url_wga_info": "https://www.wga.hu/html/i/ingres/10ingrex.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/ingres/10ingrex.jpg"
+  },
+  {
+    "author": "INGRES, Jean-Auguste-Dominique",
+    "date": "1822",
+    "id": 14583,
+    "local_img": "/images/i/14583.jpg",
+    "num_iterations": 34,
+    "painting_type": "historical",
+    "palette": [
+      "#4d4240",
+      "#726359",
+      "#c5a887",
+      "#131011",
+      "#35292b"
+    ],
+    "radar": [
+      0.34395545721054077,
+      0.3498861491680145,
+      0.011975247412919998,
+      0.0020990099292248487,
+      0.006490098778158426,
+      0.18740099668502808,
+      0.09819307178258896
+    ],
+    "technique": "Oil on panel, 49 x 41 cm",
+    "time_elapsed": 4,
+    "timeline": "1801-1850",
+    "title": "Don Pedro of Toledo Kissing the Sword of Henri IV",
+    "url_wga_info": "https://www.wga.hu/html/i/ingres/13ingrex.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/ingres/13ingrex.jpg"
+  },
+  {
+    "author": "INGRES, Jean-Auguste-Dominique",
+    "date": "1824",
+    "id": 14584,
+    "local_img": "/images/i/14584.jpg",
+    "num_iterations": 22,
+    "painting_type": "religious",
+    "palette": [
+      "#4f3c2c",
+      "#896c40",
+      "#cdb76f",
+      "#0e0f14",
+      "#242122"
+    ],
+    "radar": [
+      0.07652564346790314,
+      0.20876923203468323,
+      0.14302563667297363,
+      0.010589743964374065,
+      0.23325000703334808,
+      0.09712179750204086,
+      0.23071794211864471
+    ],
+    "technique": "Oil on canvas, 421 x 262 cm",
+    "time_elapsed": 2,
+    "timeline": "1801-1850",
+    "title": "The Vow of Louis XIII",
+    "url_wga_info": "https://www.wga.hu/html/i/ingres/11ingres.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/ingres/11ingres.jpg"
+  },
+  {
+    "author": "INGRES, Jean-Auguste-Dominique",
+    "date": "1827",
+    "id": 14585,
+    "local_img": "/images/i/14585.jpg",
+    "num_iterations": 9,
+    "painting_type": "mythological",
+    "palette": [
+      "#2b2521",
+      "#4b3d32",
+      "#100f0d",
+      "#74674c",
+      "#b6a167"
+    ],
+    "radar": [
+      0.09628954529762268,
+      0.3814370036125183,
+      0.22301340103149414,
+      0.102139413356781,
+      0.010675603523850441,
+      0.0034101877827197313,
+      0.18303485214710236
+    ],
+    "technique": "Oil on canvas, 386 x 512 cm",
+    "time_elapsed": 1,
+    "timeline": "1801-1850",
+    "title": "The Apotheosis of Homer",
+    "url_wga_info": "https://www.wga.hu/html/i/ingres/12ingres.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/ingres/12ingres.jpg"
+  },
+  {
+    "author": "INGRES, Jean-Auguste-Dominique",
+    "date": "1832",
+    "id": 14586,
+    "local_img": "/images/i/14586.jpg",
+    "num_iterations": 39,
+    "painting_type": "portrait",
+    "palette": [
+      "#492e28",
+      "#795740",
+      "#cb9d79",
+      "#130c10",
+      "#221617"
+    ],
+    "radar": [
+      0.5337164402008057,
+      0.11698507517576218,
+      0.0035074627958238125,
+      0.00018905472825281322,
+      0.000014925372852303553,
+      0.25465670228004456,
+      0.09093035012483597
+    ],
+    "technique": "Oil on canvas, 116 x 95 cm",
+    "time_elapsed": 5,
+    "timeline": "1801-1850",
+    "title": "Monsieur Bertin",
+    "url_wga_info": "https://www.wga.hu/html/i/ingres/13ingres.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/ingres/13ingres.jpg"
+  },
+  {
+    "author": "INGRES, Jean-Auguste-Dominique",
+    "date": "1832",
+    "id": 14587,
+    "local_img": "/images/i/14587.jpg",
+    "num_iterations": 21,
+    "painting_type": "historical",
+    "palette": [
+      "#372924",
+      "#5a412e",
+      "#875e3a",
+      "#d7ad6e",
+      "#100f10"
+    ],
+    "radar": [
+      0.14517109096050262,
+      0.6584289073944092,
+      0.004038554150611162,
+      0.00023614458041265607,
+      0.008173493668437004,
+      0.05869879573583603,
+      0.12525300681591034
+    ],
+    "technique": "Oil on canvas, 36 x 28 cm",
+    "time_elapsed": 3,
+    "timeline": "1801-1850",
+    "title": "The Sword of Henri IV",
+    "url_wga_info": "https://www.wga.hu/html/i/ingres/14ingres.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/ingres/14ingres.jpg"
+  },
+  {
+    "author": "INGRES, Jean-Auguste-Dominique",
+    "date": "1851-53",
+    "id": 14588,
+    "local_img": "/images/i/14588.jpg",
+    "num_iterations": 12,
+    "painting_type": "portrait",
+    "palette": [
+      "#c4bbb9",
+      "#907f69",
+      "#526f9b",
+      "#3f414f",
+      "#242126"
+    ],
+    "radar": [
+      0.08461538702249527,
+      0.12865251302719116,
+      0.01779310405254364,
+      0.0007851459085941315,
+      0.32062068581581116,
+      0.34501856565475464,
+      0.1025145873427391
+    ],
+    "technique": "Oil on canvas, 121 x 91 cm",
+    "time_elapsed": 1,
+    "timeline": "1801-1850",
+    "title": "Princess de Broglie",
+    "url_wga_info": "https://www.wga.hu/html/i/ingres/15ingres.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/ingres/15ingres.jpg"
+  },
+  {
+    "author": "INGRES, Jean-Auguste-Dominique",
+    "date": "1854",
+    "id": 14589,
+    "local_img": "/images/i/14589.jpg",
+    "num_iterations": 35,
+    "painting_type": "historical",
+    "palette": [
+      "#b58179",
+      "#71564b",
+      "#0e1013",
+      "#e5dfe5",
+      "#3a292f"
+    ],
+    "radar": [
+      0.2421141266822815,
+      0.14325542747974396,
+      0.006576086860150099,
+      0.003326087025925517,
+      0.2569728195667267,
+      0.07497282326221466,
+      0.2727825939655304
+    ],
+    "technique": "Oil on canvas, 240 x 178 cm",
+    "time_elapsed": 4,
+    "timeline": "1801-1850",
+    "title": "Joan of Arc at the Coronation of Charles VII in Reims Cathedral",
+    "url_wga_info": "https://www.wga.hu/html/i/ingres/161ingre.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/ingres/161ingre.jpg"
+  },
+  {
+    "author": "INGRES, Jean-Auguste-Dominique",
+    "date": "1856",
+    "id": 14590,
+    "local_img": "/images/i/14590.jpg",
+    "num_iterations": 11,
+    "painting_type": "portrait",
+    "palette": [
+      "#d3c7c0",
+      "#3f291a",
+      "#19100a",
+      "#6f5440",
+      "#a08d79"
+    ],
+    "radar": [
+      0.16412854194641113,
+      0.4559074640274048,
+      0.07570180296897888,
+      0.01553727500140667,
+      0.007727506570518017,
+      0.002647814806550741,
+      0.2783496081829071
+    ],
+    "technique": "Oil on canvas, 120 x 92 cm",
+    "time_elapsed": 1,
+    "timeline": "1801-1850",
+    "title": "Madame Moitessier",
+    "url_wga_info": "https://www.wga.hu/html/i/ingres/16ingres.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/ingres/16ingres.jpg"
+  },
+  {
+    "author": "INGRES, Jean-Auguste-Dominique",
+    "date": "1862",
+    "id": 14591,
+    "local_img": "/images/i/14591.jpg",
+    "num_iterations": 33,
+    "painting_type": "genre",
+    "palette": [
+      "#362e25",
+      "#6d583c",
+      "#a2885b",
+      "#bdbdbb",
+      "#0c1013"
+    ],
+    "radar": [
+      0.026891566812992096,
+      0.3122248947620392,
+      0.10354217141866684,
+      0.038738954812288284,
+      0.08257831633090973,
+      0.004445783328264952,
+      0.43157830834388733
+    ],
+    "technique": "Oil on canvas on wood, diameter 108 cm",
+    "time_elapsed": 5,
+    "timeline": "1801-1850",
+    "title": "The Turkish Bath",
+    "url_wga_info": "https://www.wga.hu/html/i/ingres/17ingres.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/ingres/17ingres.jpg"
+  },
+  {
+    "author": "INGRES, Jean-Auguste-Dominique",
+    "date": "c. 1815",
+    "id": 14592,
+    "local_img": "/images/i/14592.jpg",
+    "num_iterations": 29,
+    "painting_type": "portrait",
+    "palette": [
+      "#514034",
+      "#8f7c69",
+      "#eadac6",
+      "#baa891",
+      "#d4c4ab"
+    ],
+    "radar": [
+      0.0008030303288251162,
+      0.9630808234214783,
+      0.03597474843263626,
+      0.0,
+      0.0,
+      0.0,
+      0.0001414141443092376
+    ],
+    "technique": "Graphite pencil on paper, 280 x 207 mm",
+    "time_elapsed": 3,
+    "timeline": "1801-1850",
+    "title": "Portrait of a Girl",
+    "url_wga_info": "https://www.wga.hu/html/i/ingres/061ingre.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/ingres/061ingre.jpg"
+  },
+  {
+    "author": "INNESS, George",
+    "date": "1857",
+    "id": 14593,
+    "local_img": "/images/i/14593.jpg",
+    "num_iterations": 15,
+    "painting_type": "landscape",
+    "palette": [
+      "#2b1f19",
+      "#533222",
+      "#7a5733",
+      "#a9864a",
+      "#e8dab5"
+    ],
+    "radar": [
+      0.1649625599384308,
+      0.6207219362258911,
+      0.1391604244709015,
+      0.023229947313666344,
+      0.02540641650557518,
+      0.004930481314659119,
+      0.021588236093521118
+    ],
+    "technique": "Oil on canvas, 103 x 144 cm",
+    "time_elapsed": 2,
+    "timeline": "1851-1900",
+    "title": "Summer Days",
+    "url_wga_info": "https://www.wga.hu/html/i/innes/1summer.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/innes/1summer.jpg"
+  },
+  {
+    "author": "INNESS, George",
+    "date": "1878",
+    "id": 14594,
+    "local_img": "/images/i/14594.jpg",
+    "num_iterations": 11,
+    "painting_type": "landscape",
+    "palette": [
+      "#b8ab97",
+      "#7f7463",
+      "#e6ddbf",
+      "#3a3a2b",
+      "#191c17"
+    ],
+    "radar": [
+      0.00834029819816351,
+      0.24005372822284698,
+      0.3660358190536499,
+      0.1843641847372055,
+      0.0672537311911583,
+      0.0006805970333516598,
+      0.13327163457870483
+    ],
+    "technique": "Oil on canvas, 76 x 114 cm",
+    "time_elapsed": 1,
+    "timeline": "1851-1900",
+    "title": "Morning",
+    "url_wga_info": "https://www.wga.hu/html/i/innes/2morning.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/innes/2morning.jpg"
+  },
+  {
+    "author": "IRIARTE, Ignacio de",
+    "date": "1665",
+    "id": 14595,
+    "local_img": "/images/i/14595.jpg",
+    "num_iterations": 12,
+    "painting_type": "landscape",
+    "palette": [
+      "#cbc0c0",
+      "#99817b",
+      "#32231d",
+      "#674b3d",
+      "#0f0a0d"
+    ],
+    "radar": [
+      0.2619851231575012,
+      0.2788178324699402,
+      0.01152416318655014,
+      0.002646840177476406,
+      0.05843866243958473,
+      0.043360594660043716,
+      0.34322676062583923
+    ],
+    "technique": "Oil on canvas, 106 x 194 cm",
+    "time_elapsed": 1,
+    "timeline": "1601-1650",
+    "title": "Landscape with Shepherds",
+    "url_wga_info": "https://www.wga.hu/html/i/iriarte/landshep.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/iriarte/landshep.jpg"
+  },
+  {
+    "author": "IRIARTE, Ignacio de",
+    "date": "c. 1660",
+    "id": 14596,
+    "local_img": "/images/i/14596.jpg",
+    "num_iterations": 31,
+    "painting_type": "landscape",
+    "palette": [
+      "#2f2621",
+      "#675547",
+      "#a3988e",
+      "#c8c6c3",
+      "#0a0b0d"
+    ],
+    "radar": [
+      0.08657320588827133,
+      0.2752024829387665,
+      0.014161993749439716,
+      0.001420560758560896,
+      0.0554579421877861,
+      0.03752024844288826,
+      0.5296635627746582
+    ],
+    "technique": "Oil on canvas, 108 x 163 cm",
+    "time_elapsed": 3,
+    "timeline": "1601-1650",
+    "title": "Landscape with Figures",
+    "url_wga_info": "https://www.wga.hu/html/i/iriarte/landscap.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/iriarte/landscap.jpg"
+  },
+  {
+    "author": "IRIARTE, Ignacio de",
+    "date": "c. 1665",
+    "id": 14597,
+    "local_img": "/images/i/14597.jpg",
+    "num_iterations": 12,
+    "painting_type": "landscape",
+    "palette": [
+      "#2e2017",
+      "#513a1d",
+      "#ac9560",
+      "#79612a",
+      "#69776b"
+    ],
+    "radar": [
+      0.056926827877759933,
+      0.4849756062030792,
+      0.23680216073989868,
+      0.18495392799377441,
+      0.034162603318691254,
+      0.0006991869886405766,
+      0.0014796748291701078
+    ],
+    "technique": "Oil on canvas, 63 x 84 cm",
+    "time_elapsed": 1,
+    "timeline": "1601-1650",
+    "title": "River Crossing",
+    "url_wga_info": "https://www.wga.hu/html/i/iriarte/rivercro.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/iriarte/rivercro.jpg"
+  },
+  {
+    "author": "ISABEY, Eugène",
+    "date": "1830",
+    "id": 14598,
+    "local_img": "/images/i/14598.jpg",
+    "num_iterations": 6,
+    "painting_type": "historical",
+    "palette": [
+      "#36201b",
+      "#4d2d1f",
+      "#65442b",
+      "#8d6944",
+      "#b4a38e"
+    ],
+    "radar": [
+      0.3259454071521759,
+      0.5847543478012085,
+      0.05818362161517143,
+      0.004476426634937525,
+      0.0054491315968334675,
+      0.0006997518357820809,
+      0.02049131505191326
+    ],
+    "technique": "Oil on canvas, 33 x 41 cm",
+    "time_elapsed": 1,
+    "timeline": "1801-1850",
+    "title": "Louis XIV Entering Paris",
+    "url_wga_info": "https://www.wga.hu/html/i/isabey/eugene/louis14.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/isabey/eugene/louis14.jpg"
+  },
+  {
+    "author": "ISABEY, Eugène",
+    "date": "1833",
+    "id": 14599,
+    "local_img": "/images/i/14599.jpg",
+    "num_iterations": 21,
+    "painting_type": "landscape",
+    "palette": [
+      "#3c2a28",
+      "#9e8c82",
+      "#6c5142",
+      "#cfc6be",
+      "#161216"
+    ],
+    "radar": [
+      0.2128056287765503,
+      0.31647324562072754,
+      0.00681690126657486,
+      0.0005070422776043415,
+      0.0899098590016365,
+      0.15160563588142395,
+      0.2218816876411438
+    ],
+    "technique": "Oil on canvas, 124 x 168 cm",
+    "time_elapsed": 2,
+    "timeline": "1801-1850",
+    "title": "Beach at Low Tide",
+    "url_wga_info": "https://www.wga.hu/html/i/isabey/eugene/beachlow.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/isabey/eugene/beachlow.jpg"
+  },
+  {
+    "author": "ISABEY, Eugène",
+    "date": "1869",
+    "id": 14600,
+    "local_img": "/images/i/14600.jpg",
+    "num_iterations": 12,
+    "painting_type": "landscape",
+    "palette": [
+      "#2d1d16",
+      "#533828",
+      "#6c5c4d",
+      "#8e7860",
+      "#ba9f7c"
+    ],
+    "radar": [
+      0.07405460625886917,
+      0.9140068292617798,
+      0.007290102541446686,
+      0.0002866894064936787,
+      0.0012218429474160075,
+      0.0001638225221540779,
+      0.0029761092737317085
+    ],
+    "technique": "Oil on canvas, 37 x 60 cm",
+    "time_elapsed": 1,
+    "timeline": "1801-1850",
+    "title": "After a Storm",
+    "url_wga_info": "https://www.wga.hu/html/i/isabey/eugene/storm.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/isabey/eugene/storm.jpg"
+  },
+  {
+    "author": "ISENBRANT, Adriaen",
+    "date": "-",
+    "id": 14601,
+    "local_img": "/images/i/14601.jpg",
+    "num_iterations": 15,
+    "painting_type": "religious",
+    "palette": [
+      "#2d1f1e",
+      "#55372e",
+      "#885c49",
+      "#baab9b",
+      "#0d070b"
+    ],
+    "radar": [
+      0.28795766830444336,
+      0.20185714960098267,
+      0.031037036329507828,
+      0.0036613757256418467,
+      0.007486772257834673,
+      0.09738624095916748,
+      0.3706137537956238
+    ],
+    "technique": "Oil on canvas, 72 x 56 cm",
+    "time_elapsed": 2,
+    "timeline": "1501-1550",
+    "title": "Mass of St Gregory",
+    "url_wga_info": "https://www.wga.hu/html/i/isenbran/massgreg.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/isenbran/massgreg.jpg"
+  },
+  {
+    "author": "ISENBRANT, Adriaen",
+    "date": "-",
+    "id": 14602,
+    "local_img": "/images/i/14602.jpg",
+    "num_iterations": 19,
+    "painting_type": "religious",
+    "palette": [
+      "#1b1b1b",
+      "#554c3e",
+      "#312f2b",
+      "#887e64",
+      "#cccfac"
+    ],
+    "radar": [
+      0.0841144248843193,
+      0.26203981041908264,
+      0.17779602110385895,
+      0.18280597031116486,
+      0.09005472809076309,
+      0.022044776007533073,
+      0.18114428222179413
+    ],
+    "technique": "Wood, 49,4 x 34 cm",
+    "time_elapsed": 2,
+    "timeline": "1501-1550",
+    "title": "Rest during the Flight to Egypt",
+    "url_wga_info": "https://www.wga.hu/html/i/isenbran/rest.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/isenbran/rest.jpg"
+  },
+  {
+    "author": "ISENBRANT, Adriaen",
+    "date": "-",
+    "id": 14603,
+    "local_img": "/images/i/14603.jpg",
+    "num_iterations": 16,
+    "painting_type": "religious",
+    "palette": [
+      "#5f332e",
+      "#2a1f1d",
+      "#7e5549",
+      "#95847d",
+      "#d5c6ba"
+    ],
+    "radar": [
+      0.6290700435638428,
+      0.27571427822113037,
+      0.006464986130595207,
+      0.0006218487396836281,
+      0.04196638613939285,
+      0.0023921567481011152,
+      0.043770309537649155
+    ],
+    "technique": "Oil on panel, 38,1 x 28,5 cm",
+    "time_elapsed": 2,
+    "timeline": "1501-1550",
+    "title": "Rest during the Flight to Egypt",
+    "url_wga_info": "https://www.wga.hu/html/i/isenbran/rest_fli.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/isenbran/rest_fli.jpg"
+  },
+  {
+    "author": "ISENBRANT, Adriaen",
+    "date": "-",
+    "id": 14604,
+    "local_img": "/images/i/14604.jpg",
+    "num_iterations": 11,
+    "painting_type": "religious",
+    "palette": [
+      "#2f231f",
+      "#463229",
+      "#684736",
+      "#9d6b4e",
+      "#c2a282"
+    ],
+    "radar": [
+      0.4305500090122223,
+      0.5128375291824341,
+      0.05165624991059303,
+      0.0010687500471249223,
+      0.0001062500014086254,
+      0.0008125000167638063,
+      0.002968749962747097
+    ],
+    "technique": "Oak panel, 127,3 x 81,2 cm",
+    "time_elapsed": 1,
+    "timeline": "1501-1550",
+    "title": "Archangel St Michael, St Andrew and St Francis of Assisi",
+    "url_wga_info": "https://www.wga.hu/html/i/isenbran/saints.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/isenbran/saints.jpg"
+  },
+  {
+    "author": "ISENBRANT, Adriaen",
+    "date": "-",
+    "id": 14605,
+    "local_img": "/images/i/14605.jpg",
+    "num_iterations": 7,
+    "painting_type": "religious",
+    "palette": [
+      "#7b6647",
+      "#4b442b",
+      "#262619",
+      "#9aaa97",
+      "#2d6a6c"
+    ],
+    "radar": [
+      0.005011428613215685,
+      0.37879428267478943,
+      0.25344571471214294,
+      0.17775428295135498,
+      0.17706285417079926,
+      0.0002057142846751958,
+      0.007725714240223169
+    ],
+    "technique": "Oil on panel, 43 x 30 cm",
+    "time_elapsed": 1,
+    "timeline": "1501-1550",
+    "title": "Stigmatisation of St Francis",
+    "url_wga_info": "https://www.wga.hu/html/i/isenbran/stigmati.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/isenbran/stigmati.jpg"
+  },
+  {
+    "author": "ISENBRANT, Adriaen",
+    "date": "-",
+    "id": 14606,
+    "local_img": "/images/i/14606.jpg",
+    "num_iterations": 24,
+    "painting_type": "religious",
+    "palette": [
+      "#211514",
+      "#58312d",
+      "#924c41",
+      "#ad8d7a",
+      "#dccfc6"
+    ],
+    "radar": [
+      0.5507770776748657,
+      0.25533756613731384,
+      0.015286624431610107,
+      0.009089171886444092,
+      0.011859872378408909,
+      0.03651592507958412,
+      0.12113375961780548
+    ],
+    "technique": "Oil on oak panel, 64 x 49 cm (central panel), 70 x 22 cm (each wing)",
+    "time_elapsed": 2,
+    "timeline": "1501-1550",
+    "title": "Triptych",
+    "url_wga_info": "https://www.wga.hu/html/i/isenbran/triptych.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/isenbran/triptych.jpg"
+  },
+  {
+    "author": "ISENBRANT, Adriaen",
+    "date": "1510s",
+    "id": 14607,
+    "local_img": "/images/i/14607.jpg",
+    "num_iterations": 30,
+    "painting_type": "religious",
+    "palette": [
+      "#4e2c2a",
+      "#1f1311",
+      "#7a473f",
+      "#ad7f6b",
+      "#d3c6bd"
+    ],
+    "radar": [
+      0.7224247455596924,
+      0.13301612436771393,
+      0.00017204301548190415,
+      0.000016129031791933812,
+      5.376344233809505e-6,
+      0.0024516128469258547,
+      0.1419139802455902
+    ],
+    "technique": "Oil on oak panel, 77,5 x 56,5 cm",
+    "time_elapsed": 3,
+    "timeline": "1501-1550",
+    "title": "Virgin and Child Enthroned",
+    "url_wga_info": "https://www.wga.hu/html/i/isenbran/virgin_c.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/isenbran/virgin_c.jpg"
+  },
+  {
+    "author": "ISENBRANT, Adriaen",
+    "date": "1518",
+    "id": 14608,
+    "local_img": "/images/i/14608.jpg",
+    "num_iterations": 13,
+    "painting_type": "portrait",
+    "palette": [
+      "#723e3e",
+      "#b77261",
+      "#e6b096",
+      "#1b181b",
+      "#272124"
+    ],
+    "radar": [
+      0.23249122500419617,
+      0.11490726470947266,
+      0.00021052631200291216,
+      0.00009022556332638487,
+      0.0005213032709434628,
+      0.6475288271903992,
+      0.004250626545399427
+    ],
+    "technique": "Oil on oak panel, 34,5 x 27 cm",
+    "time_elapsed": 2,
+    "timeline": "1501-1550",
+    "title": "Portrait of Paulus de Nigro",
+    "url_wga_info": "https://www.wga.hu/html/i/isenbran/port_nig.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/isenbran/port_nig.jpg"
+  },
+  {
+    "author": "ISENBRANT, Adriaen",
+    "date": "1518-35",
+    "id": 14609,
+    "local_img": "/images/i/14609.jpg",
+    "num_iterations": 19,
+    "painting_type": "religious",
+    "palette": [
+      "#231716",
+      "#58312c",
+      "#865645",
+      "#af8a71",
+      "#ddccb7"
+    ],
+    "radar": [
+      0.6098423004150391,
+      0.318145215511322,
+      0.027290455996990204,
+      0.0008132780203595757,
+      0.0002863070403691381,
+      0.004049792420119047,
+      0.039572615176439285
+    ],
+    "technique": "Panel",
+    "time_elapsed": 3,
+    "timeline": "1501-1550",
+    "title": "Our Lady of the Seven Sorrows",
+    "url_wga_info": "https://www.wga.hu/html/i/isenbran/sevensor.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/isenbran/sevensor.jpg"
+  },
+  {
+    "author": "ISENBRANT, Adriaen",
+    "date": "1520s",
+    "id": 14610,
+    "local_img": "/images/i/14610.jpg",
+    "num_iterations": 13,
+    "painting_type": "religious",
+    "palette": [
+      "#60261d",
+      "#983627",
+      "#261b17",
+      "#15120f",
+      "#da9d60"
+    ],
+    "radar": [
+      0.35540372133255005,
+      0.5739006400108337,
+      0.006397515535354614,
+      0.004186335485428572,
+      0.0012546583311632276,
+      0.003105590119957924,
+      0.05575155094265938
+    ],
+    "technique": "Oak panel, 107,5 x 69 cm",
+    "time_elapsed": 1,
+    "timeline": "1501-1550",
+    "title": "Virgin and Child",
+    "url_wga_info": "https://www.wga.hu/html/i/isenbran/madonna.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/isenbran/madonna.jpg"
+  },
+  {
+    "author": "ISENBRANT, Adriaen",
+    "date": "c. 1520",
+    "id": 14611,
+    "local_img": "/images/i/14611.jpg",
+    "num_iterations": 25,
+    "painting_type": "religious",
+    "palette": [
+      "#341c1c",
+      "#5d2b26",
+      "#a37669",
+      "#804c3c",
+      "#14080d"
+    ],
+    "radar": [
+      0.6990647315979004,
+      0.0844823494553566,
+      0.00008823529060464352,
+      0.000047058823838597164,
+      0.000047058823838597164,
+      0.08963529765605927,
+      0.12663529813289642
+    ],
+    "technique": "Oil on panel, 61 x 42 cm",
+    "time_elapsed": 3,
+    "timeline": "1501-1550",
+    "title": "Virgin and Child",
+    "url_wga_info": "https://www.wga.hu/html/i/isenbran/virchild.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/isenbran/virchild.jpg"
+  },
+  {
+    "author": "ISRAELS, Isaac Lazarus",
+    "date": "1893",
+    "id": 14612,
+    "local_img": "/images/i/14612.jpg",
+    "num_iterations": 19,
+    "painting_type": "genre",
+    "palette": [
+      "#582825",
+      "#9d332c",
+      "#cc7347",
+      "#100d12",
+      "#2c1a1d"
+    ],
+    "radar": [
+      0.505707323551178,
+      0.06888347119092941,
+      0.0011382113443687558,
+      0.000200542010134086,
+      0.011869918555021286,
+      0.1661788672208786,
+      0.24602167308330536
+    ],
+    "technique": "Oil on canvas, 76 x 100 cm",
+    "time_elapsed": 2,
+    "timeline": "1851-1900",
+    "title": "In the Dance Hall",
+    "url_wga_info": "https://www.wga.hu/html/i/israels/isaac/dancehal.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/israels/isaac/dancehal.jpg"
+  },
+  {
+    "author": "ISRAËLS, Jozef",
+    "date": "1878",
+    "id": 14613,
+    "local_img": "/images/i/14613.jpg",
+    "num_iterations": 17,
+    "painting_type": "genre",
+    "palette": [
+      "#20130d",
+      "#bdad9e",
+      "#887154",
+      "#654f33",
+      "#47361f"
+    ],
+    "radar": [
+      0.08853453397750854,
+      0.7167928218841553,
+      0.13351351022720337,
+      0.001003002980723977,
+      0.0126066068187356,
+      0.01330330315977335,
+      0.03424624726176262
+    ],
+    "technique": "Oil on canvas, 160 x 101 cm",
+    "time_elapsed": 2,
+    "timeline": "1851-1900",
+    "title": "We Grow Old",
+    "url_wga_info": "https://www.wga.hu/html/i/israels/jozef/grow_old.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/israels/jozef/grow_old.jpg"
+  },
+  {
+    "author": "ISRAËLS, Jozef",
+    "date": "1903",
+    "id": 14614,
+    "local_img": "/images/i/14614.jpg",
+    "num_iterations": 18,
+    "painting_type": "genre",
+    "palette": [
+      "#3f2b29",
+      "#673f31",
+      "#a8764b",
+      "#161015",
+      "#261d1f"
+    ],
+    "radar": [
+      0.520882248878479,
+      0.15127195417881012,
+      0.0001798715238692239,
+      0.00006852248043287545,
+      0.029965737834572792,
+      0.2376873642206192,
+      0.05994432419538498
+    ],
+    "technique": "Oil on canvas, 137 x 148 cm",
+    "time_elapsed": 3,
+    "timeline": "1851-1900",
+    "title": "A Jewish Wedding",
+    "url_wga_info": "https://www.wga.hu/html/i/israels/jozef/wedding.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/israels/jozef/wedding.jpg"
+  },
+  {
+    "author": "ITTENBACH, Franz",
+    "date": "1849",
+    "id": 14615,
+    "local_img": "/images/i/14615.jpg",
+    "num_iterations": 21,
+    "painting_type": "portrait",
+    "palette": [
+      "#1d1917",
+      "#e6cba7",
+      "#514429",
+      "#7d6d48",
+      "#73699e"
+    ],
+    "radar": [
+      0.07656983286142349,
+      0.43163686990737915,
+      0.2819553017616272,
+      0.0076368716545403,
+      0.0858212262392044,
+      0.05140223354101181,
+      0.06497765332460403
+    ],
+    "technique": "Oil on canvas, 76 x 66 cm",
+    "time_elapsed": 2,
+    "timeline": "1801-1850",
+    "title": "Portrait of Margarete von Soist",
+    "url_wga_info": "https://www.wga.hu/html/i/ittenbac/soist2.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/ittenbac/soist2.jpg"
+  },
+  {
+    "author": "ITTENBACH, Franz",
+    "date": "1850",
+    "id": 14616,
+    "local_img": "/images/i/14616.jpg",
+    "num_iterations": 5,
+    "painting_type": "portrait",
+    "palette": [
+      "#5a4a33",
+      "#a59478",
+      "#e5dbb9",
+      "#10131e",
+      "#242227"
+    ],
+    "radar": [
+      0.05833066627383232,
+      0.10765333473682404,
+      0.3216319978237152,
+      0.0037066666409373283,
+      0.45878931879997253,
+      0.02619733288884163,
+      0.023690667003393173
+    ],
+    "technique": "Oil on canvas, 90 x 64 cm",
+    "time_elapsed": 0,
+    "timeline": "1801-1850",
+    "title": "Portrait of Dr. Franz Xavier von Soist",
+    "url_wga_info": "https://www.wga.hu/html/i/ittenbac/soist1.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/ittenbac/soist1.jpg"
+  },
+  {
+    "author": "IVERNY, Jacques",
+    "date": "-",
+    "id": 14617,
+    "local_img": "/images/i/14617.jpg",
+    "num_iterations": 36,
+    "painting_type": "religious",
+    "palette": [
+      "#3d2e24",
+      "#6b4320",
+      "#8b6431",
+      "#ad8549",
+      "#d5b471"
+    ],
+    "radar": [
+      0.01602843590080738,
+      0.8199573755264282,
+      0.12189573794603348,
+      0.0015592416748404503,
+      0.01734597235918045,
+      0.000995260663330555,
+      0.02221800945699215
+    ],
+    "technique": "Tempera on wood",
+    "time_elapsed": 5,
+    "timeline": "1401-1450",
+    "title": "Triptych",
+    "url_wga_info": "https://www.wga.hu/html/i/iverny/triptych.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/iverny/triptych.jpg"
+  },
+  {
+    "author": "IVERNY, Jacques",
+    "date": "1411-16",
+    "id": 14618,
+    "local_img": "/images/i/14618.jpg",
+    "num_iterations": 20,
+    "painting_type": "mythological",
+    "palette": [
+      "#574f3c",
+      "#eae0c6",
+      "#c5af72",
+      "#877c56",
+      "#231d26"
+    ],
+    "radar": [
+      0.0524112693965435,
+      0.2935267686843872,
+      0.38342535495758057,
+      0.08490140736103058,
+      0.04141971841454506,
+      0.04839436709880829,
+      0.09592112898826599
+    ],
+    "technique": "Fresco",
+    "time_elapsed": 2,
+    "timeline": "1401-1450",
+    "title": "Hero and Heroine (detail)",
+    "url_wga_info": "https://www.wga.hu/html/i/iverny/hero_her.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/iverny/hero_her.jpg"
+  },
+  {
+    "author": "IVÁNYI GRÜNWALD, Béla",
+    "date": "-",
+    "id": 14619,
+    "local_img": "/images/i/14619.jpg",
+    "num_iterations": 4,
+    "painting_type": "portrait",
+    "palette": [
+      "#241817",
+      "#4e322a",
+      "#7f5e4b",
+      "#d9d0c8",
+      "#aca2a3"
+    ],
+    "radar": [
+      0.3223033547401428,
+      0.3285449743270874,
+      0.04003598913550377,
+      0.0030179948080331087,
+      0.09433933347463608,
+      0.044735219329595566,
+      0.16702313721179962
+    ],
+    "technique": "Oil on canvas, 90 x 60 cm",
+    "time_elapsed": 0,
+    "timeline": "1851-1900",
+    "title": "Self-Portrait",
+    "url_wga_info": "https://www.wga.hu/html/i/ivanyi/9selfpor.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/ivanyi/9selfpor.jpg"
+  },
+  {
+    "author": "IVÁNYI GRÜNWALD, Béla",
+    "date": "1890",
+    "id": 14620,
+    "local_img": "/images/i/14620.jpg",
+    "num_iterations": 11,
+    "painting_type": "mythological",
+    "palette": [
+      "#5d523a",
+      "#353023",
+      "#b09f72",
+      "#857750",
+      "#dcdcd0"
+    ],
+    "radar": [
+      0.0043819742277264595,
+      0.3542875647544861,
+      0.448214590549469,
+      0.051596567034721375,
+      0.00175536482129246,
+      0.0025150214787572622,
+      0.1372489333152771
+    ],
+    "technique": "Oil on canvas, 161 x 150 cm",
+    "time_elapsed": 2,
+    "timeline": "1851-1900",
+    "title": "The Warlord's Sword",
+    "url_wga_info": "https://www.wga.hu/html/i/ivanyi/1warlord.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/ivanyi/1warlord.jpg"
+  },
+  {
+    "author": "IVÁNYI GRÜNWALD, Béla",
+    "date": "1897",
+    "id": 14621,
+    "local_img": "/images/i/14621.jpg",
+    "num_iterations": 30,
+    "painting_type": "landscape",
+    "palette": [
+      "#1d1613",
+      "#624331",
+      "#3d2d23",
+      "#806953",
+      "#c39d6c"
+    ],
+    "radar": [
+      0.19286075234413147,
+      0.7345569729804993,
+      0.028237974271178246,
+      0.002075949450954795,
+      0.000020253164620953612,
+      0.0034430380910634995,
+      0.03880506381392479
+    ],
+    "technique": "Oil on canvas, 81 x 99 cm",
+    "time_elapsed": 4,
+    "timeline": "1851-1900",
+    "title": "Woman by the Water",
+    "url_wga_info": "https://www.wga.hu/html/i/ivanyi/2woman.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/ivanyi/2woman.jpg"
+  },
+  {
+    "author": "IVÁNYI GRÜNWALD, Béla",
+    "date": "1900",
+    "id": 14622,
+    "local_img": "/images/i/14622.jpg",
+    "num_iterations": 19,
+    "painting_type": "landscape",
+    "palette": [
+      "#635f57",
+      "#1a1f18",
+      "#323b31",
+      "#cfd1db",
+      "#8f8fa6"
+    ],
+    "radar": [
+      0.08085152506828308,
+      0.08453711867332458,
+      0.05405240133404732,
+      0.4293537139892578,
+      0.20387773215770721,
+      0.04098253324627876,
+      0.10634497553110123
+    ],
+    "technique": "Oil on canvas, 90,5 x 100,5 cm",
+    "time_elapsed": 3,
+    "timeline": "1851-1900",
+    "title": "View of Nagybánya with Gutin",
+    "url_wga_info": "https://www.wga.hu/html/i/ivanyi/4gutin.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/ivanyi/4gutin.jpg"
+  },
+  {
+    "author": "IVÁNYI GRÜNWALD, Béla",
+    "date": "1902",
+    "id": 14623,
+    "local_img": "/images/i/14623.jpg",
+    "num_iterations": 17,
+    "painting_type": "landscape",
+    "palette": [
+      "#948665",
+      "#575746",
+      "#bac0b4",
+      "#313631",
+      "#1b1c24"
+    ],
+    "radar": [
+      0.0030582959298044443,
+      0.0922645702958107,
+      0.20168161392211914,
+      0.22549326717853546,
+      0.2945694923400879,
+      0.07560089975595474,
+      0.10733184218406677
+    ],
+    "technique": "Oil on canvas, 130,5 x 151,5 cm",
+    "time_elapsed": 2,
+    "timeline": "1851-1900",
+    "title": "Watering",
+    "url_wga_info": "https://www.wga.hu/html/i/ivanyi/5waterin.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/ivanyi/5waterin.jpg"
+  },
+  {
+    "author": "IVÁNYI GRÜNWALD, Béla",
+    "date": "1903",
+    "id": 14624,
+    "local_img": "/images/i/14624.jpg",
+    "num_iterations": 13,
+    "painting_type": "landscape",
+    "palette": [
+      "#2e2b28",
+      "#484637",
+      "#656646",
+      "#cfd5d0",
+      "#91a8c5"
+    ],
+    "radar": [
+      0.051159508526325226,
+      0.11755214631557465,
+      0.2900981605052948,
+      0.1636871099472046,
+      0.1687423288822174,
+      0.05282822251319885,
+      0.15593251585960388
+    ],
+    "technique": "Oil on canvas, 111,5 x 176 cm",
+    "time_elapsed": 1,
+    "timeline": "1851-1900",
+    "title": "Outing in Spring",
+    "url_wga_info": "https://www.wga.hu/html/i/ivanyi/6outing.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/ivanyi/6outing.jpg"
+  },
+  {
+    "author": "IVÁNYI GRÜNWALD, Béla",
+    "date": "1903",
+    "id": 14625,
+    "local_img": "/images/i/14625.jpg",
+    "num_iterations": 14,
+    "painting_type": "genre",
+    "palette": [
+      "#cbadad",
+      "#7f4f34",
+      "#433620",
+      "#1f1c14",
+      "#695f9a"
+    ],
+    "radar": [
+      0.20072637498378754,
+      0.20848755538463593,
+      0.11891542375087738,
+      0.17132338881492615,
+      0.18827363848686218,
+      0.07868656516075134,
+      0.03358706459403038
+    ],
+    "technique": "Oil on canvas, 166 x 133 cm",
+    "time_elapsed": 2,
+    "timeline": "1851-1900",
+    "title": "Drying Clothes",
+    "url_wga_info": "https://www.wga.hu/html/i/ivanyi/7drying.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/ivanyi/7drying.jpg"
+  },
+  {
+    "author": "IVÁNYI GRÜNWALD, Béla",
+    "date": "1911",
+    "id": 14626,
+    "local_img": "/images/i/14626.jpg",
+    "num_iterations": 11,
+    "painting_type": "genre",
+    "palette": [
+      "#6b5853",
+      "#917867",
+      "#b8a792",
+      "#1f1b21",
+      "#45393a"
+    ],
+    "radar": [
+      0.3391428589820862,
+      0.36798810958862305,
+      0.03170238062739372,
+      0.006589285563677549,
+      0.04550595209002495,
+      0.14749404788017273,
+      0.06157737970352173
+    ],
+    "technique": "Oil on laminated paper, 50 x 73 cm",
+    "time_elapsed": 1,
+    "timeline": "1851-1900",
+    "title": "Market of Kecskemét in Winter",
+    "url_wga_info": "https://www.wga.hu/html/i/ivanyi/8market.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/ivanyi/8market.jpg"
+  },
+  {
+    "author": "IVÁNYI GRÜNWALD, Béla",
+    "date": "c. 1900",
+    "id": 14627,
+    "local_img": "/images/i/14627.jpg",
+    "num_iterations": 29,
+    "painting_type": "landscape",
+    "palette": [
+      "#483c26",
+      "#29261b",
+      "#121412",
+      "#8d7f97",
+      "#dac6d3"
+    ],
+    "radar": [
+      0.07340703159570694,
+      0.20577889680862427,
+      0.2872060239315033,
+      0.17026130855083466,
+      0.02936180867254734,
+      0.09250754117965698,
+      0.14147739112377167
+    ],
+    "technique": "Oil on canvas, 120 x 149 cm",
+    "time_elapsed": 4,
+    "timeline": "1851-1900",
+    "title": "In the Valley",
+    "url_wga_info": "https://www.wga.hu/html/i/ivanyi/3valley.html",
+    "url_wga_jpg": "https://www.wga.hu/art/i/ivanyi/3valley.jpg"
+  }
+]

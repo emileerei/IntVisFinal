@@ -1,0 +1,6722 @@
+[
+  {
+    "author": "O'CONNOR, James Arthur",
+    "date": "c. 1832",
+    "id": 20502,
+    "local_img": "/images/o/20502.jpg",
+    "num_iterations": 12,
+    "painting_type": "landscape",
+    "palette": [
+      "#3c3928",
+      "#66613d",
+      "#98967c",
+      "#1f1f1c",
+      "#c3cbc3"
+    ],
+    "radar": [
+      0.00912499986588955,
+      0.09092934429645538,
+      0.3048858642578125,
+      0.08255434781312943,
+      0.14376629889011383,
+      0.013190217316150665,
+      0.3555489182472229
+    ],
+    "technique": "Oil on canvas, 33 x 48 cm",
+    "time_elapsed": 3,
+    "timeline": "1801-1850",
+    "title": "Mountainous Continental Landscape",
+    "url_wga_info": "https://www.wga.hu/html/o/oconnor/landscap.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oconnor/landscap.jpg"
+  },
+  {
+    "author": "OCHTERVELT, Jacob",
+    "date": "-",
+    "id": 20503,
+    "local_img": "/images/o/20503.jpg",
+    "num_iterations": 31,
+    "painting_type": "genre",
+    "palette": [
+      "#372722",
+      "#5d4130",
+      "#b18b60",
+      "#0e0d12",
+      "#22191a"
+    ],
+    "radar": [
+      0.4411596953868866,
+      0.24022112786769867,
+      0.021267812699079514,
+      0.0005651105893775821,
+      0.021277641877532005,
+      0.10523832589387894,
+      0.17027026414871216
+    ],
+    "technique": "Oil on canvas, 73 x 59 cm",
+    "time_elapsed": 7,
+    "timeline": "1651-1700",
+    "title": "The Drawing Lesson",
+    "url_wga_info": "https://www.wga.hu/html/o/ochterve/drawingl.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ochterve/drawingl.jpg"
+  },
+  {
+    "author": "OCHTERVELT, Jacob",
+    "date": "-",
+    "id": 20504,
+    "local_img": "/images/o/20504.jpg",
+    "num_iterations": 14,
+    "painting_type": "genre",
+    "palette": [
+      "#634441",
+      "#d65243",
+      "#cabab0",
+      "#a4846b",
+      "#2c1c21"
+    ],
+    "radar": [
+      0.4949898421764374,
+      0.16742639243602753,
+      0.000274111662292853,
+      0.000010152284630748909,
+      0.008558375760912895,
+      0.3067004978656769,
+      0.022040609270334244
+    ],
+    "technique": "Oil on canvas",
+    "time_elapsed": 3,
+    "timeline": "1651-1700",
+    "title": "Rehearsing the Song",
+    "url_wga_info": "https://www.wga.hu/html/o/ochterve/song_reh.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ochterve/song_reh.jpg"
+  },
+  {
+    "author": "OCHTERVELT, Jacob",
+    "date": "1660-65",
+    "id": 20505,
+    "local_img": "/images/o/20505.jpg",
+    "num_iterations": 29,
+    "painting_type": "genre",
+    "palette": [
+      "#211211",
+      "#3d231d",
+      "#784833",
+      "#ab7b56",
+      "#060306"
+    ],
+    "radar": [
+      0.281098335981369,
+      0.1611606776714325,
+      0.0002829736331477761,
+      0.00023980815603863448,
+      0.0003021582670044154,
+      0.013491606339812279,
+      0.5434244871139526
+    ],
+    "technique": "Oil on oak, 56 x 47 cm",
+    "time_elapsed": 6,
+    "timeline": "1651-1700",
+    "title": "Itinerant Musicians",
+    "url_wga_info": "https://www.wga.hu/html/o/ochterve/itineran.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ochterve/itineran.jpg"
+  },
+  {
+    "author": "OCHTERVELT, Jacob",
+    "date": "1660s",
+    "id": 20506,
+    "local_img": "/images/o/20506.jpg",
+    "num_iterations": 33,
+    "painting_type": "portrait",
+    "palette": [
+      "#190d0c",
+      "#3e2517",
+      "#6a421a",
+      "#99672f",
+      "#eaddc4"
+    ],
+    "radar": [
+      0.18047301471233368,
+      0.6394755840301514,
+      0.04596401005983353,
+      0.00020565552404150367,
+      0.00007712082151556388,
+      0.01624678634107113,
+      0.1175578385591507
+    ],
+    "technique": "Oil on panel, 26 x 21 cm",
+    "time_elapsed": 7,
+    "timeline": "1651-1700",
+    "title": "Portrait of a Gentleman",
+    "url_wga_info": "https://www.wga.hu/html/o/ochterve/portgent.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ochterve/portgent.jpg"
+  },
+  {
+    "author": "OCHTERVELT, Jacob",
+    "date": "1663",
+    "id": 20507,
+    "local_img": "/images/o/20507.jpg",
+    "num_iterations": 17,
+    "painting_type": "genre",
+    "palette": [
+      "#31261b",
+      "#594832",
+      "#161513",
+      "#817760",
+      "#aca68c"
+    ],
+    "radar": [
+      0.010859999805688858,
+      0.32330501079559326,
+      0.40075498819351196,
+      0.11753000319004059,
+      0.021239999681711197,
+      0.0010100000072270632,
+      0.12530000507831573
+    ],
+    "technique": "Oil on canvas, 82 x 67 cm",
+    "time_elapsed": 4,
+    "timeline": "1651-1700",
+    "title": "A Child and Nurse in the Foyer of a Townhouse",
+    "url_wga_info": "https://www.wga.hu/html/o/ochterve/childnur.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ochterve/childnur.jpg"
+  },
+  {
+    "author": "OCHTERVELT, Jacob",
+    "date": "1665",
+    "id": 20508,
+    "local_img": "/images/o/20508.jpg",
+    "num_iterations": 21,
+    "painting_type": "genre",
+    "palette": [
+      "#7d4332",
+      "#3a2822",
+      "#151312",
+      "#a67a61",
+      "#d3c0ab"
+    ],
+    "radar": [
+      0.2737727165222168,
+      0.43061816692352295,
+      0.021795455366373062,
+      0.0025045454967767,
+      0.003740909043699503,
+      0.01958181895315647,
+      0.24798636138439178
+    ],
+    "technique": "Oil on canvas",
+    "time_elapsed": 5,
+    "timeline": "1651-1700",
+    "title": "Street Musicians at the Doorway of a House",
+    "url_wga_info": "https://www.wga.hu/html/o/ochterve/s_musici.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ochterve/s_musici.jpg"
+  },
+  {
+    "author": "OCHTERVELT, Jacob",
+    "date": "1669",
+    "id": 20509,
+    "local_img": "/images/o/20509.jpg",
+    "num_iterations": 19,
+    "painting_type": "genre",
+    "palette": [
+      "#191717",
+      "#30251c",
+      "#524025",
+      "#b39456",
+      "#826835"
+    ],
+    "radar": [
+      0.0933660939335823,
+      0.45750367641448975,
+      0.2751302123069763,
+      0.02314004860818386,
+      0.05261916294693947,
+      0.0513710081577301,
+      0.046869777143001556
+    ],
+    "technique": "Oil on canvas, 81 x 67 cm",
+    "time_elapsed": 4,
+    "timeline": "1651-1700",
+    "title": "Buying Grapes",
+    "url_wga_info": "https://www.wga.hu/html/o/ochterve/grapes.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ochterve/grapes.jpg"
+  },
+  {
+    "author": "OCHTERVELT, Jacob",
+    "date": "1670",
+    "id": 20510,
+    "local_img": "/images/o/20510.jpg",
+    "num_iterations": 17,
+    "painting_type": "portrait",
+    "palette": [
+      "#503d29",
+      "#8d7963",
+      "#282017",
+      "#c0baae",
+      "#12120b"
+    ],
+    "radar": [
+      0.019701052457094193,
+      0.5165894627571106,
+      0.13382737338542938,
+      0.08760420978069305,
+      0.0010147368302568793,
+      0.00027789472369477153,
+      0.24098525941371918
+    ],
+    "technique": "Oil on canvas, 97 x 91 cm",
+    "time_elapsed": 4,
+    "timeline": "1651-1700",
+    "title": "A Family Group",
+    "url_wga_info": "https://www.wga.hu/html/o/ochterve/d_family.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ochterve/d_family.jpg"
+  },
+  {
+    "author": "OCHTERVELT, Jacob",
+    "date": "1670-72",
+    "id": 20511,
+    "local_img": "/images/o/20511.jpg",
+    "num_iterations": 18,
+    "painting_type": "genre",
+    "palette": [
+      "#0f0f0f",
+      "#1e1a1a",
+      "#51392b",
+      "#baab9e",
+      "#7e654f"
+    ],
+    "radar": [
+      0.18106195330619812,
+      0.2878672480583191,
+      0.022336283698678017,
+      0.029575221240520477,
+      0.007933628745377064,
+      0.11034513264894485,
+      0.3608805239200592
+    ],
+    "technique": "Oil on canvas, 91 x 64 cm",
+    "time_elapsed": 4,
+    "timeline": "1651-1700",
+    "title": "The Love Letter",
+    "url_wga_info": "https://www.wga.hu/html/o/ochterve/lovelett.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ochterve/lovelett.jpg"
+  },
+  {
+    "author": "OCHTERVELT, Jacob",
+    "date": "c. 1670",
+    "id": 20512,
+    "local_img": "/images/o/20512.jpg",
+    "num_iterations": 40,
+    "painting_type": "interior",
+    "palette": [
+      "#472d2b",
+      "#c54632",
+      "#bc9785",
+      "#140d11",
+      "#745c62"
+    ],
+    "radar": [
+      0.28990820050239563,
+      0.10547826439142227,
+      0.0011256039142608643,
+      0.0000193236719496781,
+      0.015729468315839767,
+      0.2653140127658844,
+      0.32242512702941895
+    ],
+    "technique": "Oil on canvas, 59 x 49 cm",
+    "time_elapsed": 9,
+    "timeline": "1651-1700",
+    "title": "Musical Company in an Interior",
+    "url_wga_info": "https://www.wga.hu/html/o/ochterve/mcompany.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ochterve/mcompany.jpg"
+  },
+  {
+    "author": "ODEKERKEN, Willem van",
+    "date": "1638",
+    "id": 20513,
+    "local_img": "/images/o/20513.jpg",
+    "num_iterations": 12,
+    "painting_type": "genre",
+    "palette": [
+      "#cdb298",
+      "#514029",
+      "#96753d",
+      "#322712",
+      "#131007"
+    ],
+    "radar": [
+      0.014118644408881664,
+      0.7036892771720886,
+      0.17607344686985016,
+      0.0024237288162112236,
+      0.000039548023778479546,
+      0.0015932203968986869,
+      0.10206214338541031
+    ],
+    "technique": "Oil on panel, 104 x 76 cm",
+    "time_elapsed": 2,
+    "timeline": "1601-1650",
+    "title": "The Housewife",
+    "url_wga_info": "https://www.wga.hu/html/o/odekerke/houswife.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/odekerke/houswife.jpg"
+  },
+  {
+    "author": "ODEKERKEN, Willem van",
+    "date": "1642",
+    "id": 20514,
+    "local_img": "/images/o/20514.jpg",
+    "num_iterations": 23,
+    "painting_type": "still-life",
+    "palette": [
+      "#211c19",
+      "#44352c",
+      "#685949",
+      "#cec8c1",
+      "#988c7c"
+    ],
+    "radar": [
+      0.10755500197410583,
+      0.7411900162696838,
+      0.04323999956250191,
+      0.002580000087618828,
+      0.0006099999882280827,
+      0.003924999851733446,
+      0.10090000182390213
+    ],
+    "technique": "Oil on panel, 79 x 62 cm",
+    "time_elapsed": 5,
+    "timeline": "1601-1650",
+    "title": "Still-Life with a Lute",
+    "url_wga_info": "https://www.wga.hu/html/o/odekerke/stillute.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/odekerke/stillute.jpg"
+  },
+  {
+    "author": "ODERISI, Roberto d'",
+    "date": "1340-45",
+    "id": 20515,
+    "local_img": "/images/o/20515.jpg",
+    "num_iterations": 10,
+    "painting_type": "religious",
+    "palette": [
+      "#2e2019",
+      "#85522b",
+      "#bf8b48",
+      "#d5d5df",
+      "#b5b5c5"
+    ],
+    "radar": [
+      0.11283598095178604,
+      0.5736507773399353,
+      0.03159259259700775,
+      0.0009629629785194993,
+      0.18802645802497864,
+      0.01779894158244133,
+      0.07513227313756943
+    ],
+    "technique": "Tempera on wood",
+    "time_elapsed": 2,
+    "timeline": "1351-1400",
+    "title": "Madonna of Humility",
+    "url_wga_info": "https://www.wga.hu/html/o/oderisid/humility.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oderisid/humility.jpg"
+  },
+  {
+    "author": "ODERISI, Roberto d'",
+    "date": "1370s",
+    "id": 20516,
+    "local_img": "/images/o/20516.jpg",
+    "num_iterations": 34,
+    "painting_type": "religious",
+    "palette": [
+      "#573a18",
+      "#31281d",
+      "#7e5918",
+      "#9b8457",
+      "#bebcbe"
+    ],
+    "radar": [
+      0.02503921650350094,
+      0.5498627424240112,
+      0.1653268039226532,
+      0.0032875817269086838,
+      0.0002026143774855882,
+      0.0005228758091107011,
+      0.2557581663131714
+    ],
+    "technique": "Tempera on panel, gold ground, shaped top, 88 x 49 cm",
+    "time_elapsed": 5,
+    "timeline": "1351-1400",
+    "title": "Pietà",
+    "url_wga_info": "https://www.wga.hu/html/o/oderisid/pieta.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oderisid/pieta.jpg"
+  },
+  {
+    "author": "ODEVAERE, Joseph-Denis",
+    "date": "1805",
+    "id": 20517,
+    "local_img": "/images/o/20517.jpg",
+    "num_iterations": 25,
+    "painting_type": "portrait",
+    "palette": [
+      "#2e1f1e",
+      "#4b362c",
+      "#805a38",
+      "#be9a64",
+      "#0f0b10"
+    ],
+    "radar": [
+      0.3366928994655609,
+      0.3717401623725891,
+      0.004133858252316713,
+      0.000031496063456870615,
+      0.0006929133669473231,
+      0.09402362257242203,
+      0.19268503785133362
+    ],
+    "technique": "Oil on canvas, 256 x 132 cm",
+    "time_elapsed": 3,
+    "timeline": "1801-1850",
+    "title": "Portrait of François Wynckelman, François van der Donckt and Joseph Odevaere",
+    "url_wga_info": "https://www.wga.hu/html/o/odevaere/chairman.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/odevaere/chairman.jpg"
+  },
+  {
+    "author": "ODEVAERE, Joseph-Denis",
+    "date": "1805",
+    "id": 20518,
+    "local_img": "/images/o/20518.jpg",
+    "num_iterations": 12,
+    "painting_type": "portrait",
+    "palette": [
+      "#281d19",
+      "#5d3c2b",
+      "#796548",
+      "#929184",
+      "#ccccba"
+    ],
+    "radar": [
+      0.11156298220157623,
+      0.24225707352161407,
+      0.30831363797187805,
+      0.042987145483493805,
+      0.05046786740422249,
+      0.004874036181718111,
+      0.23953726887702942
+    ],
+    "technique": "Oil on canvas, 207 x 164 cm",
+    "time_elapsed": 3,
+    "timeline": "1801-1850",
+    "title": "Portrait of a Lady",
+    "url_wga_info": "https://www.wga.hu/html/o/odevaere/portlady.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/odevaere/portlady.jpg"
+  },
+  {
+    "author": "ODEVAERE, Joseph-Denis",
+    "date": "1814",
+    "id": 20519,
+    "local_img": "/images/o/20519.jpg",
+    "num_iterations": 18,
+    "painting_type": "portrait",
+    "palette": [
+      "#131313",
+      "#322b24",
+      "#524c43",
+      "#877c61",
+      "#cfb97e"
+    ],
+    "radar": [
+      0.04810555651783943,
+      0.2601388990879059,
+      0.15621666610240936,
+      0.05238333344459534,
+      0.16277222335338593,
+      0.01622222177684307,
+      0.30416110157966614
+    ],
+    "technique": "Oil on canvas, 177 x 130,5 cm",
+    "time_elapsed": 3,
+    "timeline": "1801-1850",
+    "title": "Portrait of a Prominent Gentleman with his Daughter and Hunting Dog",
+    "url_wga_info": "https://www.wga.hu/html/o/odevaere/gentlema.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/odevaere/gentlema.jpg"
+  },
+  {
+    "author": "ODEVAERE, Joseph-Denis",
+    "date": "c. 1805",
+    "id": 20520,
+    "local_img": "/images/o/20520.jpg",
+    "num_iterations": 18,
+    "painting_type": "mythological",
+    "palette": [
+      "#dbbc93",
+      "#8b7750",
+      "#414632",
+      "#242a1d",
+      "#2f7088"
+    ],
+    "radar": [
+      0.003246200503781438,
+      0.2554589807987213,
+      0.09902127832174301,
+      0.5274224877357483,
+      0.11352583765983582,
+      0.000060790272982558236,
+      0.0012644376838579774
+    ],
+    "technique": "Oil on canvas, 172 x 110 cm",
+    "time_elapsed": 3,
+    "timeline": "1801-1850",
+    "title": "Narcissus",
+    "url_wga_info": "https://www.wga.hu/html/o/odevaere/narcissu.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/odevaere/narcissu.jpg"
+  },
+  {
+    "author": "ODEVAERE, Joseph-Denis",
+    "date": "c. 1826",
+    "id": 20521,
+    "local_img": "/images/o/20521.jpg",
+    "num_iterations": 21,
+    "painting_type": "historical",
+    "palette": [
+      "#231a18",
+      "#3b3029",
+      "#5f4837",
+      "#97774d",
+      "#dcb778"
+    ],
+    "radar": [
+      0.2593732178211212,
+      0.49365243315696716,
+      0.07634188234806061,
+      0.04508262127637863,
+      0.01339031383395195,
+      0.058467235416173935,
+      0.05369230732321739
+    ],
+    "technique": "Oil on canvas, 166 x 234,5 cm",
+    "time_elapsed": 4,
+    "timeline": "1801-1850",
+    "title": "Lord Byron on his Death-bed",
+    "url_wga_info": "https://www.wga.hu/html/o/odevaere/l_byron.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/odevaere/l_byron.jpg"
+  },
+  {
+    "author": "OEHME, Ernst Ferdinand",
+    "date": "1821",
+    "id": 20522,
+    "local_img": "/images/o/20522.jpg",
+    "num_iterations": 12,
+    "painting_type": "landscape",
+    "palette": [
+      "#1f1d1c",
+      "#41362c",
+      "#65543a",
+      "#8a7b59",
+      "#b8b396"
+    ],
+    "radar": [
+      0.05510880798101425,
+      0.4696062207221985,
+      0.3133886158466339,
+      0.04216580465435982,
+      0.035564765334129333,
+      0.019725387915968895,
+      0.06444041430950165
+    ],
+    "technique": "Oil on canvas, 127 x 100 cm",
+    "time_elapsed": 3,
+    "timeline": "1801-1850",
+    "title": "Cathedral in Winter",
+    "url_wga_info": "https://www.wga.hu/html/o/oehme/winter.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oehme/winter.jpg"
+  },
+  {
+    "author": "OEVER, Hendrick ten",
+    "date": "-",
+    "id": 20523,
+    "local_img": "/images/o/20523.jpg",
+    "num_iterations": 21,
+    "painting_type": "landscape",
+    "palette": [
+      "#2b2410",
+      "#796c42",
+      "#514317",
+      "#cdc59b",
+      "#afae95"
+    ],
+    "radar": [
+      0.002632124349474907,
+      0.10399481654167175,
+      0.6682435274124146,
+      0.18168911337852478,
+      0.000015544041161774658,
+      0.000046632125304313377,
+      0.04337823763489723
+    ],
+    "technique": "Oil on canvas, 67 x 87 cm",
+    "time_elapsed": 4,
+    "timeline": "1651-1700",
+    "title": "Canal Landscape with Figures Bathing",
+    "url_wga_info": "https://www.wga.hu/html/o/oever/canaland.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oever/canaland.jpg"
+  },
+  {
+    "author": "OEVER, Hendrick ten",
+    "date": "c. 1660",
+    "id": 20524,
+    "local_img": "/images/o/20524.jpg",
+    "num_iterations": 20,
+    "painting_type": "landscape",
+    "palette": [
+      "#383937",
+      "#798073",
+      "#515450",
+      "#bdc8ce",
+      "#211f21"
+    ],
+    "radar": [
+      0.10010798275470734,
+      0.14272300899028778,
+      0.10151173919439316,
+      0.19695305824279785,
+      0.16230516135692596,
+      0.02184976451098919,
+      0.27454930543899536
+    ],
+    "technique": "Oil on canvas, 52 x 45 cm",
+    "time_elapsed": 5,
+    "timeline": "1651-1700",
+    "title": "Landscape with Urn",
+    "url_wga_info": "https://www.wga.hu/html/o/oever/land_urn.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oever/land_urn.jpg"
+  },
+  {
+    "author": "OGGIONO, Marco d'",
+    "date": "1491-94",
+    "id": 20525,
+    "local_img": "/images/o/20525.jpg",
+    "num_iterations": 15,
+    "painting_type": "religious",
+    "palette": [
+      "#502a1e",
+      "#8b4c2c",
+      "#9a8979",
+      "#c0bfb7",
+      "#211213"
+    ],
+    "radar": [
+      0.4371838867664337,
+      0.3008110821247101,
+      0.03496221825480461,
+      0.01400503795593977,
+      0.02797481045126915,
+      0.030659949406981468,
+      0.15440301597118378
+    ],
+    "technique": "Oil on panel",
+    "time_elapsed": 3,
+    "timeline": "1451-1500",
+    "title": "Resurrection of Christ with Sts Leonardo and Lucy",
+    "url_wga_info": "https://www.wga.hu/html/o/oggiono/resurrec.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oggiono/resurrec.jpg"
+  },
+  {
+    "author": "OGGIONO, Marco d'",
+    "date": "-",
+    "id": 20526,
+    "local_img": "/images/o/20526.jpg",
+    "num_iterations": 15,
+    "painting_type": "religious",
+    "palette": [
+      "#49241d",
+      "#c2bbb9",
+      "#191210",
+      "#824a39",
+      "#9e8b7f"
+    ],
+    "radar": [
+      0.3894799053668976,
+      0.28817158937454224,
+      0.02267560362815857,
+      0.0027506703045219183,
+      0.007120643276721239,
+      0.016139410436153412,
+      0.2736622095108032
+    ],
+    "technique": "Oil on panel, 255 x 190 cm",
+    "time_elapsed": 3,
+    "timeline": "1501-1550",
+    "title": "The Three Archangels",
+    "url_wga_info": "https://www.wga.hu/html/o/oggiono/archange.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oggiono/archange.jpg"
+  },
+  {
+    "author": "OGGIONO, Marco d'",
+    "date": "-",
+    "id": 20527,
+    "local_img": "/images/o/20527.jpg",
+    "num_iterations": 18,
+    "painting_type": "religious",
+    "palette": [
+      "#3a1f19",
+      "#653b26",
+      "#a1764b",
+      "#e3cbaf",
+      "#0a0b0d"
+    ],
+    "radar": [
+      0.1910223364830017,
+      0.351305216550827,
+      0.014168734662234783,
+      0.014679900370538235,
+      0.024327542632818222,
+      0.004714640323072672,
+      0.39978164434432983
+    ],
+    "technique": "Oil on panel, 47 x cm",
+    "time_elapsed": 4,
+    "timeline": "1501-1550",
+    "title": "The Holy Family",
+    "url_wga_info": "https://www.wga.hu/html/o/oggiono/holyfami.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oggiono/holyfami.jpg"
+  },
+  {
+    "author": "OGGIONO, Marco d'",
+    "date": "c. 1515",
+    "id": 20528,
+    "local_img": "/images/o/20528.jpg",
+    "num_iterations": 15,
+    "painting_type": "religious",
+    "palette": [
+      "#4d371b",
+      "#1a1915",
+      "#cac5ae",
+      "#71817b",
+      "#2d464b"
+    ],
+    "radar": [
+      0.045666664838790894,
+      0.20534895360469818,
+      0.20004688203334808,
+      0.20081250369548798,
+      0.18410415947437286,
+      0.0014270832762122154,
+      0.1625937521457672
+    ],
+    "technique": "Oil on walnut panel, 78 x 60 cm",
+    "time_elapsed": 3,
+    "timeline": "1501-1550",
+    "title": "Virgin and Child before a Landscape",
+    "url_wga_info": "https://www.wga.hu/html/o/oggiono/virginch.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oggiono/virginch.jpg"
+  },
+  {
+    "author": "OGGIONO, Marco d'",
+    "date": "c. 1524",
+    "id": 20529,
+    "local_img": "/images/o/20529.jpg",
+    "num_iterations": 10,
+    "painting_type": "religious",
+    "palette": [
+      "#a69491",
+      "#1b1514",
+      "#462a22",
+      "#87553c",
+      "#c1cad0"
+    ],
+    "radar": [
+      0.32059499621391296,
+      0.3755649924278259,
+      0.005795000120997429,
+      0.0029299999587237835,
+      0.16614499688148499,
+      0.026635000482201576,
+      0.10233499854803085
+    ],
+    "technique": "Oil on canvas, transferred from wood, 176 x 148 cm",
+    "time_elapsed": 2,
+    "timeline": "1501-1550",
+    "title": "Virgin and Child Enthroned with Saints",
+    "url_wga_info": "https://www.wga.hu/html/o/oggiono/virgin_c.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oggiono/virgin_c.jpg"
+  },
+  {
+    "author": "OLIS, Jan",
+    "date": "-",
+    "id": 20530,
+    "local_img": "/images/o/20530.jpg",
+    "num_iterations": 14,
+    "painting_type": "genre",
+    "palette": [
+      "#2e2726",
+      "#564338",
+      "#987551",
+      "#dacdb2",
+      "#111316"
+    ],
+    "radar": [
+      0.1594114601612091,
+      0.4360937476158142,
+      0.06855208426713943,
+      0.017468750476837158,
+      0.05633854120969772,
+      0.05414583161473274,
+      0.20798958837985992
+    ],
+    "technique": "Oil on panel, 42 x 53 cm",
+    "time_elapsed": 3,
+    "timeline": "1601-1650",
+    "title": "Elegantly Dressed Women Smoking and Drinking",
+    "url_wga_info": "https://www.wga.hu/html/o/olis/women.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/olis/women.jpg"
+  },
+  {
+    "author": "OLIS, Jan",
+    "date": "1637",
+    "id": 20531,
+    "local_img": "/images/o/20531.jpg",
+    "num_iterations": 16,
+    "painting_type": "genre",
+    "palette": [
+      "#43302c",
+      "#5f4f41",
+      "#b4a28b",
+      "#85745d",
+      "#231b1e"
+    ],
+    "radar": [
+      0.18680502474308014,
+      0.717805027961731,
+      0.016522012650966644,
+      0.0005660377210006118,
+      0.015207546763122082,
+      0.03942767158150673,
+      0.023666666820645332
+    ],
+    "technique": "Oil on panel, 40 x 63 cm",
+    "time_elapsed": 3,
+    "timeline": "1601-1650",
+    "title": "Elegant Company Playing Cards",
+    "url_wga_info": "https://www.wga.hu/html/o/olis/company.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/olis/company.jpg"
+  },
+  {
+    "author": "OLIVER, Isaac",
+    "date": "c. 1595",
+    "id": 20532,
+    "local_img": "/images/o/20532.jpg",
+    "num_iterations": 18,
+    "painting_type": "portrait",
+    "palette": [
+      "#3f3a38",
+      "#7d6c62",
+      "#af9a8b",
+      "#cdc8c3",
+      "#090d0f"
+    ],
+    "radar": [
+      0.07867342978715897,
+      0.282117635011673,
+      0.03565111383795738,
+      0.0051399595104157925,
+      0.0560324527323246,
+      0.01492089219391346,
+      0.5274645090103149
+    ],
+    "technique": "Watercolour on parchment, diameter 13 cm",
+    "time_elapsed": 5,
+    "timeline": "1551-1600",
+    "title": "Frances Howard, Countess of Somerset and Essex",
+    "url_wga_info": "https://www.wga.hu/html/o/oliver/isaac/f_howard.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oliver/isaac/f_howard.jpg"
+  },
+  {
+    "author": "OLIVER, Isaac",
+    "date": "c. 1610",
+    "id": 20533,
+    "local_img": "/images/o/20533.jpg",
+    "num_iterations": 13,
+    "painting_type": "portrait",
+    "palette": [
+      "#b0a273",
+      "#726841",
+      "#d9d2af",
+      "#3b391e",
+      "#000100"
+    ],
+    "radar": [
+      0.00013559321814682335,
+      0.07143502682447433,
+      0.43959322571754456,
+      0.05421468988060951,
+      0.0015254237223416567,
+      0.0002598870196379721,
+      0.4328361451625824
+    ],
+    "technique": "Watercolour on vellum, 59 x 48 mm",
+    "time_elapsed": 1,
+    "timeline": "1551-1600",
+    "title": "A Lady in Masque Costume",
+    "url_wga_info": "https://www.wga.hu/html/o/oliver/isaac/masque.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oliver/isaac/masque.jpg"
+  },
+  {
+    "author": "OLIVIER, Ferdinand",
+    "date": "1831",
+    "id": 20534,
+    "local_img": "/images/o/20534.jpg",
+    "num_iterations": 10,
+    "painting_type": "landscape",
+    "palette": [
+      "#000000",
+      "#4f3c34",
+      "#2b2623",
+      "#846855",
+      "#bbb7ae"
+    ],
+    "radar": [
+      0.3284918963909149,
+      0.4152270257472992,
+      0.04167027026414871,
+      0.007486486341804266,
+      0.03772972896695137,
+      0.000994594651274383,
+      0.16840000450611115
+    ],
+    "technique": "Oil on canvas, 75 x 57 cm",
+    "time_elapsed": 2,
+    "timeline": "1801-1850",
+    "title": "Elijah in the Wilderness",
+    "url_wga_info": "https://www.wga.hu/html/o/olivier/elijah.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/olivier/elijah.jpg"
+  },
+  {
+    "author": "OLLIVIER, Michel-Barthélémy",
+    "date": "1766",
+    "id": 20535,
+    "local_img": "/images/o/20535.jpg",
+    "num_iterations": 15,
+    "painting_type": "genre",
+    "palette": [
+      "#1a1414",
+      "#3f3227",
+      "#604f3c",
+      "#b2a58f",
+      "#8c7b5f"
+    ],
+    "radar": [
+      0.05350785329937935,
+      0.6747958064079285,
+      0.17089004814624786,
+      0.007314136251807213,
+      0.009738219901919365,
+      0.013628272339701653,
+      0.07012565433979034
+    ],
+    "technique": "Oil on canvas, 53 x 68 cm",
+    "time_elapsed": 3,
+    "timeline": "1751-1800",
+    "title": "Afternoon Tea at the Temple",
+    "url_wga_info": "https://www.wga.hu/html/o/ollivier/aftertea.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ollivier/aftertea.jpg"
+  },
+  {
+    "author": "OMMEGANCK, Balthazar Paul",
+    "date": "c. 1800",
+    "id": 20536,
+    "local_img": "/images/o/20536.jpg",
+    "num_iterations": 36,
+    "painting_type": "landscape",
+    "palette": [
+      "#ecbf71",
+      "#846632",
+      "#b19a6d",
+      "#564625",
+      "#352f1f"
+    ],
+    "radar": [
+      0.01204639207571745,
+      0.5731391906738281,
+      0.374355673789978,
+      0.03863917663693428,
+      5.154638984095072e-6,
+      0.00033505153260193765,
+      0.001479381462559104
+    ],
+    "technique": "Oil on panel, 68 x 83 cm",
+    "time_elapsed": 8,
+    "timeline": "1751-1800",
+    "title": "Landscape with a Flock of Sheep",
+    "url_wga_info": "https://www.wga.hu/html/o/ommeganc/landscap.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ommeganc/landscap.jpg"
+  },
+  {
+    "author": "OOST, Jacob van, the Elder",
+    "date": "-",
+    "id": 20537,
+    "local_img": "/images/o/20537.jpg",
+    "num_iterations": 11,
+    "painting_type": "religious",
+    "palette": [
+      "#2e1c1a",
+      "#54322e",
+      "#b24236",
+      "#908783",
+      "#ded1ba"
+    ],
+    "radar": [
+      0.5956000089645386,
+      0.19916315376758575,
+      0.0386473685503006,
+      0.00007894737063907087,
+      0.09846842288970947,
+      0.021005263552069664,
+      0.04703684151172638
+    ],
+    "technique": "Oil on canvas, 74,3 x 56,8 cm",
+    "time_elapsed": 2,
+    "timeline": "1601-1650",
+    "title": "Female Martyr",
+    "url_wga_info": "https://www.wga.hu/html/o/oost/elder/f_martyr.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oost/elder/f_martyr.jpg"
+  },
+  {
+    "author": "OOST, Jacob van, the Elder",
+    "date": "-",
+    "id": 20538,
+    "local_img": "/images/o/20538.jpg",
+    "num_iterations": 16,
+    "painting_type": "portrait",
+    "palette": [
+      "#1b1313",
+      "#442c2a",
+      "#926d57",
+      "#c6b7a4",
+      "#281c1d"
+    ],
+    "radar": [
+      0.7591948509216309,
+      0.10540000349283218,
+      0.008441025391221046,
+      0.0006461538723669946,
+      0.00026153845828957856,
+      0.029143590480089188,
+      0.09691282361745834
+    ],
+    "technique": "Oil on canvas, 106 x 83 cm",
+    "time_elapsed": 3,
+    "timeline": "1601-1650",
+    "title": "Portrait of Fovin de Hasque",
+    "url_wga_info": "https://www.wga.hu/html/o/oost/elder/port_fov.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oost/elder/port_fov.jpg"
+  },
+  {
+    "author": "OOST, Jacob van, the Elder",
+    "date": "-",
+    "id": 20539,
+    "local_img": "/images/o/20539.jpg",
+    "num_iterations": 12,
+    "painting_type": "portrait",
+    "palette": [
+      "#2e1b0b",
+      "#6e5432",
+      "#503819",
+      "#b39561",
+      "#6f111a"
+    ],
+    "radar": [
+      0.08586732298135757,
+      0.8204815983772278,
+      0.05209828168153763,
+      0.013248157687485218,
+      0.006176904309540987,
+      0.000024570024834247306,
+      0.022103194147348404
+    ],
+    "technique": "Oil on canvas, 83 x 68 cm",
+    "time_elapsed": 3,
+    "timeline": "1601-1650",
+    "title": "Portrait of Salomon van Meldeghem",
+    "url_wga_info": "https://www.wga.hu/html/o/oost/elder/port_mel.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oost/elder/port_mel.jpg"
+  },
+  {
+    "author": "OOST, Jacob van, the Elder",
+    "date": "-",
+    "id": 20540,
+    "local_img": "/images/o/20540.jpg",
+    "num_iterations": 16,
+    "painting_type": "religious",
+    "palette": [
+      "#382727",
+      "#593d3d",
+      "#9f4740",
+      "#887371",
+      "#d4c6c1"
+    ],
+    "radar": [
+      0.838361918926239,
+      0.04811428487300873,
+      0.0009714285843074322,
+      0.00006349206523736939,
+      0.0012507936917245388,
+      0.05365079268813133,
+      0.05758730322122574
+    ],
+    "technique": "Oil on canvas, 301 x 181 cm",
+    "time_elapsed": 3,
+    "timeline": "1601-1650",
+    "title": "St Martin",
+    "url_wga_info": "https://www.wga.hu/html/o/oost/elder/stmartin.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oost/elder/stmartin.jpg"
+  },
+  {
+    "author": "OOST, Jacob van, the Elder",
+    "date": "1630",
+    "id": 20541,
+    "local_img": "/images/o/20541.jpg",
+    "num_iterations": 21,
+    "painting_type": "religious",
+    "palette": [
+      "#4c3429",
+      "#1e1a17",
+      "#6f5a47",
+      "#97826a",
+      "#cec4b6"
+    ],
+    "radar": [
+      0.1341145783662796,
+      0.6081926822662354,
+      0.11351562291383743,
+      0.017635416239500046,
+      0.03256770968437195,
+      0.007072916720062494,
+      0.08690103888511658
+    ],
+    "technique": "Oil on panel, 147 x 114 cm",
+    "time_elapsed": 4,
+    "timeline": "1601-1650",
+    "title": "Adoration of the Shepherds",
+    "url_wga_info": "https://www.wga.hu/html/o/oost/elder/adorati1.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oost/elder/adorati1.jpg"
+  },
+  {
+    "author": "OOST, Jacob van, the Elder",
+    "date": "1634",
+    "id": 20542,
+    "local_img": "/images/o/20542.jpg",
+    "num_iterations": 14,
+    "painting_type": "genre",
+    "palette": [
+      "#5c473c",
+      "#8b7a63",
+      "#bfb097",
+      "#0f0d13",
+      "#252128"
+    ],
+    "radar": [
+      0.16679194569587708,
+      0.3519328832626343,
+      0.048953019082546234,
+      0.0018255033064633608,
+      0.15544965863227844,
+      0.0331006720662117,
+      0.24194630980491638
+    ],
+    "technique": "Oil on canvas, 58 x 97 cm",
+    "time_elapsed": 2,
+    "timeline": "1601-1650",
+    "title": "Card-Sharpers",
+    "url_wga_info": "https://www.wga.hu/html/o/oost/elder/cardshar.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oost/elder/cardshar.jpg"
+  },
+  {
+    "author": "OOST, Jacob van, the Elder",
+    "date": "1642",
+    "id": 20543,
+    "local_img": "/images/o/20543.jpg",
+    "num_iterations": 17,
+    "painting_type": "religious",
+    "palette": [
+      "#694832",
+      "#3b2c21",
+      "#17130f",
+      "#261f18",
+      "#a28b6c"
+    ],
+    "radar": [
+      0.06651769578456879,
+      0.7743982076644897,
+      0.06535840779542923,
+      0.026756636798381805,
+      0.0037964601069688797,
+      0.00003539822864695452,
+      0.06313716620206833
+    ],
+    "technique": "Oil on canvas, 202 x 182 cm",
+    "time_elapsed": 4,
+    "timeline": "1601-1650",
+    "title": "Adoration of the Shepherds",
+    "url_wga_info": "https://www.wga.hu/html/o/oost/elder/adorati2.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oost/elder/adorati2.jpg"
+  },
+  {
+    "author": "OOST, Jacob van, the Elder",
+    "date": "1643",
+    "id": 20544,
+    "local_img": "/images/o/20544.jpg",
+    "num_iterations": 21,
+    "painting_type": "religious",
+    "palette": [
+      "#6a3e1d",
+      "#2d2310",
+      "#c1a966",
+      "#837a4e",
+      "#0c0f06"
+    ],
+    "radar": [
+      0.007784061599522829,
+      0.29252442717552185,
+      0.295475572347641,
+      0.16536246240139008,
+      0.00014910026220604777,
+      5.141388101037592e-6,
+      0.23869922757148743
+    ],
+    "technique": "Oil on canvas, 102 x 81 cm",
+    "time_elapsed": 4,
+    "timeline": "1601-1650",
+    "title": "David Bearing the Head of Goliath",
+    "url_wga_info": "https://www.wga.hu/html/o/oost/elder/david.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oost/elder/david.jpg"
+  },
+  {
+    "author": "OOST, Jacob van, the Elder",
+    "date": "1645",
+    "id": 20545,
+    "local_img": "/images/o/20545.jpg",
+    "num_iterations": 21,
+    "painting_type": "portrait",
+    "palette": [
+      "#49382e",
+      "#765c4b",
+      "#ceba9d",
+      "#9c8d76",
+      "#1d1b17"
+    ],
+    "radar": [
+      0.07416778802871704,
+      0.6705033779144287,
+      0.15750335156917572,
+      0.028295302763581276,
+      0.0036510066129267216,
+      0.0011543624568730593,
+      0.06472483277320862
+    ],
+    "technique": "Oil on canvas, 150, 5 x 255,5 cm",
+    "time_elapsed": 3,
+    "timeline": "1601-1650",
+    "title": "Portrait of a Bruges Family",
+    "url_wga_info": "https://www.wga.hu/html/o/oost/elder/family.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oost/elder/family.jpg"
+  },
+  {
+    "author": "OOST, Jacob van, the Elder",
+    "date": "1661",
+    "id": 20546,
+    "local_img": "/images/o/20546.jpg",
+    "num_iterations": 8,
+    "painting_type": "religious",
+    "palette": [
+      "#492b1a",
+      "#654027",
+      "#a88e71",
+      "#2b2418",
+      "#1b1b13"
+    ],
+    "radar": [
+      0.049167513847351074,
+      0.4514111578464508,
+      0.3035736083984375,
+      0.1755482256412506,
+      0.000010152284630748909,
+      5.0761423153744545e-6,
+      0.020284263417124748
+    ],
+    "technique": "Oil on canvas, 98 x 122 cm",
+    "time_elapsed": 2,
+    "timeline": "1601-1650",
+    "title": "Christ Crowned with Thorns",
+    "url_wga_info": "https://www.wga.hu/html/o/oost/elder/thorns.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oost/elder/thorns.jpg"
+  },
+  {
+    "author": "OOST, Jacob van, the Elder",
+    "date": "1666",
+    "id": 20547,
+    "local_img": "/images/o/20547.jpg",
+    "num_iterations": 22,
+    "painting_type": "genre",
+    "palette": [
+      "#5f3a36",
+      "#956e54",
+      "#d6c1a0",
+      "#1a1518",
+      "#372528"
+    ],
+    "radar": [
+      0.48594608902931213,
+      0.2185983806848526,
+      0.013110511936247349,
+      0.0002911051269620657,
+      0.009935310110449791,
+      0.21850673854351044,
+      0.05361185967922211
+    ],
+    "technique": "Oil on canvas, 111,5 x 150,5 cm",
+    "time_elapsed": 4,
+    "timeline": "1601-1650",
+    "title": "The Artist's Studio",
+    "url_wga_info": "https://www.wga.hu/html/o/oost/elder/studio.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oost/elder/studio.jpg"
+  },
+  {
+    "author": "OOST, Jacob van, the Younger",
+    "date": "-",
+    "id": 20548,
+    "local_img": "/images/o/20548.jpg",
+    "num_iterations": 15,
+    "painting_type": "portrait",
+    "palette": [
+      "#564027",
+      "#41301d",
+      "#b5a997",
+      "#7c7263",
+      "#1e1c15"
+    ],
+    "radar": [
+      0.003695431398227811,
+      0.7346751093864441,
+      0.2197411209344864,
+      0.006467005237936974,
+      0.0003908629296347499,
+      0.00019289340707473457,
+      0.03483756259083748
+    ],
+    "technique": "Oil on canvas, 76 x 58 cm",
+    "time_elapsed": 3,
+    "timeline": "1651-1700",
+    "title": "Portrait of a Man",
+    "url_wga_info": "https://www.wga.hu/html/o/oost/younger/portrait.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oost/younger/portrait.jpg"
+  },
+  {
+    "author": "OOST, Jacob van, the Younger",
+    "date": "1668",
+    "id": 20549,
+    "local_img": "/images/o/20549.jpg",
+    "num_iterations": 9,
+    "painting_type": "religious",
+    "palette": [
+      "#833012",
+      "#472b16",
+      "#997b5d",
+      "#624e31",
+      "#231e13"
+    ],
+    "radar": [
+      0.15658272802829742,
+      0.5917626023292542,
+      0.22232374548912048,
+      0.010064748115837574,
+      0.007827337831258774,
+      0.001251798588782549,
+      0.010187050327658653
+    ],
+    "technique": "Oil on canvas, 129 x 236 cm",
+    "time_elapsed": 1,
+    "timeline": "1651-1700",
+    "title": "Christ and the Samaritan Woman at the Well",
+    "url_wga_info": "https://www.wga.hu/html/o/oost/younger/christ_s.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oost/younger/christ_s.jpg"
+  },
+  {
+    "author": "OOST, Jacob van, the Younger",
+    "date": "1673",
+    "id": 20550,
+    "local_img": "/images/o/20550.jpg",
+    "num_iterations": 22,
+    "painting_type": "religious",
+    "palette": [
+      "#65462a",
+      "#8f6f4f",
+      "#d1bca3",
+      "#3b2e1c",
+      "#191a13"
+    ],
+    "radar": [
+      0.043283019214868546,
+      0.5785875916481018,
+      0.20467925071716309,
+      0.10971428453922272,
+      0.017708895727992058,
+      0.00007008085958659649,
+      0.045956872403621674
+    ],
+    "technique": "Oil on canvas, 350 x 257 cm",
+    "time_elapsed": 4,
+    "timeline": "1651-1700",
+    "title": "St Macarius of Ghent Giving Aid to the Plague Victims",
+    "url_wga_info": "https://www.wga.hu/html/o/oost/younger/macarius.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oost/younger/macarius.jpg"
+  },
+  {
+    "author": "OOST, Jacob van, the Younger",
+    "date": "1697",
+    "id": 20551,
+    "local_img": "/images/o/20551.jpg",
+    "num_iterations": 13,
+    "painting_type": "portrait",
+    "palette": [
+      "#794c4a",
+      "#b68474",
+      "#bebcbe",
+      "#251d20",
+      "#39262b"
+    ],
+    "radar": [
+      0.32407960295677185,
+      0.014905472286045551,
+      0.000054726369853597134,
+      0.000024875622330000624,
+      0.00006965173815842718,
+      0.46125373244285583,
+      0.19961194694042206
+    ],
+    "technique": "Oil on canvas, 73 x 59 cm",
+    "time_elapsed": 3,
+    "timeline": "1651-1700",
+    "title": "Portrait of a Man",
+    "url_wga_info": "https://www.wga.hu/html/o/oost/younger/port_man.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oost/younger/port_man.jpg"
+  },
+  {
+    "author": "OOSTEN, Izaac van",
+    "date": "-",
+    "id": 20552,
+    "local_img": "/images/o/20552.jpg",
+    "num_iterations": 15,
+    "painting_type": "religious",
+    "palette": [
+      "#2e2b24",
+      "#4e4530",
+      "#b6b09e",
+      "#7f7657",
+      "#1b1b1e"
+    ],
+    "radar": [
+      0.022348623722791672,
+      0.24998776614665985,
+      0.39913150668144226,
+      0.03997553512454033,
+      0.13166360557079315,
+      0.020403670147061348,
+      0.13648930191993713
+    ],
+    "technique": "Oil on copper, 70 x 106 cm",
+    "time_elapsed": 3,
+    "timeline": "1601-1650",
+    "title": "The Fall of Man",
+    "url_wga_info": "https://www.wga.hu/html/o/oosten/fall_man.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oosten/fall_man.jpg"
+  },
+  {
+    "author": "OOSTEN, Izaac van",
+    "date": "-",
+    "id": 20553,
+    "local_img": "/images/o/20553.jpg",
+    "num_iterations": 5,
+    "painting_type": "landscape",
+    "palette": [
+      "#463b26",
+      "#29251b",
+      "#635c47",
+      "#7f8684",
+      "#9ea5ad"
+    ],
+    "radar": [
+      0.003511111019179225,
+      0.22027301788330078,
+      0.18125714361667633,
+      0.1541396826505661,
+      0.2822539806365967,
+      0.0001841269840952009,
+      0.15838095545768738
+    ],
+    "technique": "Oil on oak panel, 29 x 46 cm",
+    "time_elapsed": 1,
+    "timeline": "1601-1650",
+    "title": "Landscape",
+    "url_wga_info": "https://www.wga.hu/html/o/oosten/landsca.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oosten/landsca.jpg"
+  },
+  {
+    "author": "OOSTEN, Izaac van",
+    "date": "-",
+    "id": 20554,
+    "local_img": "/images/o/20554.jpg",
+    "num_iterations": 45,
+    "painting_type": "landscape",
+    "palette": [
+      "#251b13",
+      "#54462e",
+      "#b0a073",
+      "#817146",
+      "#ced8e0"
+    ],
+    "radar": [
+      0.028218310326337814,
+      0.29166901111602783,
+      0.2790563404560089,
+      0.028401408344507217,
+      0.22392958402633667,
+      0.00033802815596573055,
+      0.14838732779026031
+    ],
+    "technique": "Oil on panel, 41 x 71 cm",
+    "time_elapsed": 6,
+    "timeline": "1601-1650",
+    "title": "Landscape",
+    "url_wga_info": "https://www.wga.hu/html/o/oosten/landtrav.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oosten/landtrav.jpg"
+  },
+  {
+    "author": "OOSTEN, Izaac van",
+    "date": "-",
+    "id": 20555,
+    "local_img": "/images/o/20555.jpg",
+    "num_iterations": 25,
+    "painting_type": "landscape",
+    "palette": [
+      "#2f1d06",
+      "#574616",
+      "#a6a06e",
+      "#797342",
+      "#cacab2"
+    ],
+    "radar": [
+      0.00715136481449008,
+      0.24488337337970734,
+      0.4331265389919281,
+      0.2583722174167633,
+      0.0013598015066236258,
+      9.92555851553334e-6,
+      0.05509677529335022
+    ],
+    "technique": "Oil on panel, 42 x 54 cm",
+    "time_elapsed": 3,
+    "timeline": "1601-1650",
+    "title": "River Landscape",
+    "url_wga_info": "https://www.wga.hu/html/o/oosten/riverlan.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oosten/riverlan.jpg"
+  },
+  {
+    "author": "OOSTEN, Izaac van",
+    "date": "-",
+    "id": 20556,
+    "local_img": "/images/o/20556.jpg",
+    "num_iterations": 8,
+    "painting_type": "landscape",
+    "palette": [
+      "#a49866",
+      "#35311e",
+      "#686443",
+      "#9da5af",
+      "#ccc9ca"
+    ],
+    "radar": [
+      0.012506887316703796,
+      0.14964738488197327,
+      0.29881542921066284,
+      0.12775206565856934,
+      0.17723967134952545,
+      0.0012396693928167224,
+      0.23279890418052673
+    ],
+    "technique": "Oil on oak panel, 25 x 35 cm",
+    "time_elapsed": 1,
+    "timeline": "1601-1650",
+    "title": "Summer Landscape",
+    "url_wga_info": "https://www.wga.hu/html/o/oosten/summer.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oosten/summer.jpg"
+  },
+  {
+    "author": "OOSTEN, Izaac van",
+    "date": "-",
+    "id": 20557,
+    "local_img": "/images/o/20557.jpg",
+    "num_iterations": 28,
+    "painting_type": "landscape",
+    "palette": [
+      "#ded7cb",
+      "#302712",
+      "#504620",
+      "#aca584",
+      "#7b7248"
+    ],
+    "radar": [
+      0.001457364298403263,
+      0.33251678943634033,
+      0.42030492424964905,
+      0.1072196364402771,
+      0.004780361894518137,
+      0.00008268733654404059,
+      0.13363824784755707
+    ],
+    "technique": "Oil on panel, 22 x 29 cm",
+    "time_elapsed": 4,
+    "timeline": "1601-1650",
+    "title": "Extensive Landscape with Travellers on a Road",
+    "url_wga_info": "https://www.wga.hu/html/o/oosten/travelle.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oosten/travelle.jpg"
+  },
+  {
+    "author": "OOSTEN, Izaac van",
+    "date": "-",
+    "id": 20558,
+    "local_img": "/images/o/20558.jpg",
+    "num_iterations": 11,
+    "painting_type": "landscape",
+    "palette": [
+      "#b7a987",
+      "#857f5a",
+      "#65623c",
+      "#393822",
+      "#4b4c2b"
+    ],
+    "radar": [
+      0.0005780346691608429,
+      0.131369948387146,
+      0.5463294982910156,
+      0.298289030790329,
+      0.00009826589666772634,
+      0.0,
+      0.023335259407758713
+    ],
+    "technique": "Oil on oak panel, 33 x 47 cm",
+    "time_elapsed": 1,
+    "timeline": "1601-1650",
+    "title": "Wooded Landscape",
+    "url_wga_info": "https://www.wga.hu/html/o/oosten/woodedla.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oosten/woodedla.jpg"
+  },
+  {
+    "author": "OOSTEN, Izaac van",
+    "date": "1650s",
+    "id": 20559,
+    "local_img": "/images/o/20559.jpg",
+    "num_iterations": 23,
+    "painting_type": "landscape",
+    "palette": [
+      "#b3a67b",
+      "#4d4529",
+      "#76693d",
+      "#322e1e",
+      "#1d1d13"
+    ],
+    "radar": [
+      0.000709302315954119,
+      0.15862791240215302,
+      0.7620581388473511,
+      0.0689709335565567,
+      0.000029069768061162904,
+      0.00003488372021820396,
+      0.009569767862558365
+    ],
+    "technique": "Oil on oak panel, 47 x 67 cm",
+    "time_elapsed": 3,
+    "timeline": "1601-1650",
+    "title": "Landscape with a Cavalry Group",
+    "url_wga_info": "https://www.wga.hu/html/o/oosten/landscap.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oosten/landscap.jpg"
+  },
+  {
+    "author": "OOSTEN, Izaac van",
+    "date": "c. 1645",
+    "id": 20560,
+    "local_img": "/images/o/20560.jpg",
+    "num_iterations": 23,
+    "painting_type": "other",
+    "palette": [
+      "#464241",
+      "#8e7248",
+      "#c7b897",
+      "#fcfcfa",
+      "#1b1c20"
+    ],
+    "radar": [
+      0.009119999594986439,
+      0.14449714124202728,
+      0.094845712184906,
+      0.014628571458160877,
+      0.19057714939117432,
+      0.04935428500175476,
+      0.49697715044021606
+    ],
+    "technique": "Wood, ebony, oil on panel, 71 x 83 x 38 cm (doors open)",
+    "time_elapsed": 3,
+    "timeline": "1601-1650",
+    "title": "Ebony Veneered Cabinet",
+    "url_wga_info": "https://www.wga.hu/html/o/oosten/cabinet.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oosten/cabinet.jpg"
+  },
+  {
+    "author": "OOSTEN, Izaac van",
+    "date": "c. 1645",
+    "id": 20561,
+    "local_img": "/images/o/20561.jpg",
+    "num_iterations": 14,
+    "painting_type": "other",
+    "palette": [
+      "#464342",
+      "#8c7250",
+      "#f9f8f6",
+      "#c3b79f",
+      "#1e1d20"
+    ],
+    "radar": [
+      0.011105485260486603,
+      0.19422784447669983,
+      0.09962869435548782,
+      0.020084388554096222,
+      0.1332405060529709,
+      0.07514768093824387,
+      0.46656540036201477
+    ],
+    "technique": "Wood, ebony, oil on panel",
+    "time_elapsed": 1,
+    "timeline": "1601-1650",
+    "title": "Ebony Veneered Cabinet (detail)",
+    "url_wga_info": "https://www.wga.hu/html/o/oosten/cabinet1.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oosten/cabinet1.jpg"
+  },
+  {
+    "author": "OOSTERWIJK, Maria van",
+    "date": "1670s",
+    "id": 20562,
+    "local_img": "/images/o/20562.jpg",
+    "num_iterations": 18,
+    "painting_type": "still-life",
+    "palette": [
+      "#593632",
+      "#a15138",
+      "#d99844",
+      "#2a2e30",
+      "#2b272b"
+    ],
+    "radar": [
+      0.21288780868053436,
+      0.0985463410615921,
+      0.007214634213596582,
+      0.011185365729033947,
+      0.5141561031341553,
+      0.1238536611199379,
+      0.03215609863400459
+    ],
+    "technique": "Oil on canvas",
+    "time_elapsed": 2,
+    "timeline": "1651-1700",
+    "title": "Flowers and Fruit",
+    "url_wga_info": "https://www.wga.hu/html/o/oosterwi/flowerfr.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oosterwi/flowerfr.jpg"
+  },
+  {
+    "author": "OOSTERWIJK, Maria van",
+    "date": "1675",
+    "id": 20563,
+    "local_img": "/images/o/20563.jpg",
+    "num_iterations": 29,
+    "painting_type": "still-life",
+    "palette": [
+      "#724f21",
+      "#af8d49",
+      "#3c3719",
+      "#1e2214",
+      "#0e140e"
+    ],
+    "radar": [
+      0.01392410695552826,
+      0.13227231800556183,
+      0.23468303680419922,
+      0.4410267770290375,
+      0.017553571611642838,
+      0.0004955357289873064,
+      0.16004464030265808
+    ],
+    "technique": "Oil on canvas, 90 x 81 cm",
+    "time_elapsed": 4,
+    "timeline": "1651-1700",
+    "title": "Flower Still-Life",
+    "url_wga_info": "https://www.wga.hu/html/o/oosterwi/stillife.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oosterwi/stillife.jpg"
+  },
+  {
+    "author": "OPIE, John",
+    "date": "-",
+    "id": 20564,
+    "local_img": "/images/o/20564.jpg",
+    "num_iterations": 11,
+    "painting_type": "religious",
+    "palette": [
+      "#7b6042",
+      "#bba992",
+      "#2b271c",
+      "#423a25",
+      "#191b16"
+    ],
+    "radar": [
+      0.002989304717630148,
+      0.38539573550224304,
+      0.3733101487159729,
+      0.18688234686851501,
+      0.010336898267269135,
+      0.0004652406496461481,
+      0.04062031954526901
+    ],
+    "technique": "Oil on canvas, 103 x 76 cm",
+    "time_elapsed": 1,
+    "timeline": "1751-1800",
+    "title": "Confession",
+    "url_wga_info": "https://www.wga.hu/html/o/opie/confessi.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/opie/confessi.jpg"
+  },
+  {
+    "author": "OPIE, John",
+    "date": "1778-81",
+    "id": 20565,
+    "local_img": "/images/o/20565.jpg",
+    "num_iterations": 24,
+    "painting_type": "portrait",
+    "palette": [
+      "#b17f59",
+      "#644b2a",
+      "#2a2922",
+      "#36352d",
+      "#1f201e"
+    ],
+    "radar": [
+      0.0019278846448287368,
+      0.2167692333459854,
+      0.15067307651042938,
+      0.2303701937198639,
+      0.0020336539018899202,
+      0.0004086538392584771,
+      0.39781731367111206
+    ],
+    "technique": "Oil on canvas, 77 x 64 cm",
+    "time_elapsed": 3,
+    "timeline": "1751-1800",
+    "title": "Portrait of John Penwarne Jr.",
+    "url_wga_info": "https://www.wga.hu/html/o/opie/penwarne.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/opie/penwarne.jpg"
+  },
+  {
+    "author": "OPIE, John",
+    "date": "1783-85",
+    "id": 20566,
+    "local_img": "/images/o/20566.jpg",
+    "num_iterations": 21,
+    "painting_type": "genre",
+    "palette": [
+      "#3d1812",
+      "#6a3420",
+      "#bf895a",
+      "#0b060a",
+      "#21080a"
+    ],
+    "radar": [
+      0.47133010625839233,
+      0.06469903141260147,
+      4.854368853557389e-6,
+      0.0,
+      4.854368853557389e-6,
+      0.034097086638212204,
+      0.4298640787601471
+    ],
+    "technique": "Oil on canvas, 154 x 184 cm",
+    "time_elapsed": 3,
+    "timeline": "1751-1800",
+    "title": "Peasant Family",
+    "url_wga_info": "https://www.wga.hu/html/o/opie/family.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/opie/family.jpg"
+  },
+  {
+    "author": "OPIE, John",
+    "date": "1789",
+    "id": 20567,
+    "local_img": "/images/o/20567.jpg",
+    "num_iterations": 13,
+    "painting_type": "portrait",
+    "palette": [
+      "#491e17",
+      "#c57d2b",
+      "#0f0410",
+      "#bebcbe",
+      "#1a0a13"
+    ],
+    "radar": [
+      0.10499999672174454,
+      0.04800000041723251,
+      0.0003000000142492354,
+      9.523809239908587e-6,
+      0.00003809523695963435,
+      0.23618094623088837,
+      0.6104714274406433
+    ],
+    "technique": "Oil on canvas, 70 x 60 cm",
+    "time_elapsed": 2,
+    "timeline": "1751-1800",
+    "title": "Self-Portrait",
+    "url_wga_info": "https://www.wga.hu/html/o/opie/selfport.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/opie/selfport.jpg"
+  },
+  {
+    "author": "OPIE, John",
+    "date": "1790s",
+    "id": 20568,
+    "local_img": "/images/o/20568.jpg",
+    "num_iterations": 14,
+    "painting_type": "portrait",
+    "palette": [
+      "#d1ac63",
+      "#826e3e",
+      "#3e3928",
+      "#1c1c1a",
+      "#272721"
+    ],
+    "radar": [
+      0.017157623544335365,
+      0.30729198455810547,
+      0.3606201410293579,
+      0.10984496027231216,
+      0.03342635557055473,
+      0.0027338501531630754,
+      0.16892506182193756
+    ],
+    "technique": "Oil on canvas, 92 x 71 cm",
+    "time_elapsed": 2,
+    "timeline": "1751-1800",
+    "title": "Portrait of Miss Frances Vinicombe",
+    "url_wga_info": "https://www.wga.hu/html/o/opie/portmiss.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/opie/portmiss.jpg"
+  },
+  {
+    "author": "ORCAGNA",
+    "date": "1350s",
+    "id": 20569,
+    "local_img": "/images/o/20569.jpg",
+    "num_iterations": 8,
+    "painting_type": "interior",
+    "palette": [
+      "#372f2b",
+      "#544a3e",
+      "#746651",
+      "#9a8b6e",
+      "#191417"
+    ],
+    "radar": [
+      0.10885941982269287,
+      0.45259416103363037,
+      0.18667374551296234,
+      0.03318832814693451,
+      0.08407957851886749,
+      0.05743236094713211,
+      0.0771724134683609
+    ],
+    "technique": "Fresco",
+    "time_elapsed": 1,
+    "timeline": "1351-1400",
+    "title": "View of the Chapel",
+    "url_wga_info": "https://www.wga.hu/html/o/orcagna/strozz0.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/orcagna/strozz0.jpg"
+  },
+  {
+    "author": "ORCAGNA",
+    "date": "1354-57",
+    "id": 20570,
+    "local_img": "/images/o/20570.jpg",
+    "num_iterations": 18,
+    "painting_type": "religious",
+    "palette": [
+      "#362422",
+      "#624234",
+      "#8e6b4d",
+      "#c7a66e",
+      "#100d12"
+    ],
+    "radar": [
+      0.20574334263801575,
+      0.38775303959846497,
+      0.040866829454898834,
+      0.0005520581034943461,
+      0.04829055815935135,
+      0.10622276365756989,
+      0.21057142317295074
+    ],
+    "technique": "Tempera on wood, 274 x 296 cm",
+    "time_elapsed": 2,
+    "timeline": "1351-1400",
+    "title": "The Strozzi Altarpiece",
+    "url_wga_info": "https://www.wga.hu/html/o/orcagna/strozz1.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/orcagna/strozz1.jpg"
+  },
+  {
+    "author": "ORCAGNA",
+    "date": "1354-57",
+    "id": 20571,
+    "local_img": "/images/o/20571.jpg",
+    "num_iterations": 32,
+    "painting_type": "religious",
+    "palette": [
+      "#361b17",
+      "#623223",
+      "#8b4d36",
+      "#b67956",
+      "#0a0406"
+    ],
+    "radar": [
+      0.3831123411655426,
+      0.3535178005695343,
+      0.000054794520110590383,
+      5.479451829160098e-6,
+      0.0,
+      0.06003287807106972,
+      0.20327670872211456
+    ],
+    "technique": "Tempera on wood",
+    "time_elapsed": 4,
+    "timeline": "1351-1400",
+    "title": "The Strozzi Altarpiece",
+    "url_wga_info": "https://www.wga.hu/html/o/orcagna/strozzi.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/orcagna/strozzi.jpg"
+  },
+  {
+    "author": "ORCAGNA",
+    "date": "1359",
+    "id": 20572,
+    "local_img": "/images/o/20572.jpg",
+    "num_iterations": 24,
+    "painting_type": "religious",
+    "palette": [
+      "#1f1614",
+      "#452f29",
+      "#755043",
+      "#b38363",
+      "#e7cdac"
+    ],
+    "radar": [
+      0.4673439860343933,
+      0.47627732157707214,
+      0.01934400014579296,
+      0.0007466666866093874,
+      0.00003733333505806513,
+      0.002074666554108262,
+      0.03417599946260452
+    ],
+    "technique": "Marble, lapis lazuli, gold and glass inlay",
+    "time_elapsed": 3,
+    "timeline": "1351-1400",
+    "title": "Tabernacle",
+    "url_wga_info": "https://www.wga.hu/html/o/orcagna/tabern.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/orcagna/tabern.jpg"
+  },
+  {
+    "author": "ORCAGNA",
+    "date": "1359",
+    "id": 20573,
+    "local_img": "/images/o/20573.jpg",
+    "num_iterations": 26,
+    "painting_type": "religious",
+    "palette": [
+      "#4b3831",
+      "#78624f",
+      "#a58e70",
+      "#c9bb9e",
+      "#1e1618"
+    ],
+    "radar": [
+      0.15000000596046448,
+      0.76833575963974,
+      0.02651798538863659,
+      0.00017745803052093834,
+      0.00939568318426609,
+      0.018311750143766403,
+      0.027261391282081604
+    ],
+    "technique": "Marble on mosaic background",
+    "time_elapsed": 3,
+    "timeline": "1351-1400",
+    "title": "Tabernacle (detail)",
+    "url_wga_info": "https://www.wga.hu/html/o/orcagna/tabern_6.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/orcagna/tabern_6.jpg"
+  },
+  {
+    "author": "ORCAGNA",
+    "date": "after 1343",
+    "id": 20574,
+    "local_img": "/images/o/20574.jpg",
+    "num_iterations": 14,
+    "painting_type": "historical",
+    "palette": [
+      "#7c5754",
+      "#a18274",
+      "#b8a899",
+      "#c8ccc7",
+      "#4c373a"
+    ],
+    "radar": [
+      0.31692200899124146,
+      0.3496284484863281,
+      0.022977063432335854,
+      0.006201834883540869,
+      0.010247706435620785,
+      0.06181192770600319,
+      0.23221100866794586
+    ],
+    "technique": "Detached fresco, 290 x 260 cm",
+    "time_elapsed": 2,
+    "timeline": "1351-1400",
+    "title": "The Expulsion of the Duke of Athens",
+    "url_wga_info": "https://www.wga.hu/html/o/orcagna/expulsio.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/orcagna/expulsio.jpg"
+  },
+  {
+    "author": "ORCAGNA",
+    "date": "c. 1345",
+    "id": 20575,
+    "local_img": "/images/o/20575.jpg",
+    "num_iterations": 6,
+    "painting_type": "religious",
+    "palette": [
+      "#1d1514",
+      "#453125",
+      "#6c5441",
+      "#a78d76",
+      "#e6dbcf"
+    ],
+    "radar": [
+      0.13257068395614624,
+      0.6974450349807739,
+      0.01317801047116518,
+      0.0036963350139558315,
+      0.0035916229244321585,
+      0.04723036661744118,
+      0.10228795558214188
+    ],
+    "technique": "Fresco",
+    "time_elapsed": 1,
+    "timeline": "1351-1400",
+    "title": "Hell (fragment)",
+    "url_wga_info": "https://www.wga.hu/html/o/orcagna/hell.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/orcagna/hell.jpg"
+  },
+  {
+    "author": "ORCAGNA",
+    "date": "c. 1367",
+    "id": 20576,
+    "local_img": "/images/o/20576.jpg",
+    "num_iterations": 10,
+    "painting_type": "religious",
+    "palette": [
+      "#fcfcfc",
+      "#2d1e19",
+      "#6a4325",
+      "#a46a38",
+      "#d9a055"
+    ],
+    "radar": [
+      0.09492265433073044,
+      0.699049711227417,
+      0.03171270713210106,
+      0.0002651933755259961,
+      0.014248618856072426,
+      0.02041989006102085,
+      0.13938121497631073
+    ],
+    "technique": "Tempera on wood, 291 x 265 cm",
+    "time_elapsed": 1,
+    "timeline": "1351-1400",
+    "title": "Saint Matthew and Scenes from his Life",
+    "url_wga_info": "https://www.wga.hu/html/o/orcagna/matthew.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/orcagna/matthew.jpg"
+  },
+  {
+    "author": "ORIOLI, Pietro di Francesco degli",
+    "date": "-",
+    "id": 20577,
+    "local_img": "/images/o/20577.jpg",
+    "num_iterations": 12,
+    "painting_type": "religious",
+    "palette": [
+      "#231e1b",
+      "#483d34",
+      "#705d4a",
+      "#968976",
+      "#c4bcac"
+    ],
+    "radar": [
+      0.06985831260681152,
+      0.5159400701522827,
+      0.1640980988740921,
+      0.010070844553411007,
+      0.08171117305755615,
+      0.005019073374569416,
+      0.15330244600772858
+    ],
+    "technique": "Oil on panel",
+    "time_elapsed": 1,
+    "timeline": "1451-1500",
+    "title": "Ascension",
+    "url_wga_info": "https://www.wga.hu/html/o/orioli/ascensio.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/orioli/ascensio.jpg"
+  },
+  {
+    "author": "ORIOLI, Pietro di Francesco degli",
+    "date": "1485-90",
+    "id": 20578,
+    "local_img": "/images/o/20578.jpg",
+    "num_iterations": 13,
+    "painting_type": "religious",
+    "palette": [
+      "#5d311b",
+      "#815233",
+      "#ac865f",
+      "#cbbeaf",
+      "#1a1713"
+    ],
+    "radar": [
+      0.08484408259391785,
+      0.6542150378227234,
+      0.012817203998565674,
+      0.029741935431957245,
+      0.009096774272620678,
+      0.001424731221050024,
+      0.20786021649837494
+    ],
+    "technique": "Tempera on panel, gold ground, shaped top, 62 x 46 cm",
+    "time_elapsed": 1,
+    "timeline": "1451-1500",
+    "title": "Madonna and Child with Sts Jerome and Bernardino of Siena",
+    "url_wga_info": "https://www.wga.hu/html/o/orioli/madonna.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/orioli/madonna.jpg"
+  },
+  {
+    "author": "ORIOLI, Pietro di Francesco degli",
+    "date": "1488-90",
+    "id": 20579,
+    "local_img": "/images/o/20579.jpg",
+    "num_iterations": 24,
+    "painting_type": "mythological",
+    "palette": [
+      "#2a241f",
+      "#453523",
+      "#5e4929",
+      "#776135",
+      "#958153"
+    ],
+    "radar": [
+      0.056838709861040115,
+      0.5995644927024841,
+      0.32295969128608704,
+      0.001330645172856748,
+      0.0009354838985018432,
+      0.005459677428007126,
+      0.012911289930343628
+    ],
+    "technique": "Oil on panel, 89 x 46 cm",
+    "time_elapsed": 2,
+    "timeline": "1451-1500",
+    "title": "Allegory of Faith",
+    "url_wga_info": "https://www.wga.hu/html/o/orioli/allegor1.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/orioli/allegor1.jpg"
+  },
+  {
+    "author": "ORIOLI, Pietro di Francesco degli",
+    "date": "1488-90",
+    "id": 20580,
+    "local_img": "/images/o/20580.jpg",
+    "num_iterations": 28,
+    "painting_type": "mythological",
+    "palette": [
+      "#29231e",
+      "#433420",
+      "#5b4929",
+      "#765f30",
+      "#97814e"
+    ],
+    "radar": [
+      0.04131599888205528,
+      0.6371600031852722,
+      0.3071559965610504,
+      0.000699999975040555,
+      0.00018000000272877514,
+      0.002644000109285116,
+      0.010843999683856964
+    ],
+    "technique": "Oil on panel",
+    "time_elapsed": 5,
+    "timeline": "1451-1500",
+    "title": "Allegory of Faith (detail)",
+    "url_wga_info": "https://www.wga.hu/html/o/orioli/allegor2.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/orioli/allegor2.jpg"
+  },
+  {
+    "author": "ORIOLI, Pietro di Francesco degli",
+    "date": "1488-90",
+    "id": 20581,
+    "local_img": "/images/o/20581.jpg",
+    "num_iterations": 13,
+    "painting_type": "mythological",
+    "palette": [
+      "#7e2813",
+      "#441f12",
+      "#1f150f",
+      "#5b461d",
+      "#886d2e"
+    ],
+    "radar": [
+      0.36866918206214905,
+      0.3698421120643616,
+      0.23003007471561432,
+      0.0006766917067579925,
+      0.0004586466238833964,
+      0.004827067721635103,
+      0.025496240705251694
+    ],
+    "technique": "Oil on panel, 89 x 48 cm",
+    "time_elapsed": 1,
+    "timeline": "1451-1500",
+    "title": "Allegory of Charity",
+    "url_wga_info": "https://www.wga.hu/html/o/orioli/allegor3.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/orioli/allegor3.jpg"
+  },
+  {
+    "author": "ORIOLI, Pietro di Francesco degli",
+    "date": "1488-90",
+    "id": 20582,
+    "local_img": "/images/o/20582.jpg",
+    "num_iterations": 14,
+    "painting_type": "mythological",
+    "palette": [
+      "#7e240e",
+      "#231610",
+      "#422313",
+      "#937230",
+      "#5f481b"
+    ],
+    "radar": [
+      0.26238134503364563,
+      0.45665255188941956,
+      0.26421186327934265,
+      0.0003135593142360449,
+      0.00017796609608922154,
+      0.0029915254563093185,
+      0.013271186500787735
+    ],
+    "technique": "Oil on panel",
+    "time_elapsed": 2,
+    "timeline": "1451-1500",
+    "title": "Allegory of Charity (detail)",
+    "url_wga_info": "https://www.wga.hu/html/o/orioli/allegor4.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/orioli/allegor4.jpg"
+  },
+  {
+    "author": "ORIOLI, Pietro di Francesco degli",
+    "date": "1493-95",
+    "id": 20583,
+    "local_img": "/images/o/20583.jpg",
+    "num_iterations": 30,
+    "painting_type": "mythological",
+    "palette": [
+      "#a66341",
+      "#24130a",
+      "#5d3d27",
+      "#c7b1a1",
+      "#6c7392"
+    ],
+    "radar": [
+      0.2521013915538788,
+      0.25750231742858887,
+      0.14231336116790771,
+      0.014930875971913338,
+      0.24595391750335693,
+      0.005179723724722862,
+      0.08201843500137329
+    ],
+    "technique": "Tempera and oil on panel, 108 x 47 cm",
+    "time_elapsed": 2,
+    "timeline": "1451-1500",
+    "title": "Sulpicia",
+    "url_wga_info": "https://www.wga.hu/html/o/orioli/sulpicia.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/orioli/sulpicia.jpg"
+  },
+  {
+    "author": "ORLEY, Bernaert van",
+    "date": "-",
+    "id": 20584,
+    "local_img": "/images/o/20584.jpg",
+    "num_iterations": 24,
+    "painting_type": "religious",
+    "palette": [
+      "#38241f",
+      "#614036",
+      "#1a110e",
+      "#986d57",
+      "#cfb190"
+    ],
+    "radar": [
+      0.5720251202583313,
+      0.35478895902633667,
+      0.012834170833230019,
+      0.00016080401837825775,
+      0.00001005025114864111,
+      0.00912060309201479,
+      0.05106030032038689
+    ],
+    "technique": "Oil on oak, 87 x 108,5 cm",
+    "time_elapsed": 3,
+    "timeline": "1501-1550",
+    "title": "Haneton Triptych (centre panel)",
+    "url_wga_info": "https://www.wga.hu/html/o/orley/haneton1.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/orley/haneton1.jpg"
+  },
+  {
+    "author": "ORLEY, Bernaert van",
+    "date": "-",
+    "id": 20585,
+    "local_img": "/images/o/20585.jpg",
+    "num_iterations": 26,
+    "painting_type": "religious",
+    "palette": [
+      "#fdfdfd",
+      "#462722",
+      "#845142",
+      "#ba977d",
+      "#130c0e"
+    ],
+    "radar": [
+      0.3706898093223572,
+      0.20798148214817047,
+      0.006518518552184105,
+      0.00041666667675599456,
+      0.00039351850864477456,
+      0.04932870343327522,
+      0.3646712899208069
+    ],
+    "technique": "Oil on oak, 87 x 48 cm (each)",
+    "time_elapsed": 4,
+    "timeline": "1501-1550",
+    "title": "Haneton Triptych (wings)",
+    "url_wga_info": "https://www.wga.hu/html/o/orley/haneton2.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/orley/haneton2.jpg"
+  },
+  {
+    "author": "ORLEY, Bernaert van",
+    "date": "-",
+    "id": 20586,
+    "local_img": "/images/o/20586.jpg",
+    "num_iterations": 17,
+    "painting_type": "portrait",
+    "palette": [
+      "#180d0c",
+      "#271a18",
+      "#7c5d48",
+      "#b6987b",
+      "#dac2a2"
+    ],
+    "radar": [
+      0.3148364722728729,
+      0.6133994460105896,
+      0.00500804278999567,
+      0.00006434316310333088,
+      0.000048257374146487564,
+      0.02316890098154545,
+      0.043474532663822174
+    ],
+    "technique": "Wood",
+    "time_elapsed": 2,
+    "timeline": "1501-1550",
+    "title": "Portrait of Margareta van Oostenrijk",
+    "url_wga_info": "https://www.wga.hu/html/o/orley/margaret.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/orley/margaret.jpg"
+  },
+  {
+    "author": "ORLEY, Bernaert van",
+    "date": "-",
+    "id": 20587,
+    "local_img": "/images/o/20587.jpg",
+    "num_iterations": 36,
+    "painting_type": "portrait",
+    "palette": [
+      "#6d544b",
+      "#a4887c",
+      "#d2bcaf",
+      "#37251b",
+      "#150e10"
+    ],
+    "radar": [
+      0.3532676100730896,
+      0.4577934145927429,
+      0.0025258215609937906,
+      4.6948357521614525e-6,
+      0.0005164319300092757,
+      0.02328638546168804,
+      0.1626056283712387
+    ],
+    "technique": "Wood",
+    "time_elapsed": 5,
+    "timeline": "1501-1550",
+    "title": "Portrait of Margaret of Austria",
+    "url_wga_info": "https://www.wga.hu/html/o/orley/portmarg.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/orley/portmarg.jpg"
+  },
+  {
+    "author": "ORLEY, Bernaert van",
+    "date": "-",
+    "id": 20588,
+    "local_img": "/images/o/20588.jpg",
+    "num_iterations": 23,
+    "painting_type": "religious",
+    "palette": [
+      "#735538",
+      "#2a2014",
+      "#493c2c",
+      "#977d55",
+      "#c5aa7b"
+    ],
+    "radar": [
+      0.043820176273584366,
+      0.7228903770446777,
+      0.15118421614170074,
+      0.021723683923482895,
+      0.023385964334011078,
+      0.0019342105370014906,
+      0.03506140410900116
+    ],
+    "technique": "Oil on wood",
+    "time_elapsed": 3,
+    "timeline": "1501-1550",
+    "title": "Scene in a church",
+    "url_wga_info": "https://www.wga.hu/html/o/orley/scene_ch.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/orley/scene_ch.jpg"
+  },
+  {
+    "author": "ORLEY, Bernaert van",
+    "date": "-",
+    "id": 20589,
+    "local_img": "/images/o/20589.jpg",
+    "num_iterations": 14,
+    "painting_type": "religious",
+    "palette": [
+      "#714b35",
+      "#432b1b",
+      "#dbc9bb",
+      "#99816e",
+      "#1d1712"
+    ],
+    "radar": [
+      0.285504013299942,
+      0.40110933780670166,
+      0.07170133292675018,
+      0.09505067020654678,
+      0.010213333182036877,
+      0.01229866687208414,
+      0.12412266433238983
+    ],
+    "technique": "Oil on panel, 44 x 32 cm",
+    "time_elapsed": 2,
+    "timeline": "1501-1550",
+    "title": "Virgin and Child",
+    "url_wga_info": "https://www.wga.hu/html/o/orley/virgin4.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/orley/virgin4.jpg"
+  },
+  {
+    "author": "ORLEY, Bernaert van",
+    "date": "-",
+    "id": 20590,
+    "local_img": "/images/o/20590.jpg",
+    "num_iterations": 24,
+    "painting_type": "portrait",
+    "palette": [
+      "#9d6647",
+      "#c1855d",
+      "#694731",
+      "#25252a",
+      "#121215"
+    ],
+    "radar": [
+      0.02726595662534237,
+      0.8084893822669983,
+      0.002797872293740511,
+      0.0034042552579194307,
+      0.1135159581899643,
+      0.0030744681134819984,
+      0.04145212844014168
+    ],
+    "technique": "Drawing with additions",
+    "time_elapsed": 3,
+    "timeline": "1501-1550",
+    "title": "Portrait of Margaret of Austria",
+    "url_wga_info": "https://www.wga.hu/html/o/orley/zmargare.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/orley/zmargare.jpg"
+  },
+  {
+    "author": "ORLEY, Bernaert van",
+    "date": "1512",
+    "id": 20591,
+    "local_img": "/images/o/20591.jpg",
+    "num_iterations": 7,
+    "painting_type": "religious",
+    "palette": [
+      "#4d3232",
+      "#754f43",
+      "#9d7259",
+      "#c5a17d",
+      "#ebd9b4"
+    ],
+    "radar": [
+      0.43710699677467346,
+      0.41248559951782227,
+      0.0788683146238327,
+      0.00021810700127389282,
+      0.006814814638346434,
+      0.03172839432954788,
+      0.032777778804302216
+    ],
+    "technique": "Oil on wood, 140 x 180 cm",
+    "time_elapsed": 1,
+    "timeline": "1501-1550",
+    "title": "Altarpiece of Sts Thomas and Matthew (detail)",
+    "url_wga_info": "https://www.wga.hu/html/o/orley/altar.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/orley/altar.jpg"
+  },
+  {
+    "author": "ORLEY, Bernaert van",
+    "date": "1519",
+    "id": 20592,
+    "local_img": "/images/o/20592.jpg",
+    "num_iterations": 12,
+    "painting_type": "portrait",
+    "palette": [
+      "#5e4132",
+      "#9e694e",
+      "#302921",
+      "#dabf9b",
+      "#191a16"
+    ],
+    "radar": [
+      0.1978989839553833,
+      0.3983585834503174,
+      0.22930808365345,
+      0.12379293143749237,
+      0.0010303030721843243,
+      0.001212121220305562,
+      0.04839899018406868
+    ],
+    "technique": "Oil on oak, 39 x 32 cm",
+    "time_elapsed": 1,
+    "timeline": "1501-1550",
+    "title": "Joris van Zelle",
+    "url_wga_info": "https://www.wga.hu/html/o/orley/zelle.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/orley/zelle.jpg"
+  },
+  {
+    "author": "ORLEY, Bernaert van",
+    "date": "1519-20",
+    "id": 20593,
+    "local_img": "/images/o/20593.jpg",
+    "num_iterations": 15,
+    "painting_type": "portrait",
+    "palette": [
+      "#ab6247",
+      "#29221f",
+      "#644639",
+      "#3b312c",
+      "#d4ad7b"
+    ],
+    "radar": [
+      0.39759549498558044,
+      0.5089213252067566,
+      0.05374719202518463,
+      0.030831459909677505,
+      0.0005449438467621803,
+      0.005915730260312557,
+      0.0024438202381134033
+    ],
+    "technique": "Oil on wood, 71 x 52 cm",
+    "time_elapsed": 2,
+    "timeline": "1501-1550",
+    "title": "Portrait of Charles V",
+    "url_wga_info": "https://www.wga.hu/html/o/orley/charles5.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/orley/charles5.jpg"
+  },
+  {
+    "author": "ORLEY, Bernaert van",
+    "date": "1519-25",
+    "id": 20594,
+    "local_img": "/images/o/20594.jpg",
+    "num_iterations": 15,
+    "painting_type": "religious",
+    "palette": [
+      "#000000",
+      "#32221d",
+      "#644439",
+      "#a7755c",
+      "#dbb691"
+    ],
+    "radar": [
+      0.3934134244918823,
+      0.4226996600627899,
+      0.011392226442694664,
+      0.0006148410029709339,
+      0.0008833922329358757,
+      0.0052720848470926285,
+      0.16572438180446625
+    ],
+    "technique": "Oil on panel, 248 x 218 cm (centre), 248 x 94 cm (side panels)",
+    "time_elapsed": 1,
+    "timeline": "1501-1550",
+    "title": "The Last Judgment",
+    "url_wga_info": "https://www.wga.hu/html/o/orley/lastjudg.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/orley/lastjudg.jpg"
+  },
+  {
+    "author": "ORLEY, Bernaert van",
+    "date": "1520",
+    "id": 20595,
+    "local_img": "/images/o/20595.jpg",
+    "num_iterations": 19,
+    "painting_type": "religious",
+    "palette": [
+      "#827a71",
+      "#363028",
+      "#5c5342",
+      "#a5acb8",
+      "#171618"
+    ],
+    "radar": [
+      0.04521428421139717,
+      0.4188142716884613,
+      0.1548476219177246,
+      0.018009522929787636,
+      0.20335714519023895,
+      0.032733332365751266,
+      0.1270238161087036
+    ],
+    "technique": "Oil on panel, 45 x 49 cm",
+    "time_elapsed": 3,
+    "timeline": "1501-1550",
+    "title": "Virgin of Louvain",
+    "url_wga_info": "https://www.wga.hu/html/o/orley/virgin_lo.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/orley/virgin_lo.jpg"
+  },
+  {
+    "author": "ORLEY, Bernaert van",
+    "date": "1520-25",
+    "id": 20596,
+    "local_img": "/images/o/20596.jpg",
+    "num_iterations": 21,
+    "painting_type": "religious",
+    "palette": [
+      "#3f2d26",
+      "#6c5543",
+      "#a58d71",
+      "#dfc6a1",
+      "#0b1214"
+    ],
+    "radar": [
+      0.11453807353973389,
+      0.4765380620956421,
+      0.10518274456262589,
+      0.05798477306962013,
+      0.08829949051141739,
+      0.018431471660733223,
+      0.13902537524700165
+    ],
+    "technique": "Oil on panel, 60 x 47 cm",
+    "time_elapsed": 3,
+    "timeline": "1501-1550",
+    "title": "Virgin and Child",
+    "url_wga_info": "https://www.wga.hu/html/o/orley/virgin3.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/orley/virgin3.jpg"
+  },
+  {
+    "author": "ORLEY, Bernaert van",
+    "date": "1521",
+    "id": 20597,
+    "local_img": "/images/o/20597.jpg",
+    "num_iterations": 9,
+    "painting_type": "religious",
+    "palette": [
+      "#271a18",
+      "#49312c",
+      "#765144",
+      "#867d79",
+      "#c8ae90"
+    ],
+    "radar": [
+      0.4264591336250305,
+      0.3000778257846832,
+      0.011284046806395054,
+      0.0011050583561882377,
+      0.0014708171365782619,
+      0.012093384750187397,
+      0.24750973284244537
+    ],
+    "technique": "Oil on oak, 176 x 184 cm (centre), 174 x 80 cm (each wing)",
+    "time_elapsed": 1,
+    "timeline": "1501-1550",
+    "title": "Triptych of Virtue of Patience",
+    "url_wga_info": "https://www.wga.hu/html/o/orley/virtue.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/orley/virtue.jpg"
+  },
+  {
+    "author": "ORLEY, Bernaert van",
+    "date": "1521",
+    "id": 20598,
+    "local_img": "/images/o/20598.jpg",
+    "num_iterations": 18,
+    "painting_type": "religious",
+    "palette": [
+      "#291917",
+      "#49302c",
+      "#745146",
+      "#8a7e7a",
+      "#d2bca4"
+    ],
+    "radar": [
+      0.5037620067596436,
+      0.2457202523946762,
+      0.010743214748799801,
+      0.0012734864139929414,
+      0.0015323590487241745,
+      0.00788308959454298,
+      0.22908559441566467
+    ],
+    "technique": "Oil on oak, 174 x 80 cm (each wing)",
+    "time_elapsed": 3,
+    "timeline": "1501-1550",
+    "title": "Triptych of Virtue of Patience (closed)",
+    "url_wga_info": "https://www.wga.hu/html/o/orley/virtue1.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/orley/virtue1.jpg"
+  },
+  {
+    "author": "ORLEY, Bernaert van",
+    "date": "1521",
+    "id": 20599,
+    "local_img": "/images/o/20599.jpg",
+    "num_iterations": 11,
+    "painting_type": "religious",
+    "palette": [
+      "#665652",
+      "#9b9084",
+      "#fafcfc",
+      "#1b141e",
+      "#3c2d33"
+    ],
+    "radar": [
+      0.17831772565841675,
+      0.16838696599006653,
+      0.01929531618952751,
+      0.0009857433615252376,
+      0.07960488647222519,
+      0.3249816596508026,
+      0.2284276932477951
+    ],
+    "technique": "Oil on oak, 176 x 184 cm",
+    "time_elapsed": 2,
+    "timeline": "1501-1550",
+    "title": "Triptych of Virtue of Patience (central panel)",
+    "url_wga_info": "https://www.wga.hu/html/o/orley/virtue2.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/orley/virtue2.jpg"
+  },
+  {
+    "author": "ORLEY, Bernaert van",
+    "date": "1521",
+    "id": 20600,
+    "local_img": "/images/o/20600.jpg",
+    "num_iterations": 26,
+    "painting_type": "religious",
+    "palette": [
+      "#5a4942",
+      "#88796c",
+      "#c3b5a3",
+      "#130d13",
+      "#332425"
+    ],
+    "radar": [
+      0.27466845512390137,
+      0.345481276512146,
+      0.012962566688656807,
+      0.0005935828667134047,
+      0.03950267285108566,
+      0.16913369297981262,
+      0.15765775740146637
+    ],
+    "technique": "Oil on oak",
+    "time_elapsed": 3,
+    "timeline": "1501-1550",
+    "title": "Triptych of Virtue of Patience (central panel, detail)",
+    "url_wga_info": "https://www.wga.hu/html/o/orley/virtue3.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/orley/virtue3.jpg"
+  },
+  {
+    "author": "ORLEY, Bernaert van",
+    "date": "1522",
+    "id": 20601,
+    "local_img": "/images/o/20601.jpg",
+    "num_iterations": 27,
+    "painting_type": "religious",
+    "palette": [
+      "#4f2f2a",
+      "#7a574c",
+      "#c59f7e",
+      "#080306",
+      "#2b1516"
+    ],
+    "radar": [
+      0.46486976742744446,
+      0.10026535391807556,
+      0.015405405312776566,
+      0.004550368525087833,
+      0.0001425061491318047,
+      0.04242751747369766,
+      0.37233906984329224
+    ],
+    "technique": "Oil tempera on wood, 90 x 74 cm",
+    "time_elapsed": 4,
+    "timeline": "1501-1550",
+    "title": "Holy Family",
+    "url_wga_info": "https://www.wga.hu/html/o/orley/holyfami.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/orley/holyfami.jpg"
+  },
+  {
+    "author": "ORLEY, Bernaert van",
+    "date": "1531",
+    "id": 20602,
+    "local_img": "/images/o/20602.jpg",
+    "num_iterations": 20,
+    "painting_type": "religious",
+    "palette": [
+      "#422f22",
+      "#7c5236",
+      "#b6825b",
+      "#e5c69e",
+      "#181a16"
+    ],
+    "radar": [
+      0.04869135841727257,
+      0.592725932598114,
+      0.10109135508537292,
+      0.15045925974845886,
+      0.07834073901176453,
+      0.0004296296392567456,
+      0.028261728584766388
+    ],
+    "technique": "Wood, 107 x 89 cm",
+    "time_elapsed": 3,
+    "timeline": "1501-1550",
+    "title": "Holy Family",
+    "url_wga_info": "https://www.wga.hu/html/o/orley/holyfam.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/orley/holyfam.jpg"
+  },
+  {
+    "author": "ORLEY, Bernaert van",
+    "date": "c. 1515",
+    "id": 20603,
+    "local_img": "/images/o/20603.jpg",
+    "num_iterations": 10,
+    "painting_type": "religious",
+    "palette": [
+      "#c64c2e",
+      "#242221",
+      "#5a463c",
+      "#d2b293",
+      "#8a857f"
+    ],
+    "radar": [
+      0.2583085000514984,
+      0.3182127773761749,
+      0.056271277368068695,
+      0.08117552846670151,
+      0.18208511173725128,
+      0.017170213162899017,
+      0.08677659928798676
+    ],
+    "technique": "Panel, 98 x 71 cm",
+    "time_elapsed": 1,
+    "timeline": "1501-1550",
+    "title": "Virgin and Child",
+    "url_wga_info": "https://www.wga.hu/html/o/orley/virgin.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/orley/virgin.jpg"
+  },
+  {
+    "author": "ORLEY, Bernaert van",
+    "date": "c. 1515",
+    "id": 20604,
+    "local_img": "/images/o/20604.jpg",
+    "num_iterations": 4,
+    "painting_type": "religious",
+    "palette": [
+      "#221817",
+      "#41302b",
+      "#764f43",
+      "#ab8f6a",
+      "#e7d5a3"
+    ],
+    "radar": [
+      0.6035622954368591,
+      0.24051064252853394,
+      0.14877203106880188,
+      0.0010638297535479069,
+      0.000012158055142208468,
+      0.0050577507354319096,
+      0.0010212765773758292
+    ],
+    "technique": "Oil on wood, 59 x 38,5 cm",
+    "time_elapsed": 0,
+    "timeline": "1501-1550",
+    "title": "Virgin and Child",
+    "url_wga_info": "https://www.wga.hu/html/o/orley/virgin1.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/orley/virgin1.jpg"
+  },
+  {
+    "author": "ORLEY, Bernaert van",
+    "date": "c. 1534",
+    "id": 20605,
+    "local_img": "/images/o/20605.jpg",
+    "num_iterations": 31,
+    "painting_type": "religious",
+    "palette": [
+      "#664d41",
+      "#3c312a",
+      "#98745b",
+      "#cdb497",
+      "#1d1b17"
+    ],
+    "radar": [
+      0.20129507780075073,
+      0.5493060350418091,
+      0.0648360624909401,
+      0.13917486369609833,
+      0.005393442697823048,
+      0.004213114734739065,
+      0.03578142076730728
+    ],
+    "technique": "Wood",
+    "time_elapsed": 4,
+    "timeline": "1501-1550",
+    "title": "Altarpiece of Calvary",
+    "url_wga_info": "https://www.wga.hu/html/o/orley/calvary.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/orley/calvary.jpg"
+  },
+  {
+    "author": "ORLEY, Bernaert van",
+    "date": "c. 1534",
+    "id": 20606,
+    "local_img": "/images/o/20606.jpg",
+    "num_iterations": 24,
+    "painting_type": "religious",
+    "palette": [
+      "#947a59",
+      "#635643",
+      "#c5ae80",
+      "#3d3728",
+      "#1d2115"
+    ],
+    "radar": [
+      0.02976580709218979,
+      0.3825480043888092,
+      0.38475877046585083,
+      0.1673911064863205,
+      0.0008430913439951837,
+      0.001372365397401154,
+      0.033320844173431396
+    ],
+    "technique": "Wood",
+    "time_elapsed": 3,
+    "timeline": "1501-1550",
+    "title": "Altarpiece of Calvary",
+    "url_wga_info": "https://www.wga.hu/html/o/orley/calvary1.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/orley/calvary1.jpg"
+  },
+  {
+    "author": "ORLOVSKY, Aleksandr Osipovich",
+    "date": "1820",
+    "id": 20607,
+    "local_img": "/images/o/20607.jpg",
+    "num_iterations": 14,
+    "painting_type": "landscape",
+    "palette": [
+      "#4e401e",
+      "#746534",
+      "#958959",
+      "#b7b18b",
+      "#d5d3b7"
+    ],
+    "radar": [
+      0.00004712041845778003,
+      0.0999842956662178,
+      0.7999266982078552,
+      0.09619895368814468,
+      0.00143455492798239,
+      5.2356022024468984e-6,
+      0.002403141465038061
+    ],
+    "technique": "Oil on board, 42 x 54 cm",
+    "time_elapsed": 2,
+    "timeline": "1801-1850",
+    "title": "The Hay Market, St. Petersburg",
+    "url_wga_info": "https://www.wga.hu/html/o/orlovski/haymarke.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/orlovski/haymarke.jpg"
+  },
+  {
+    "author": "ORRENTE, Pedro",
+    "date": "1620s",
+    "id": 20608,
+    "local_img": "/images/o/20608.jpg",
+    "num_iterations": 19,
+    "painting_type": "religious",
+    "palette": [
+      "#0d0a0a",
+      "#302218",
+      "#594533",
+      "#8e775c",
+      "#d1ccb7"
+    ],
+    "radar": [
+      0.09602056443691254,
+      0.33214396238327026,
+      0.07964524626731873,
+      0.038030847907066345,
+      0.02639588713645935,
+      0.005789203103631735,
+      0.4219743013381958
+    ],
+    "technique": "Oil on canvas, 81 x 101 cm",
+    "time_elapsed": 2,
+    "timeline": "1601-1650",
+    "title": "The Supper at Emmaus",
+    "url_wga_info": "https://www.wga.hu/html/o/orrente/emmaus.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/orrente/emmaus.jpg"
+  },
+  {
+    "author": "ORRENTE, Pedro",
+    "date": "1620s",
+    "id": 20609,
+    "local_img": "/images/o/20609.jpg",
+    "num_iterations": 14,
+    "painting_type": "religious",
+    "palette": [
+      "#452f2e",
+      "#6f453a",
+      "#a26b4f",
+      "#ddb791",
+      "#302223"
+    ],
+    "radar": [
+      0.7588680386543274,
+      0.20726396143436432,
+      0.002984771504998207,
+      0.00017766497330740094,
+      0.0001269035565201193,
+      0.028350254520773888,
+      0.002228426281362772
+    ],
+    "technique": "Oil on canvas",
+    "time_elapsed": 2,
+    "timeline": "1601-1650",
+    "title": "The Supper at Emmaus (detail)",
+    "url_wga_info": "https://www.wga.hu/html/o/orrente/emmaus1.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/orrente/emmaus1.jpg"
+  },
+  {
+    "author": "ORRENTE, Pedro",
+    "date": "c. 1616",
+    "id": 20610,
+    "local_img": "/images/o/20610.jpg",
+    "num_iterations": 26,
+    "painting_type": "religious",
+    "palette": [
+      "#5d4130",
+      "#282523",
+      "#3a312b",
+      "#94704c",
+      "#c6a77f"
+    ],
+    "radar": [
+      0.23532673716545105,
+      0.5355940461158752,
+      0.0885792076587677,
+      0.040668316185474396,
+      0.0011683168122544885,
+      0.006683168467134237,
+      0.09198019653558731
+    ],
+    "technique": "Oil on canvas, 134 x 167 cm",
+    "time_elapsed": 3,
+    "timeline": "1601-1650",
+    "title": "The Sacrifice of Isaac",
+    "url_wga_info": "https://www.wga.hu/html/o/orrente/isaac.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/orrente/isaac.jpg"
+  },
+  {
+    "author": "ORRENTE, Pedro",
+    "date": "c. 1616",
+    "id": 20611,
+    "local_img": "/images/o/20611.jpg",
+    "num_iterations": 24,
+    "painting_type": "religious",
+    "palette": [
+      "#705541",
+      "#bc9b76",
+      "#0e0d12",
+      "#1d181c",
+      "#302527"
+    ],
+    "radar": [
+      0.12503428757190704,
+      0.10590857267379761,
+      0.0024057142436504364,
+      0.0001657142856856808,
+      0.04787428677082062,
+      0.45839428901672363,
+      0.2602171301841736
+    ],
+    "technique": "Oil on canvas, 306 x 219 cm",
+    "time_elapsed": 3,
+    "timeline": "1601-1650",
+    "title": "St Sebastian",
+    "url_wga_info": "https://www.wga.hu/html/o/orrente/sebastia.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/orrente/sebastia.jpg"
+  },
+  {
+    "author": "ORRENTE, Pedro",
+    "date": "c. 1620",
+    "id": 20612,
+    "local_img": "/images/o/20612.jpg",
+    "num_iterations": 6,
+    "painting_type": "religious",
+    "palette": [
+      "#3d2820",
+      "#6a4422",
+      "#b69a58",
+      "#6b6545",
+      "#1d141e"
+    ],
+    "radar": [
+      0.1845080852508545,
+      0.3181662857532501,
+      0.11935796588659286,
+      0.09273441135883331,
+      0.026392608880996704,
+      0.2513071596622467,
+      0.007533487398177385
+    ],
+    "technique": "Oil on canvas, 112 x 127 cm",
+    "time_elapsed": 1,
+    "timeline": "1601-1650",
+    "title": "Entry into Jerusalem",
+    "url_wga_info": "https://www.wga.hu/html/o/orrente/entryjer.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/orrente/entryjer.jpg"
+  },
+  {
+    "author": "ORSI, Lelio",
+    "date": "1565-75",
+    "id": 20613,
+    "local_img": "/images/o/20613.jpg",
+    "num_iterations": 27,
+    "painting_type": "religious",
+    "palette": [
+      "#c5a087",
+      "#7e5f40",
+      "#4c3a25",
+      "#262219",
+      "#141410"
+    ],
+    "radar": [
+      0.030451612547039986,
+      0.4371451735496521,
+      0.17412903904914856,
+      0.23929032683372498,
+      0.0039247311651706696,
+      0.0011612903326749802,
+      0.11389785259962082
+    ],
+    "technique": "Oil on canvas, 88 x 67 cm",
+    "time_elapsed": 3,
+    "timeline": "1551-1600",
+    "title": "Martyrdom of St Catherine of Alexandria",
+    "url_wga_info": "https://www.wga.hu/html/o/orsi/catherin.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/orsi/catherin.jpg"
+  },
+  {
+    "author": "ORTOLANO",
+    "date": "1520s",
+    "id": 20614,
+    "local_img": "/images/o/20614.jpg",
+    "num_iterations": 9,
+    "painting_type": "religious",
+    "palette": [
+      "#201716",
+      "#4e2f29",
+      "#7e5442",
+      "#9c8570",
+      "#d6bf9d"
+    ],
+    "radar": [
+      0.33141449093818665,
+      0.44762319326400757,
+      0.06132753565907478,
+      0.0007999999797903001,
+      0.001976811559870839,
+      0.02655072510242462,
+      0.13030724227428436
+    ],
+    "technique": "Panel (arched), 279,5 x 156,1 cm",
+    "time_elapsed": 1,
+    "timeline": "1501-1550",
+    "title": "Nativity with Saints",
+    "url_wga_info": "https://www.wga.hu/html/o/ortolano/nativity.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ortolano/nativity.jpg"
+  },
+  {
+    "author": "ORTOLANO",
+    "date": "c. 1522",
+    "id": 20615,
+    "local_img": "/images/o/20615.jpg",
+    "num_iterations": 10,
+    "painting_type": "religious",
+    "palette": [
+      "#22130f",
+      "#502a21",
+      "#815139",
+      "#b48963",
+      "#e4d2b8"
+    ],
+    "radar": [
+      0.393501341342926,
+      0.467121958732605,
+      0.08524119108915329,
+      0.00711111119017005,
+      0.000010840108188858721,
+      0.004959349520504475,
+      0.0420541986823082
+    ],
+    "technique": "Oil on wood transferred to aluminum panel, 241 x 182 cm",
+    "time_elapsed": 1,
+    "timeline": "1501-1550",
+    "title": "Mourning the Dead Christ",
+    "url_wga_info": "https://www.wga.hu/html/o/ortolano/mourning.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ortolano/mourning.jpg"
+  },
+  {
+    "author": "OS, Georgius van",
+    "date": "1842-43",
+    "id": 20616,
+    "local_img": "/images/o/20616.jpg",
+    "num_iterations": 10,
+    "painting_type": "still-life",
+    "palette": [
+      "#0b0b0b",
+      "#422d20",
+      "#735235",
+      "#9a8a69",
+      "#c8c1a7"
+    ],
+    "radar": [
+      0.12675915658473969,
+      0.2505863904953003,
+      0.1400890052318573,
+      0.11648691445589066,
+      0.03512042015790939,
+      0.0037591622676700354,
+      0.32719895243644714
+    ],
+    "technique": "Oil on panel, 82 x 63 cm",
+    "time_elapsed": 1,
+    "timeline": "1801-1850",
+    "title": "Still-Life of Fruit",
+    "url_wga_info": "https://www.wga.hu/html/o/os/georgius/stillife.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/os/georgius/stillife.jpg"
+  },
+  {
+    "author": "OS, Georgius van",
+    "date": "1846",
+    "id": 20617,
+    "local_img": "/images/o/20617.jpg",
+    "num_iterations": 16,
+    "painting_type": "still-life",
+    "palette": [
+      "#241b1b",
+      "#b6a8a2",
+      "#674b3a",
+      "#423025",
+      "#90725d"
+    ],
+    "radar": [
+      0.2375572919845581,
+      0.5332760214805603,
+      0.0169062502682209,
+      0.013437500223517418,
+      0.0358489565551281,
+      0.04073958471417427,
+      0.12223437428474426
+    ],
+    "technique": "Pastel on canvas, 58 x 46 cm",
+    "time_elapsed": 2,
+    "timeline": "1801-1850",
+    "title": "Still-Life",
+    "url_wga_info": "https://www.wga.hu/html/o/os/georgius/stil-lif.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/os/georgius/stil-lif.jpg"
+  },
+  {
+    "author": "OS, Jan van",
+    "date": "-",
+    "id": 20618,
+    "local_img": "/images/o/20618.jpg",
+    "num_iterations": 12,
+    "painting_type": "landscape",
+    "palette": [
+      "#917960",
+      "#513c26",
+      "#b0a08c",
+      "#d6c59f",
+      "#b6cccd"
+    ],
+    "radar": [
+      0.0013631578767672181,
+      0.6779842376708984,
+      0.13750000298023224,
+      0.010205263271927834,
+      0.1038421019911766,
+      0.0,
+      0.06910526007413864
+    ],
+    "technique": "Oil on panel, 22 x 28 cm",
+    "time_elapsed": 1,
+    "timeline": "1751-1800",
+    "title": "A Ferry Boat",
+    "url_wga_info": "https://www.wga.hu/html/o/os/jan/ferry.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/os/jan/ferry.jpg"
+  },
+  {
+    "author": "OS, Jan van",
+    "date": "-",
+    "id": 20619,
+    "local_img": "/images/o/20619.jpg",
+    "num_iterations": 16,
+    "painting_type": "landscape",
+    "palette": [
+      "#594523",
+      "#c8b38a",
+      "#e6dec8",
+      "#947f45",
+      "#1a1812"
+    ],
+    "radar": [
+      0.01003030315041542,
+      0.4623080790042877,
+      0.349924236536026,
+      0.023777777329087257,
+      0.014696969650685787,
+      0.0009141414193436503,
+      0.13834848999977112
+    ],
+    "technique": "Oil on canvas, 71 x 89 cm",
+    "time_elapsed": 2,
+    "timeline": "1751-1800",
+    "title": "River Landscape",
+    "url_wga_info": "https://www.wga.hu/html/o/os/jan/river_la.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/os/jan/river_la.jpg"
+  },
+  {
+    "author": "OS, Jan van",
+    "date": "-",
+    "id": 20620,
+    "local_img": "/images/o/20620.jpg",
+    "num_iterations": 8,
+    "painting_type": "still-life",
+    "palette": [
+      "#b55d32",
+      "#c2bb99",
+      "#7d7850",
+      "#343523",
+      "#525636"
+    ],
+    "radar": [
+      0.03874611482024193,
+      0.21255958080291748,
+      0.33762693405151367,
+      0.3626891076564789,
+      0.027813471853733063,
+      0.002316062105819583,
+      0.018248705193400383
+    ],
+    "technique": "Oil on panel, 58 x 45 cm",
+    "time_elapsed": 1,
+    "timeline": "1751-1800",
+    "title": "Still-Life with Flowers and Fruit",
+    "url_wga_info": "https://www.wga.hu/html/o/os/jan/stil-flo.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/os/jan/stil-flo.jpg"
+  },
+  {
+    "author": "OS, Jan van",
+    "date": "-",
+    "id": 20621,
+    "local_img": "/images/o/20621.jpg",
+    "num_iterations": 25,
+    "painting_type": "still-life",
+    "palette": [
+      "#9c4c1e",
+      "#392e23",
+      "#5a452e",
+      "#d4bd8f",
+      "#8d7e5a"
+    ],
+    "radar": [
+      0.06353117525577545,
+      0.661072313785553,
+      0.11399002373218536,
+      0.05012967437505722,
+      0.02644388936460018,
+      0.00026932667242363095,
+      0.08456359058618546
+    ],
+    "technique": "Oil on canvas, 44 x 35 cm",
+    "time_elapsed": 3,
+    "timeline": "1751-1800",
+    "title": "Still-Life",
+    "url_wga_info": "https://www.wga.hu/html/o/os/jan/still_li.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/os/jan/still_li.jpg"
+  },
+  {
+    "author": "OS, Jan van",
+    "date": "-",
+    "id": 20622,
+    "local_img": "/images/o/20622.jpg",
+    "num_iterations": 11,
+    "painting_type": "still-life",
+    "palette": [
+      "#292520",
+      "#c7b693",
+      "#695a3d",
+      "#473d29",
+      "#928567"
+    ],
+    "radar": [
+      0.05718256160616875,
+      0.4009700417518616,
+      0.2917874753475189,
+      0.17700272798538208,
+      0.04053951054811478,
+      0.00272479560226202,
+      0.029792916029691696
+    ],
+    "technique": "Oil on canvas, 42 x 35 cm",
+    "time_elapsed": 1,
+    "timeline": "1751-1800",
+    "title": "Still-Life",
+    "url_wga_info": "https://www.wga.hu/html/o/os/jan/stillife.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/os/jan/stillife.jpg"
+  },
+  {
+    "author": "OS, Jan van",
+    "date": "-",
+    "id": 20623,
+    "local_img": "/images/o/20623.jpg",
+    "num_iterations": 27,
+    "painting_type": "landscape",
+    "palette": [
+      "#98928c",
+      "#564426",
+      "#7f6f50",
+      "#2c271a",
+      "#b9b5a8"
+    ],
+    "radar": [
+      0.025533834472298622,
+      0.31522807478904724,
+      0.2661553919315338,
+      0.0051528820767998695,
+      0.1081303283572197,
+      0.003087719203904271,
+      0.2767117917537689
+    ],
+    "technique": "Oil on canvas, 48 x 59 cm",
+    "time_elapsed": 3,
+    "timeline": "1751-1800",
+    "title": "Shipping in a Storm off the Coast",
+    "url_wga_info": "https://www.wga.hu/html/o/os/jan/storm.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/os/jan/storm.jpg"
+  },
+  {
+    "author": "OS, Jan van",
+    "date": "-",
+    "id": 20624,
+    "local_img": "/images/o/20624.jpg",
+    "num_iterations": 30,
+    "painting_type": "landscape",
+    "palette": [
+      "#2e2619",
+      "#53492f",
+      "#7b7349",
+      "#aca88e",
+      "#d2d8c8"
+    ],
+    "radar": [
+      0.01255080197006464,
+      0.2055828869342804,
+      0.5225347876548767,
+      0.041796792298555374,
+      0.12280748784542084,
+      0.00127807492390275,
+      0.0934491977095604
+    ],
+    "technique": "Oil on panel, 27 x 35 cm",
+    "time_elapsed": 4,
+    "timeline": "1751-1800",
+    "title": "Summer Landscape",
+    "url_wga_info": "https://www.wga.hu/html/o/os/jan/summerla.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/os/jan/summerla.jpg"
+  },
+  {
+    "author": "OS, Jan van",
+    "date": "-",
+    "id": 20625,
+    "local_img": "/images/o/20625.jpg",
+    "num_iterations": 9,
+    "painting_type": "landscape",
+    "palette": [
+      "#2e2017",
+      "#90806e",
+      "#614f3a",
+      "#ada090",
+      "#cdc5b5"
+    ],
+    "radar": [
+      0.04745989292860031,
+      0.8610748648643494,
+      0.036379680037498474,
+      0.0009411764913238585,
+      0.0039037433452904224,
+      0.0005561497528105974,
+      0.049684491008520126
+    ],
+    "technique": "Oil on panel, 27 x 35 cm",
+    "time_elapsed": 1,
+    "timeline": "1751-1800",
+    "title": "Winter Landscape",
+    "url_wga_info": "https://www.wga.hu/html/o/os/jan/winterla.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/os/jan/winterla.jpg"
+  },
+  {
+    "author": "OS, Pieter Gerardus van",
+    "date": "-",
+    "id": 20626,
+    "local_img": "/images/o/20626.jpg",
+    "num_iterations": 12,
+    "painting_type": "landscape",
+    "palette": [
+      "#261b14",
+      "#4d4029",
+      "#756443",
+      "#9e9cc2",
+      "#cac4e2"
+    ],
+    "radar": [
+      0.08321239054203033,
+      0.24813716113567352,
+      0.1920442432165146,
+      0.012853981927037239,
+      0.3113628327846527,
+      0.11718583852052689,
+      0.035203538835048676
+    ],
+    "technique": "Oil on panel, 32 x 29 cm",
+    "time_elapsed": 2,
+    "timeline": "1801-1850",
+    "title": "By the Roadside",
+    "url_wga_info": "https://www.wga.hu/html/o/os/pieter/roadside.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/os/pieter/roadside.jpg"
+  },
+  {
+    "author": "OSONA, Francisco de",
+    "date": "c. 1510",
+    "id": 20627,
+    "local_img": "/images/o/20627.jpg",
+    "num_iterations": 15,
+    "painting_type": "religious",
+    "palette": [
+      "#483426",
+      "#67503b",
+      "#251e17",
+      "#857963",
+      "#bfbaaf"
+    ],
+    "radar": [
+      0.11178752779960632,
+      0.5112840533256531,
+      0.20215705037117004,
+      0.043912239372730255,
+      0.023030024021863937,
+      0.0020184756722301245,
+      0.10581061989068985
+    ],
+    "technique": "Oil on panel, 165 x 150 cm",
+    "time_elapsed": 2,
+    "timeline": "1451-1500",
+    "title": "Adoration of the Magi",
+    "url_wga_info": "https://www.wga.hu/html/o/osona/francisc/adormagi.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/osona/francisc/adormagi.jpg"
+  },
+  {
+    "author": "OSONA, Rodrigo de, the Younger",
+    "date": "1530",
+    "id": 20628,
+    "local_img": "/images/o/20628.jpg",
+    "num_iterations": 28,
+    "painting_type": "religious",
+    "palette": [
+      "#2e2726",
+      "#4f3935",
+      "#7a594b",
+      "#ac8b6e",
+      "#f1e0b1"
+    ],
+    "radar": [
+      0.5952391028404236,
+      0.30139854550361633,
+      0.059753622859716415,
+      0.005108695477247238,
+      0.0011956521775573492,
+      0.016884058713912964,
+      0.020420290529727936
+    ],
+    "technique": "Panel, 78 x 44 cm",
+    "time_elapsed": 2,
+    "timeline": "1501-1550",
+    "title": "The Adoration of the Shepherds",
+    "url_wga_info": "https://www.wga.hu/html/o/osona/rodrigo2/shepherd.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/osona/rodrigo2/shepherd.jpg"
+  },
+  {
+    "author": "OSTADE, Adriaen Jansz. van",
+    "date": "-",
+    "id": 20629,
+    "local_img": "/images/o/20629.jpg",
+    "num_iterations": 27,
+    "painting_type": "genre",
+    "palette": [
+      "#5a3e39",
+      "#875b45",
+      "#bd9474",
+      "#342b2e",
+      "#3f3133"
+    ],
+    "radar": [
+      0.6400808691978455,
+      0.1764366626739502,
+      0.00028032343834638596,
+      0.0,
+      0.0005390835576690733,
+      0.16705121099948883,
+      0.01561185996979475
+    ],
+    "technique": "Oil on wood, 41 x 55 cm",
+    "time_elapsed": 3,
+    "timeline": "1651-1700",
+    "title": "Brawl",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/adriaen/1/brawl.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/adriaen/1/brawl.jpg"
+  },
+  {
+    "author": "OSTADE, Adriaen Jansz. van",
+    "date": "-",
+    "id": 20630,
+    "local_img": "/images/o/20630.jpg",
+    "num_iterations": 17,
+    "painting_type": "genre",
+    "palette": [
+      "#180f0f",
+      "#2a1e1d",
+      "#513b31",
+      "#7e6d5c",
+      "#b8a289"
+    ],
+    "radar": [
+      0.6197865605354309,
+      0.23466463387012482,
+      0.03992683067917824,
+      0.00077439023880288,
+      0.0012439024867489934,
+      0.007024390157312155,
+      0.09657926857471466
+    ],
+    "technique": "Oil on panel, 31 x 46 cm",
+    "time_elapsed": 2,
+    "timeline": "1651-1700",
+    "title": "Inn Scene",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/adriaen/1/innscene.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/adriaen/1/innscene.jpg"
+  },
+  {
+    "author": "OSTADE, Adriaen Jansz. van",
+    "date": "-",
+    "id": 20631,
+    "local_img": "/images/o/20631.jpg",
+    "num_iterations": 18,
+    "painting_type": "genre",
+    "palette": [
+      "#cea47b",
+      "#85684a",
+      "#403325",
+      "#252018",
+      "#13120f"
+    ],
+    "radar": [
+      0.010679706931114197,
+      0.7364205121994019,
+      0.143520787358284,
+      0.0034914426505565643,
+      0.00008801955846138299,
+      0.00009290953312302008,
+      0.1057066023349762
+    ],
+    "technique": "Oil on wood",
+    "time_elapsed": 2,
+    "timeline": "1651-1700",
+    "title": "Piping and Drinking in the Tavern",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/adriaen/1/intavern.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/adriaen/1/intavern.jpg"
+  },
+  {
+    "author": "OSTADE, Adriaen Jansz. van",
+    "date": "-",
+    "id": 20632,
+    "local_img": "/images/o/20632.jpg",
+    "num_iterations": 39,
+    "painting_type": "genre",
+    "palette": [
+      "#b5793c",
+      "#6b4f30",
+      "#7e725e",
+      "#28292e",
+      "#383739"
+    ],
+    "radar": [
+      0.010261071845889091,
+      0.5810489654541016,
+      0.10039626806974411,
+      0.0003076923021581024,
+      0.25256410241127014,
+      0.01007459219545126,
+      0.045347318053245544
+    ],
+    "technique": "Oil on panel, 21 x 18 cm",
+    "time_elapsed": 5,
+    "timeline": "1651-1700",
+    "title": "Old Man Smoking a Pipe",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/adriaen/1/smoker1.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/adriaen/1/smoker1.jpg"
+  },
+  {
+    "author": "OSTADE, Adriaen Jansz. van",
+    "date": "-",
+    "id": 20633,
+    "local_img": "/images/o/20633.jpg",
+    "num_iterations": 24,
+    "painting_type": "interior",
+    "palette": [
+      "#2f2522",
+      "#47362e",
+      "#695141",
+      "#b98664",
+      "#1b1819"
+    ],
+    "radar": [
+      0.32580000162124634,
+      0.5144923329353333,
+      0.009933332912623882,
+      0.0016512820729985833,
+      0.01735384576022625,
+      0.055820513516664505,
+      0.07494872063398361
+    ],
+    "technique": "Oil on canvas",
+    "time_elapsed": 3,
+    "timeline": "1651-1700",
+    "title": "Interior of a Tavern with Violin Player",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/adriaen/1/violin_p.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/adriaen/1/violin_p.jpg"
+  },
+  {
+    "author": "OSTADE, Adriaen Jansz. van",
+    "date": "-",
+    "id": 20634,
+    "local_img": "/images/o/20634.jpg",
+    "num_iterations": 14,
+    "painting_type": "genre",
+    "palette": [
+      "#291c19",
+      "#432d1f",
+      "#62472c",
+      "#82633a",
+      "#0c0c12"
+    ],
+    "radar": [
+      0.12518426775932312,
+      0.6456019878387451,
+      0.001449631410650909,
+      0.000014742015082447324,
+      0.026216216385364532,
+      0.05774447321891785,
+      0.14378869533538818
+    ],
+    "technique": "Oil on oak panel, 33,2 x 26,7 cm",
+    "time_elapsed": 2,
+    "timeline": "1651-1700",
+    "title": "Cutting the Feather",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/adriaen/2/cutting.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/adriaen/2/cutting.jpg"
+  },
+  {
+    "author": "OSTADE, Adriaen Jansz. van",
+    "date": "-",
+    "id": 20635,
+    "local_img": "/images/o/20635.jpg",
+    "num_iterations": 17,
+    "painting_type": "genre",
+    "palette": [
+      "#2d1814",
+      "#462821",
+      "#663f31",
+      "#8f6b4f",
+      "#c5a882"
+    ],
+    "radar": [
+      0.5645278692245483,
+      0.4309104084968567,
+      0.00254721543751657,
+      4.842614998779027e-6,
+      0.0,
+      0.0008813559543341398,
+      0.0011283293133601546
+    ],
+    "technique": "Oil on wood",
+    "time_elapsed": 2,
+    "timeline": "1651-1700",
+    "title": "The Drinker",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/adriaen/2/drinker.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/adriaen/2/drinker.jpg"
+  },
+  {
+    "author": "OSTADE, Adriaen Jansz. van",
+    "date": "-",
+    "id": 20636,
+    "local_img": "/images/o/20636.jpg",
+    "num_iterations": 15,
+    "painting_type": "mythological",
+    "palette": [
+      "#242018",
+      "#7e6e4a",
+      "#4f4429",
+      "#a7a080",
+      "#466065"
+    ],
+    "radar": [
+      0.003295128932222724,
+      0.33143267035484314,
+      0.4727163314819336,
+      0.10589111596345901,
+      0.05651002749800682,
+      0.0007793696131557226,
+      0.029375357553362846
+    ],
+    "technique": "Oil on panel, 16 x 11 cm",
+    "time_elapsed": 2,
+    "timeline": "1651-1700",
+    "title": "A Man With Pince-Nez (The Sense of Sight)",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/adriaen/2/pincene.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/adriaen/2/pincene.jpg"
+  },
+  {
+    "author": "OSTADE, Adriaen Jansz. van",
+    "date": "-",
+    "id": 20637,
+    "local_img": "/images/o/20637.jpg",
+    "num_iterations": 21,
+    "painting_type": "genre",
+    "palette": [
+      "#1c150f",
+      "#33261b",
+      "#533e2a",
+      "#906a43",
+      "#e2cb8d"
+    ],
+    "radar": [
+      0.07056614011526108,
+      0.730994701385498,
+      0.15050265192985535,
+      0.023312170058488846,
+      5.291005436447449e-6,
+      0.00006878306885482743,
+      0.024550264701247215
+    ],
+    "technique": "Oil on wood, 30 x 23 cm",
+    "time_elapsed": 3,
+    "timeline": "1651-1700",
+    "title": "The Stall-keeper",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/adriaen/2/stall_ke.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/adriaen/2/stall_ke.jpg"
+  },
+  {
+    "author": "OSTADE, Adriaen Jansz. van",
+    "date": "1630-35",
+    "id": 20638,
+    "local_img": "/images/o/20638.jpg",
+    "num_iterations": 23,
+    "painting_type": "genre",
+    "palette": [
+      "#2a1a1a",
+      "#472c28",
+      "#674235",
+      "#9f6d47",
+      "#cfa970"
+    ],
+    "radar": [
+      0.5940733551979065,
+      0.35185331106185913,
+      0.04850855842232704,
+      0.00007823960913810879,
+      0.0000342298299074173,
+      0.0036283619701862335,
+      0.0018239609198644757
+    ],
+    "technique": "Wood, 34 x 41 cm",
+    "time_elapsed": 3,
+    "timeline": "1651-1700",
+    "title": "Barber Extracting of Tooth",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/adriaen/1/barber.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/adriaen/1/barber.jpg"
+  },
+  {
+    "author": "OSTADE, Adriaen Jansz. van",
+    "date": "1635",
+    "id": 20639,
+    "local_img": "/images/o/20639.jpg",
+    "num_iterations": 35,
+    "painting_type": "genre",
+    "palette": [
+      "#4e2e2c",
+      "#815143",
+      "#c2916b",
+      "#e9d1b5",
+      "#1d151a"
+    ],
+    "radar": [
+      0.33869999647140503,
+      0.29616841673851013,
+      0.0015473684761673212,
+      5.263158072921215e-6,
+      0.0007421052432619035,
+      0.3461263179779053,
+      0.01671052724123001
+    ],
+    "technique": "Oil on oak, 13 x 17 cm",
+    "time_elapsed": 4,
+    "timeline": "1651-1700",
+    "title": "Village Tavern with Four Figures",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/adriaen/1/vill_tav.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/adriaen/1/vill_tav.jpg"
+  },
+  {
+    "author": "OSTADE, Adriaen Jansz. van",
+    "date": "1635-37",
+    "id": 20640,
+    "local_img": "/images/o/20640.jpg",
+    "num_iterations": 14,
+    "painting_type": "genre",
+    "palette": [
+      "#262422",
+      "#363028",
+      "#51412d",
+      "#786441",
+      "#1c1e1d"
+    ],
+    "radar": [
+      0.040659140795469284,
+      0.5101670622825623,
+      0.10997742414474487,
+      0.056216705590486526,
+      0.0661083534359932,
+      0.0030248307157307863,
+      0.21384650468826294
+    ],
+    "technique": "Oil on panel, 27 x 30 cm",
+    "time_elapsed": 2,
+    "timeline": "1651-1700",
+    "title": "Rustic Concert with Pipe and Violin",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/adriaen/1/countryc.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/adriaen/1/countryc.jpg"
+  },
+  {
+    "author": "OSTADE, Adriaen Jansz. van",
+    "date": "1637",
+    "id": 20641,
+    "local_img": "/images/o/20641.jpg",
+    "num_iterations": 23,
+    "painting_type": "genre",
+    "palette": [
+      "#160a06",
+      "#2c150c",
+      "#53311b",
+      "#79532d",
+      "#a37a4b"
+    ],
+    "radar": [
+      0.2983109951019287,
+      0.562032163143158,
+      0.010686326771974564,
+      0.005747989285737276,
+      0.0,
+      0.00035924933035857975,
+      0.12286327034235
+    ],
+    "technique": "Oil on panel, 25 x 34 cm",
+    "time_elapsed": 3,
+    "timeline": "1651-1700",
+    "title": "A Fight",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/adriaen/1/fight.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/adriaen/1/fight.jpg"
+  },
+  {
+    "author": "OSTADE, Adriaen Jansz. van",
+    "date": "1638",
+    "id": 20642,
+    "local_img": "/images/o/20642.jpg",
+    "num_iterations": 12,
+    "painting_type": "genre",
+    "palette": [
+      "#2d211e",
+      "#362722",
+      "#423028",
+      "#563e2c",
+      "#755938"
+    ],
+    "radar": [
+      0.44784799218177795,
+      0.5505599975585938,
+      0.0010319999419152737,
+      0.0,
+      0.0,
+      0.0004799999878741801,
+      0.00007999999797903001
+    ],
+    "technique": "Oil on panel, 20 x 39 cm",
+    "time_elapsed": 1,
+    "timeline": "1651-1700",
+    "title": "Rustic Concert",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/adriaen/1/v_feast.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/adriaen/1/v_feast.jpg"
+  },
+  {
+    "author": "OSTADE, Adriaen Jansz. van",
+    "date": "1645",
+    "id": 20643,
+    "local_img": "/images/o/20643.jpg",
+    "num_iterations": 21,
+    "painting_type": "genre",
+    "palette": [
+      "#4f371f",
+      "#714c28",
+      "#332b22",
+      "#a4723a",
+      "#211e1a"
+    ],
+    "radar": [
+      0.05553806945681572,
+      0.7631167769432068,
+      0.08402030169963837,
+      0.02874111756682396,
+      0.00852284301072359,
+      0.007131979800760746,
+      0.05292893573641777
+    ],
+    "technique": "Oil on wood, 39 x 31 cm",
+    "time_elapsed": 3,
+    "timeline": "1651-1700",
+    "title": "Village Musicians",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/adriaen/1/musician.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/adriaen/1/musician.jpg"
+  },
+  {
+    "author": "OSTADE, Adriaen Jansz. van",
+    "date": "1647",
+    "id": 20644,
+    "local_img": "/images/o/20644.jpg",
+    "num_iterations": 27,
+    "painting_type": "interior",
+    "palette": [
+      "#2c221d",
+      "#382a23",
+      "#4f3729",
+      "#6f4b34",
+      "#a07550"
+    ],
+    "radar": [
+      0.2562004625797272,
+      0.7358424663543701,
+      0.007369928527623415,
+      0.00010023866343544796,
+      0.00002863961890398059,
+      0.0003484486951492727,
+      0.00010978520003845915
+    ],
+    "technique": "Oil on oakwood, 43,1 x 36,5 cm",
+    "time_elapsed": 4,
+    "timeline": "1651-1700",
+    "title": "Interior with a Peasant Family",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/adriaen/1/p_family.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/adriaen/1/p_family.jpg"
+  },
+  {
+    "author": "OSTADE, Adriaen Jansz. van",
+    "date": "1648",
+    "id": 20645,
+    "local_img": "/images/o/20645.jpg",
+    "num_iterations": 13,
+    "painting_type": "religious",
+    "palette": [
+      "#16120d",
+      "#3b2f20",
+      "#6f5f3e",
+      "#8e8b99",
+      "#c9c5c8"
+    ],
+    "radar": [
+      0.04721140116453171,
+      0.3229121267795563,
+      0.12152969092130661,
+      0.003752969205379486,
+      0.12558194994926453,
+      0.025990499183535576,
+      0.35302138328552246
+    ],
+    "technique": "Oil on canvas, 61 x 52 cm",
+    "time_elapsed": 2,
+    "timeline": "1651-1700",
+    "title": "Merry Peasants",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/adriaen/1/merrypea.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/adriaen/1/merrypea.jpg"
+  },
+  {
+    "author": "OSTADE, Adriaen Jansz. van",
+    "date": "1648",
+    "id": 20646,
+    "local_img": "/images/o/20646.jpg",
+    "num_iterations": 28,
+    "painting_type": "genre",
+    "palette": [
+      "#291e1b",
+      "#482f1f",
+      "#6b411d",
+      "#a7701d",
+      "#c7a955"
+    ],
+    "radar": [
+      0.12274111807346344,
+      0.5319289565086365,
+      0.32244670391082764,
+      0.00020304568170104176,
+      0.0009086294448934495,
+      0.020817259326577187,
+      0.00095431471709162
+    ],
+    "technique": "Oil on panel, 27 x 22 cm",
+    "time_elapsed": 3,
+    "timeline": "1651-1700",
+    "title": "Wandering Musician",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/adriaen/1/wanderin.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/adriaen/1/wanderin.jpg"
+  },
+  {
+    "author": "OSTADE, Adriaen Jansz. van",
+    "date": "1650",
+    "id": 20647,
+    "local_img": "/images/o/20647.jpg",
+    "num_iterations": 32,
+    "painting_type": "genre",
+    "palette": [
+      "#2a201d",
+      "#4f3830",
+      "#7b5a49",
+      "#c3a183",
+      "#0f0e0c"
+    ],
+    "radar": [
+      0.27876409888267517,
+      0.27433332800865173,
+      0.017512820661067963,
+      0.004302564077079296,
+      0.0003846153849735856,
+      0.003933333326131105,
+      0.42076924443244934
+    ],
+    "technique": "Oil on panel, 44 x 36 cm",
+    "time_elapsed": 4,
+    "timeline": "1651-1700",
+    "title": "Interior of a Farmhouse with Skaters",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/adriaen/1/interior.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/adriaen/1/interior.jpg"
+  },
+  {
+    "author": "OSTADE, Adriaen Jansz. van",
+    "date": "1654",
+    "id": 20648,
+    "local_img": "/images/o/20648.jpg",
+    "num_iterations": 31,
+    "painting_type": "portrait",
+    "palette": [
+      "#332e2e",
+      "#9b6f52",
+      "#5a4c40",
+      "#e6cb9c",
+      "#1c1d1e"
+    ],
+    "radar": [
+      0.1238320991396904,
+      0.3263357877731323,
+      0.04247407242655754,
+      0.036404937505722046,
+      0.22988148033618927,
+      0.026775307953357697,
+      0.21429629623889923
+    ],
+    "technique": "Oil on wood, 70 x 88 cm",
+    "time_elapsed": 4,
+    "timeline": "1651-1700",
+    "title": "Portrait of a Family",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/adriaen/2/port_fam.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/adriaen/2/port_fam.jpg"
+  },
+  {
+    "author": "OSTADE, Adriaen Jansz. van",
+    "date": "1659",
+    "id": 20649,
+    "local_img": "/images/o/20649.jpg",
+    "num_iterations": 26,
+    "painting_type": "genre",
+    "palette": [
+      "#c9bbb6",
+      "#342923",
+      "#5a422f",
+      "#a07752",
+      "#181718"
+    ],
+    "radar": [
+      0.15507981181144714,
+      0.5764882564544678,
+      0.006441314704716206,
+      0.004863849841058254,
+      0.09131455421447754,
+      0.044596243649721146,
+      0.12121596187353134
+    ],
+    "technique": "Oil on canvas, 41 x 36 cm",
+    "time_elapsed": 4,
+    "timeline": "1651-1700",
+    "title": "The Fish Market",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/adriaen/2/fishmark.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/adriaen/2/fishmark.jpg"
+  },
+  {
+    "author": "OSTADE, Adriaen Jansz. van",
+    "date": "1660",
+    "id": 20650,
+    "local_img": "/images/o/20650.jpg",
+    "num_iterations": 31,
+    "painting_type": "genre",
+    "palette": [
+      "#493e34",
+      "#785e36",
+      "#b69151",
+      "#101324",
+      "#28262e"
+    ],
+    "radar": [
+      0.07459615170955658,
+      0.36409133672714233,
+      0.08176442235708237,
+      0.002812500111758709,
+      0.31907692551612854,
+      0.135629802942276,
+      0.02202884666621685
+    ],
+    "technique": "Oil on oak panel, 46 x 39 cm",
+    "time_elapsed": 4,
+    "timeline": "1651-1700",
+    "title": "Peasant Family by a Hearth",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/adriaen/1/p_heart.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/adriaen/1/p_heart.jpg"
+  },
+  {
+    "author": "OSTADE, Adriaen Jansz. van",
+    "date": "1660",
+    "id": 20651,
+    "local_img": "/images/o/20651.jpg",
+    "num_iterations": 27,
+    "painting_type": "genre",
+    "palette": [
+      "#564535",
+      "#bfa070",
+      "#886838",
+      "#141728",
+      "#332d2f"
+    ],
+    "radar": [
+      0.06922580301761627,
+      0.47453373670578003,
+      0.1236129030585289,
+      0.005419354885816574,
+      0.2273724377155304,
+      0.07366568595170975,
+      0.026170087978243828
+    ],
+    "technique": "Oil on oak panel",
+    "time_elapsed": 3,
+    "timeline": "1651-1700",
+    "title": "Peasant Family by a Hearth (detail)",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/adriaen/1/p_heart1.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/adriaen/1/p_heart1.jpg"
+  },
+  {
+    "author": "OSTADE, Adriaen Jansz. van",
+    "date": "1660",
+    "id": 20652,
+    "local_img": "/images/o/20652.jpg",
+    "num_iterations": 13,
+    "painting_type": "religious",
+    "palette": [
+      "#3f382e",
+      "#675b42",
+      "#948c76",
+      "#21211f",
+      "#b3bcbe"
+    ],
+    "radar": [
+      0.055908601731061935,
+      0.4038333296775818,
+      0.17710214853286743,
+      0.06669892370700836,
+      0.13632795214653015,
+      0.02179032191634178,
+      0.13833871483802795
+    ],
+    "technique": "Oil on oak panel, 43 x 57 cm",
+    "time_elapsed": 1,
+    "timeline": "1651-1700",
+    "title": "Peasants Carousing and Dancing outside an Inn",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/adriaen/1/peasants.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/adriaen/1/peasants.jpg"
+  },
+  {
+    "author": "OSTADE, Adriaen Jansz. van",
+    "date": "1660",
+    "id": 20653,
+    "local_img": "/images/o/20653.jpg",
+    "num_iterations": 15,
+    "painting_type": "genre",
+    "palette": [
+      "#220f0b",
+      "#371d16",
+      "#533427",
+      "#846346",
+      "#d0a273"
+    ],
+    "radar": [
+      0.607990026473999,
+      0.37726500630378723,
+      0.011415000073611736,
+      0.0,
+      0.0,
+      0.000014999999621068127,
+      0.003315000096336007
+    ],
+    "technique": "Oil on wood, 29 x 23 cm",
+    "time_elapsed": 2,
+    "timeline": "1651-1700",
+    "title": "Flute Player",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/adriaen/2/flute_pl.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/adriaen/2/flute_pl.jpg"
+  },
+  {
+    "author": "OSTADE, Adriaen Jansz. van",
+    "date": "1661",
+    "id": 20654,
+    "local_img": "/images/o/20654.jpg",
+    "num_iterations": 30,
+    "painting_type": "interior",
+    "palette": [
+      "#4b3731",
+      "#805a41",
+      "#bb9262",
+      "#171014",
+      "#2b2022"
+    ],
+    "radar": [
+      0.44343748688697815,
+      0.26539063453674316,
+      0.004151041619479656,
+      0.00014583332813344896,
+      0.0007864583167247474,
+      0.23273438215255737,
+      0.0533541664481163
+    ],
+    "technique": "Oil on copper, 37 x 47 cm",
+    "time_elapsed": 4,
+    "timeline": "1651-1700",
+    "title": "Peasants in an Interior",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/adriaen/1/countryp.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/adriaen/1/countryp.jpg"
+  },
+  {
+    "author": "OSTADE, Adriaen Jansz. van",
+    "date": "1661",
+    "id": 20655,
+    "local_img": "/images/o/20655.jpg",
+    "num_iterations": 24,
+    "painting_type": "interior",
+    "palette": [
+      "#371f19",
+      "#674c37",
+      "#af9773",
+      "#0f0208",
+      "#200e10"
+    ],
+    "radar": [
+      0.545059084892273,
+      0.13221363723278046,
+      0.007627272512763739,
+      0.0,
+      0.002836363622918725,
+      0.05818181857466698,
+      0.2540818154811859
+    ],
+    "technique": "Oil on oak panel, 35 x 31 cm",
+    "time_elapsed": 3,
+    "timeline": "1651-1700",
+    "title": "Peasant Family in a Cottage Interior",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/adriaen/1/p_cottag.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/adriaen/1/p_cottag.jpg"
+  },
+  {
+    "author": "OSTADE, Adriaen Jansz. van",
+    "date": "1661",
+    "id": 20656,
+    "local_img": "/images/o/20656.jpg",
+    "num_iterations": 21,
+    "painting_type": "interior",
+    "palette": [
+      "#44241f",
+      "#80593f",
+      "#d6c3a6",
+      "#16060a",
+      "#261213"
+    ],
+    "radar": [
+      0.7165920734405518,
+      0.10495104640722275,
+      0.005370629485696554,
+      0.0,
+      9.324009624833707e-6,
+      0.06254545599222183,
+      0.11053147166967392
+    ],
+    "technique": "Oil on oak panel",
+    "time_elapsed": 3,
+    "timeline": "1651-1700",
+    "title": "Peasant Family in a Cottage Interior (detail)",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/adriaen/1/p_cottax.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/adriaen/1/p_cottax.jpg"
+  },
+  {
+    "author": "OSTADE, Adriaen Jansz. van",
+    "date": "1661",
+    "id": 20657,
+    "local_img": "/images/o/20657.jpg",
+    "num_iterations": 10,
+    "painting_type": "genre",
+    "palette": [
+      "#3d2e2d",
+      "#563f3a",
+      "#7c5d4d",
+      "#b08b6b",
+      "#2d2324"
+    ],
+    "radar": [
+      0.701335072517395,
+      0.22414247691631317,
+      0.001926121418364346,
+      5.277044692775235e-6,
+      0.00001055408938555047,
+      0.0721319243311882,
+      0.000448548817075789
+    ],
+    "technique": "Oil on oak, 34,2 x 45,2 cm",
+    "time_elapsed": 1,
+    "timeline": "1651-1700",
+    "title": "Alchemist",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/adriaen/2/alchemis.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/adriaen/2/alchemis.jpg"
+  },
+  {
+    "author": "OSTADE, Adriaen Jansz. van",
+    "date": "1662",
+    "id": 20658,
+    "local_img": "/images/o/20658.jpg",
+    "num_iterations": 26,
+    "painting_type": "genre",
+    "palette": [
+      "#1d150f",
+      "#2c2014",
+      "#4a351e",
+      "#775931",
+      "#baa16f"
+    ],
+    "radar": [
+      0.015656862407922745,
+      0.9356862902641296,
+      0.03534313663840294,
+      0.0004558823420666158,
+      0.000014705882676935289,
+      0.00007843137427698821,
+      0.012764706276357174
+    ],
+    "technique": "Oil on wood, 40 x 33 cm",
+    "time_elapsed": 3,
+    "timeline": "1651-1700",
+    "title": "The School Master",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/adriaen/2/school_m.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/adriaen/2/school_m.jpg"
+  },
+  {
+    "author": "OSTADE, Adriaen Jansz. van",
+    "date": "1663",
+    "id": 20659,
+    "local_img": "/images/o/20659.jpg",
+    "num_iterations": 9,
+    "painting_type": "interior",
+    "palette": [
+      "#281b13",
+      "#3d2c20",
+      "#553f2e",
+      "#785b3e",
+      "#a68554"
+    ],
+    "radar": [
+      0.046378493309020996,
+      0.9354967474937439,
+      0.017548387870192528,
+      0.00004731182707473636,
+      0.0,
+      0.00002580645195848774,
+      0.0005032258341088891
+    ],
+    "technique": "Oil on oak, 38 x 35,5 cm",
+    "time_elapsed": 1,
+    "timeline": "1651-1700",
+    "title": "The Painter in His Studio",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/adriaen/2/painstud.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/adriaen/2/painstud.jpg"
+  },
+  {
+    "author": "OSTADE, Adriaen Jansz. van",
+    "date": "1667",
+    "id": 20660,
+    "local_img": "/images/o/20660.jpg",
+    "num_iterations": 20,
+    "painting_type": "genre",
+    "palette": [
+      "#201813",
+      "#332313",
+      "#4c3717",
+      "#caa769",
+      "#79571c"
+    ],
+    "radar": [
+      0.04002035781741142,
+      0.8629872798919678,
+      0.08714503794908524,
+      0.0006717556971125305,
+      0.00010687022586353123,
+      0.0029211195651441813,
+      0.006147582549601793
+    ],
+    "technique": "Oil on panel, 23 x 19 cm",
+    "time_elapsed": 3,
+    "timeline": "1651-1700",
+    "title": "Peasant Family",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/adriaen/1/p_famil.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/adriaen/1/p_famil.jpg"
+  },
+  {
+    "author": "OSTADE, Adriaen Jansz. van",
+    "date": "1667",
+    "id": 20661,
+    "local_img": "/images/o/20661.jpg",
+    "num_iterations": 35,
+    "painting_type": "religious",
+    "palette": [
+      "#101010",
+      "#5d5139",
+      "#352e20",
+      "#c4af7d",
+      "#84734c"
+    ],
+    "radar": [
+      0.028673317283391953,
+      0.3411172032356262,
+      0.2911471426486969,
+      0.06692767888307571,
+      0.04321197047829628,
+      0.005870324093848467,
+      0.22305236756801605
+    ],
+    "technique": "Oil on oak panel, 37 x 29 cm",
+    "time_elapsed": 5,
+    "timeline": "1651-1700",
+    "title": "Mother Holding her Child in a Doorway",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/adriaen/2/mother_c.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/adriaen/2/mother_c.jpg"
+  },
+  {
+    "author": "OSTADE, Adriaen Jansz. van",
+    "date": "1668",
+    "id": 20662,
+    "local_img": "/images/o/20662.jpg",
+    "num_iterations": 31,
+    "painting_type": "religious",
+    "palette": [
+      "#281716",
+      "#4d2b20",
+      "#754933",
+      "#c7ab8b",
+      "#0a080b"
+    ],
+    "radar": [
+      0.35286110639572144,
+      0.13465000689029694,
+      0.004449999891221523,
+      0.0002388888824498281,
+      0.0030666666571050882,
+      0.04205000028014183,
+      0.4626833200454712
+    ],
+    "technique": "Oil on canvas",
+    "time_elapsed": 6,
+    "timeline": "1651-1700",
+    "title": "The Interior of a Peasant's Cottage",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/adriaen/2/interior.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/adriaen/2/interior.jpg"
+  },
+  {
+    "author": "OSTADE, Adriaen Jansz. van",
+    "date": "1673",
+    "id": 20663,
+    "local_img": "/images/o/20663.jpg",
+    "num_iterations": 22,
+    "painting_type": "genre",
+    "palette": [
+      "#1b1411",
+      "#3b2e25",
+      "#675443",
+      "#99876b",
+      "#cec1aa"
+    ],
+    "radar": [
+      0.19997844099998474,
+      0.6139956712722778,
+      0.10316379368305206,
+      0.0020991379860788584,
+      0.0010086207184940577,
+      0.007090517319738865,
+      0.0726637914776802
+    ],
+    "technique": "Oil on panel, 45 x 42 cm",
+    "time_elapsed": 6,
+    "timeline": "1651-1700",
+    "title": "The Violinist",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/adriaen/1/violinis.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/adriaen/1/violinis.jpg"
+  },
+  {
+    "author": "OSTADE, Adriaen Jansz. van",
+    "date": "1673",
+    "id": 20664,
+    "local_img": "/images/o/20664.jpg",
+    "num_iterations": 26,
+    "painting_type": "religious",
+    "palette": [
+      "#331d15",
+      "#573425",
+      "#774c36",
+      "#94684b",
+      "#b78f67"
+    ],
+    "radar": [
+      0.20933961868286133,
+      0.7859811186790466,
+      0.001768867950886488,
+      9.433962077309843e-6,
+      0.0,
+      0.000014150943570712116,
+      0.0028867924120277166
+    ],
+    "technique": "Oil on canvas, 21,9 x 25,7 cm",
+    "time_elapsed": 6,
+    "timeline": "1651-1700",
+    "title": "Feasting Peasants in a Tavern",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/adriaen/2/feasting.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/adriaen/2/feasting.jpg"
+  },
+  {
+    "author": "OSTADE, Adriaen Jansz. van",
+    "date": "1674",
+    "id": 20665,
+    "local_img": "/images/o/20665.jpg",
+    "num_iterations": 21,
+    "painting_type": "genre",
+    "palette": [
+      "#3f3432",
+      "#6b4c40",
+      "#9c7155",
+      "#d7b589",
+      "#2a2c2b"
+    ],
+    "radar": [
+      0.4160695970058441,
+      0.2663109004497528,
+      0.013155451975762844,
+      0.01664501242339611,
+      0.01034802757203579,
+      0.010143851861357689,
+      0.2673271596431732
+    ],
+    "technique": "Oil on panel",
+    "time_elapsed": 5,
+    "timeline": "1651-1700",
+    "title": "Merrymakers in an Inn",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/adriaen/2/merrymak.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/adriaen/2/merrymak.jpg"
+  },
+  {
+    "author": "OSTADE, Adriaen Jansz. van",
+    "date": "c. 1635",
+    "id": 20666,
+    "local_img": "/images/o/20666.jpg",
+    "num_iterations": 23,
+    "painting_type": "genre",
+    "palette": [
+      "#322c29",
+      "#5b3f29",
+      "#855a28",
+      "#ac8955",
+      "#181d22"
+    ],
+    "radar": [
+      0.09842606633901596,
+      0.5842356085777283,
+      0.03367418423295021,
+      0.011473684571683407,
+      0.2009974867105484,
+      0.03796491399407387,
+      0.0332280695438385
+    ],
+    "technique": "Oil on oak panel, 29 x 36 cm",
+    "time_elapsed": 5,
+    "timeline": "1651-1700",
+    "title": "Carousing Peasants in a Tavern",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/adriaen/1/carousin.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/adriaen/1/carousin.jpg"
+  },
+  {
+    "author": "OSTADE, Adriaen Jansz. van",
+    "date": "c. 1635",
+    "id": 20667,
+    "local_img": "/images/o/20667.jpg",
+    "num_iterations": 21,
+    "painting_type": "genre",
+    "palette": [
+      "#1e1717",
+      "#2f2520",
+      "#4e3b2b",
+      "#7e5c3f",
+      "#100b0f"
+    ],
+    "radar": [
+      0.30055999755859375,
+      0.47442665696144104,
+      0.0011573333758860826,
+      0.00011733333667507395,
+      0.00007999999797903001,
+      0.09567466378211975,
+      0.12798400223255157
+    ],
+    "technique": "Oil on wood, 41 x 33 cm",
+    "time_elapsed": 4,
+    "timeline": "1651-1700",
+    "title": "Comedian Reading in a Tavern",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/adriaen/1/comedian.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/adriaen/1/comedian.jpg"
+  },
+  {
+    "author": "OSTADE, Adriaen Jansz. van",
+    "date": "c. 1635",
+    "id": 20668,
+    "local_img": "/images/o/20668.jpg",
+    "num_iterations": 22,
+    "painting_type": "genre",
+    "palette": [
+      "#53382b",
+      "#826345",
+      "#ae9873",
+      "#070309",
+      "#291718"
+    ],
+    "radar": [
+      0.2014285773038864,
+      0.23885221779346466,
+      0.0448029562830925,
+      0.0008226601057685912,
+      0.0016896551242098212,
+      0.09159605950117111,
+      0.4208078682422638
+    ],
+    "technique": "Oil on panel, 34 x 27 cm",
+    "time_elapsed": 5,
+    "timeline": "1651-1700",
+    "title": "Peasants Drinking and Making Music in a Barn",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/adriaen/1/peasant1.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/adriaen/1/peasant1.jpg"
+  },
+  {
+    "author": "OSTADE, Adriaen Jansz. van",
+    "date": "c. 1655",
+    "id": 20669,
+    "local_img": "/images/o/20669.jpg",
+    "num_iterations": 12,
+    "painting_type": "genre",
+    "palette": [
+      "#2c1f17",
+      "#4f371f",
+      "#695f3c",
+      "#756b42",
+      "#100d12"
+    ],
+    "radar": [
+      0.05990156531333923,
+      0.1453467607498169,
+      0.5557538866996765,
+      0.003454138757660985,
+      0.01297091692686081,
+      0.07516778260469437,
+      0.14740492403507233
+    ],
+    "technique": "Oil on panel, 18 x 16 cm",
+    "time_elapsed": 3,
+    "timeline": "1651-1700",
+    "title": "Smoker",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/adriaen/1/smoker.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/adriaen/1/smoker.jpg"
+  },
+  {
+    "author": "OSTADE, Adriaen Jansz. van",
+    "date": "c. 1672",
+    "id": 20670,
+    "local_img": "/images/o/20670.jpg",
+    "num_iterations": 30,
+    "painting_type": "genre",
+    "palette": [
+      "#4c3737",
+      "#704a41",
+      "#956a58",
+      "#cbb19a",
+      "#35292c"
+    ],
+    "radar": [
+      0.6268130540847778,
+      0.22753913700580597,
+      0.005691304337233305,
+      0.00042173912515863776,
+      0.005739130545407534,
+      0.1234000027179718,
+      0.010395652614533901
+    ],
+    "technique": "Oil on canvas, 29 x 26,5 cm",
+    "time_elapsed": 8,
+    "timeline": "1651-1700",
+    "title": "The Fishwife",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/adriaen/2/fishsell.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/adriaen/2/fishsell.jpg"
+  },
+  {
+    "author": "OSTADE, Isaack van",
+    "date": "-",
+    "id": 20671,
+    "local_img": "/images/o/20671.jpg",
+    "num_iterations": 32,
+    "painting_type": "still-life",
+    "palette": [
+      "#2a211f",
+      "#432d26",
+      "#664035",
+      "#975e46",
+      "#c48966"
+    ],
+    "radar": [
+      0.6113656163215637,
+      0.3693656027317047,
+      0.0043172044679522514,
+      0.002080645179376006,
+      0.0003225806576665491,
+      0.0049193548038601875,
+      0.007629032246768475
+    ],
+    "technique": "Oil on oak, 42 x 31 cm",
+    "time_elapsed": 7,
+    "timeline": "1601-1650",
+    "title": "The Cut Pig",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/isaack/cut_pig.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/isaack/cut_pig.jpg"
+  },
+  {
+    "author": "OSTADE, Isaack van",
+    "date": "-",
+    "id": 20672,
+    "local_img": "/images/o/20672.jpg",
+    "num_iterations": 9,
+    "painting_type": "landscape",
+    "palette": [
+      "#2e2108",
+      "#553d0d",
+      "#7a6018",
+      "#958a51",
+      "#aaa26c"
+    ],
+    "radar": [
+      0.00034250764292664826,
+      0.12934556603431702,
+      0.77902752161026,
+      0.08971253782510757,
+      0.0,
+      0.0,
+      0.0015718654030933976
+    ],
+    "technique": "Oil on panel, 51 x 77 cm",
+    "time_elapsed": 2,
+    "timeline": "1601-1650",
+    "title": "Winter Landscape",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/isaack/winter_n.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/isaack/winter_n.jpg"
+  },
+  {
+    "author": "OSTADE, Isaack van",
+    "date": "1640",
+    "id": 20673,
+    "local_img": "/images/o/20673.jpg",
+    "num_iterations": 18,
+    "painting_type": "interior",
+    "palette": [
+      "#573e2f",
+      "#41352d",
+      "#795137",
+      "#362d26",
+      "#b88954"
+    ],
+    "radar": [
+      0.16089795529842377,
+      0.797832190990448,
+      0.036775510758161545,
+      0.0029523810371756554,
+      0.0,
+      0.00005442176916403696,
+      0.0014875283231958747
+    ],
+    "technique": "Oil on oak, 44,6 x 39,5 cm",
+    "time_elapsed": 5,
+    "timeline": "1601-1650",
+    "title": "Interior of a Peasant House",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/isaack/interior.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/isaack/interior.jpg"
+  },
+  {
+    "author": "OSTADE, Isaack van",
+    "date": "1642",
+    "id": 20674,
+    "local_img": "/images/o/20674.jpg",
+    "num_iterations": 27,
+    "painting_type": "interior",
+    "palette": [
+      "#110f0f",
+      "#2b1c19",
+      "#4b2b23",
+      "#754330",
+      "#cb8d5e"
+    ],
+    "radar": [
+      0.5788913369178772,
+      0.13342061638832092,
+      0.0044958218932151794,
+      0.002785515272989869,
+      0.004033426288515329,
+      0.018044568598270416,
+      0.2583286762237549
+    ],
+    "technique": "Oil on oak, 50 x 68 cm",
+    "time_elapsed": 5,
+    "timeline": "1601-1650",
+    "title": "Farmhouse Interior",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/isaack/farminte.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/isaack/farminte.jpg"
+  },
+  {
+    "author": "OSTADE, Isaack van",
+    "date": "1642",
+    "id": 20675,
+    "local_img": "/images/o/20675.jpg",
+    "num_iterations": 15,
+    "painting_type": "interior",
+    "palette": [
+      "#3a2513",
+      "#593612",
+      "#241c12",
+      "#80541b",
+      "#13130a"
+    ],
+    "radar": [
+      0.014972972683608532,
+      0.7810378670692444,
+      0.07414594292640686,
+      0.0620918907225132,
+      0.0069189188070595264,
+      0.00005945946031715721,
+      0.06077297404408455
+    ],
+    "technique": "Oil on oak, 40 x 54 cm",
+    "time_elapsed": 3,
+    "timeline": "1601-1650",
+    "title": "A Barn Interior with a Slaughtered PIg",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/isaack/pig_kill.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/isaack/pig_kill.jpg"
+  },
+  {
+    "author": "OSTADE, Isaack van",
+    "date": "1643",
+    "id": 20676,
+    "local_img": "/images/o/20676.jpg",
+    "num_iterations": 21,
+    "painting_type": "landscape",
+    "palette": [
+      "#1d1913",
+      "#473a1f",
+      "#a3a099",
+      "#7a715c",
+      "#cdcfd3"
+    ],
+    "radar": [
+      0.009928767569363117,
+      0.41248220205307007,
+      0.21162739396095276,
+      0.0060438355430960655,
+      0.05693698674440384,
+      0.001627397257834673,
+      0.30135342478752136
+    ],
+    "technique": "Oil on canvas, 106 x 146 cm",
+    "time_elapsed": 4,
+    "timeline": "1601-1650",
+    "title": "Winter Landscape",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/isaack/winter.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/isaack/winter.jpg"
+  },
+  {
+    "author": "OSTADE, Isaack van",
+    "date": "1645",
+    "id": 20677,
+    "local_img": "/images/o/20677.jpg",
+    "num_iterations": 15,
+    "painting_type": "interior",
+    "palette": [
+      "#391c15",
+      "#1e100c",
+      "#5f2c1c",
+      "#9d5b2e",
+      "#080506"
+    ],
+    "radar": [
+      0.5720106959342957,
+      0.1448686271905899,
+      0.0015388739993795753,
+      0.00003217158155166544,
+      0.000048257374146487564,
+      0.0010616622166708112,
+      0.28043967485427856
+    ],
+    "technique": "Oil on oak, 57 x 75 cm",
+    "time_elapsed": 3,
+    "timeline": "1601-1650",
+    "title": "Barn Interior",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/isaack/barn_int.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/isaack/barn_int.jpg"
+  },
+  {
+    "author": "OSTADE, Isaack van",
+    "date": "1645",
+    "id": 20678,
+    "local_img": "/images/o/20678.jpg",
+    "num_iterations": 17,
+    "painting_type": "genre",
+    "palette": [
+      "#40251f",
+      "#b6988b",
+      "#e4d2c8",
+      "#764b35",
+      "#180d10"
+    ],
+    "radar": [
+      0.43871554732322693,
+      0.38483285903930664,
+      0.00009970674727810547,
+      0.0,
+      0.000046920820750528947,
+      0.046228740364313126,
+      0.13007624447345734
+    ],
+    "technique": "Oil on panel, 75 x 109 cm",
+    "time_elapsed": 3,
+    "timeline": "1601-1650",
+    "title": "Travellers at a Country Inn",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/isaack/traveler.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/isaack/traveler.jpg"
+  },
+  {
+    "author": "OSTADE, Isaack van",
+    "date": "1646-48",
+    "id": 20679,
+    "local_img": "/images/o/20679.jpg",
+    "num_iterations": 10,
+    "painting_type": "landscape",
+    "palette": [
+      "#2b1e11",
+      "#48331b",
+      "#674d2c",
+      "#cdbfa9",
+      "#947c58"
+    ],
+    "radar": [
+      0.004290043376386166,
+      0.7989047765731812,
+      0.19278354942798615,
+      0.0015238095074892044,
+      0.00009956709982361645,
+      0.00008658008300699294,
+      0.002311688382178545
+    ],
+    "technique": "Oil on panel, 37 x 34 cm",
+    "time_elapsed": 3,
+    "timeline": "1601-1650",
+    "title": "Winter Landscape",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/isaack/winterla.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/isaack/winterla.jpg"
+  },
+  {
+    "author": "OSTADE, Isaack van",
+    "date": "1648",
+    "id": 20680,
+    "local_img": "/images/o/20680.jpg",
+    "num_iterations": 36,
+    "painting_type": "landscape",
+    "palette": [
+      "#402314",
+      "#73491f",
+      "#a38147",
+      "#a9a58b",
+      "#c7c6aa"
+    ],
+    "radar": [
+      0.042238228023052216,
+      0.4048033356666565,
+      0.2637617588043213,
+      0.1950526386499405,
+      0.004786703735589981,
+      0.0,
+      0.08935733884572983
+    ],
+    "technique": "Oil on canvas, 59 x 81 cm",
+    "time_elapsed": 7,
+    "timeline": "1601-1650",
+    "title": "Frozen Lake",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/isaack/winter_k.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/isaack/winter_k.jpg"
+  },
+  {
+    "author": "OSTADE, Isaack van",
+    "date": "1649",
+    "id": 20681,
+    "local_img": "/images/o/20681.jpg",
+    "num_iterations": 29,
+    "painting_type": "genre",
+    "palette": [
+      "#684c3b",
+      "#987848",
+      "#d4bb77",
+      "#12222c",
+      "#3b3031"
+    ],
+    "radar": [
+      0.16146765649318695,
+      0.2613432705402374,
+      0.14985571801662445,
+      0.014796019531786442,
+      0.34194526076316833,
+      0.046970147639513016,
+      0.02362189069390297
+    ],
+    "technique": "Oil on panel, 48 x 40 cm",
+    "time_elapsed": 6,
+    "timeline": "1601-1650",
+    "title": "Traveller at a Cottage Door",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/isaack/travelle.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/isaack/travelle.jpg"
+  },
+  {
+    "author": "OSTADE, Isaack van",
+    "date": "c. 1643",
+    "id": 20682,
+    "local_img": "/images/o/20682.jpg",
+    "num_iterations": 18,
+    "painting_type": "landscape",
+    "palette": [
+      "#3b2b23",
+      "#695544",
+      "#9e886e",
+      "#c9bea1",
+      "#e4dbbd"
+    ],
+    "radar": [
+      0.033207446336746216,
+      0.4441489279270172,
+      0.5225479006767273,
+      0.000021276595361996442,
+      0.0,
+      0.00005851063906447962,
+      0.00001595744652149733
+    ],
+    "technique": "Oil on wood",
+    "time_elapsed": 4,
+    "timeline": "1601-1650",
+    "title": "Winter Landscape (detail)",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/isaack/winter_m.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/isaack/winter_m.jpg"
+  },
+  {
+    "author": "OSTADE, Isaack van",
+    "date": "c. 1645",
+    "id": 20683,
+    "local_img": "/images/o/20683.jpg",
+    "num_iterations": 24,
+    "painting_type": "landscape",
+    "palette": [
+      "#33241d",
+      "#644635",
+      "#957b5a",
+      "#bdbaa3",
+      "#dde2ce"
+    ],
+    "radar": [
+      0.07186397910118103,
+      0.2792644798755646,
+      0.2152443379163742,
+      0.23665490746498108,
+      0.00018639798508957028,
+      0.0014609572244808078,
+      0.19532494246959686
+    ],
+    "technique": "Oil on wood, 48,8 x 40 cm",
+    "time_elapsed": 5,
+    "timeline": "1601-1650",
+    "title": "A Winter Scene",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/isaack/winter_s.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/isaack/winter_s.jpg"
+  },
+  {
+    "author": "OSTADE, Isaack van",
+    "date": "c. 1648",
+    "id": 20684,
+    "local_img": "/images/o/20684.jpg",
+    "num_iterations": 40,
+    "painting_type": "landscape",
+    "palette": [
+      "#422c1d",
+      "#654928",
+      "#8c7546",
+      "#bab290",
+      "#d7cda4"
+    ],
+    "radar": [
+      0.017807073891162872,
+      0.36262378096580505,
+      0.5466945171356201,
+      0.05232154205441475,
+      0.0,
+      0.00011575562530197203,
+      0.020437298342585564
+    ],
+    "technique": "Oil on wood, 72 x 114 cm",
+    "time_elapsed": 7,
+    "timeline": "1601-1650",
+    "title": "Winter Landscape",
+    "url_wga_info": "https://www.wga.hu/html/o/ostade/isaack/winter_l.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostade/isaack/winter_l.jpg"
+  },
+  {
+    "author": "OSTENDORFER, Michael",
+    "date": "-",
+    "id": 20685,
+    "local_img": "/images/o/20685.jpg",
+    "num_iterations": 14,
+    "painting_type": "portrait",
+    "palette": [
+      "#5d2c28",
+      "#2a211f",
+      "#a57c64",
+      "#0b070d",
+      "#281315"
+    ],
+    "radar": [
+      0.45836082100868225,
+      0.18582473695278168,
+      0.002061855746433139,
+      0.00019072165014222264,
+      0.0022680412512272596,
+      0.056798968464136124,
+      0.2944948375225067
+    ],
+    "technique": "Oil on panel, 41 x 31 cm",
+    "time_elapsed": 3,
+    "timeline": "1501-1550",
+    "title": "Self-Portrait",
+    "url_wga_info": "https://www.wga.hu/html/o/ostendor/selfport.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ostendor/selfport.jpg"
+  },
+  {
+    "author": "OUDRY, Jacques-Charles",
+    "date": "-",
+    "id": 20686,
+    "local_img": "/images/o/20686.jpg",
+    "num_iterations": 15,
+    "painting_type": "other",
+    "palette": [
+      "#634f28",
+      "#aca584",
+      "#27251b",
+      "#3d3820",
+      "#7d7b5e"
+    ],
+    "radar": [
+      0.000349397596437484,
+      0.3395301103591919,
+      0.3534277081489563,
+      0.27381324768066406,
+      0.012222891673445702,
+      0.00010843373456737027,
+      0.020548192784190178
+    ],
+    "technique": "Oil on canvas, 132 x 196 cm",
+    "time_elapsed": 3,
+    "timeline": "1751-1800",
+    "title": "Dogs in a Landscape with their Catch",
+    "url_wga_info": "https://www.wga.hu/html/o/oudry/son/dogslend.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oudry/son/dogslend.jpg"
+  },
+  {
+    "author": "OUDRY, Jacques-Charles",
+    "date": "-",
+    "id": 20687,
+    "local_img": "/images/o/20687.jpg",
+    "num_iterations": 22,
+    "painting_type": "still-life",
+    "palette": [
+      "#120b08",
+      "#302010",
+      "#543e21",
+      "#7f6b49",
+      "#b9ad91"
+    ],
+    "radar": [
+      0.0524371862411499,
+      0.5860904455184937,
+      0.13001005351543427,
+      0.005547738634049892,
+      0.00006532663246616721,
+      0.00040703517151996493,
+      0.22544221580028534
+    ],
+    "technique": "Oil on canvas, 119 x 146 cm",
+    "time_elapsed": 5,
+    "timeline": "1751-1800",
+    "title": "Still-Life",
+    "url_wga_info": "https://www.wga.hu/html/o/oudry/son/stillife.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oudry/son/stillife.jpg"
+  },
+  {
+    "author": "OUDRY, Jacques-Charles",
+    "date": "1737-47",
+    "id": 20688,
+    "local_img": "/images/o/20688.jpg",
+    "num_iterations": 10,
+    "painting_type": "other",
+    "palette": [
+      "#6b7255",
+      "#48503f",
+      "#313a30",
+      "#9faca3",
+      "#1d2622"
+    ],
+    "radar": [
+      0.002266666619107127,
+      0.04389090836048126,
+      0.14482423663139343,
+      0.5886242389678955,
+      0.14366666972637177,
+      0.00013939394557382911,
+      0.07658787816762924
+    ],
+    "technique": "Oil on canvas, 195 x 129 cm",
+    "time_elapsed": 2,
+    "timeline": "1751-1800",
+    "title": "Hawk Attacking Wild Duck",
+    "url_wga_info": "https://www.wga.hu/html/o/oudry/son/hawkduck.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oudry/son/hawkduck.jpg"
+  },
+  {
+    "author": "OUDRY, Jacques-Charles",
+    "date": "1753",
+    "id": 20689,
+    "local_img": "/images/o/20689.jpg",
+    "num_iterations": 23,
+    "painting_type": "other",
+    "palette": [
+      "#4a543b",
+      "#626f51",
+      "#7f9684",
+      "#9fb9a9",
+      "#1e2622"
+    ],
+    "radar": [
+      0.000497695873491466,
+      0.022741936147212982,
+      0.11869585514068604,
+      0.6661889553070068,
+      0.17659908533096313,
+      0.0011105990270152688,
+      0.014165898784995079
+    ],
+    "technique": "Oil on canvas, 94 x 108 cm",
+    "time_elapsed": 5,
+    "timeline": "1751-1800",
+    "title": "Two Dogs Fighting over a Bone",
+    "url_wga_info": "https://www.wga.hu/html/o/oudry/son/dogsbone.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oudry/son/dogsbone.jpg"
+  },
+  {
+    "author": "OUDRY, Jean-Baptiste",
+    "date": "1712-13",
+    "id": 20690,
+    "local_img": "/images/o/20690.jpg",
+    "num_iterations": 14,
+    "painting_type": "still-life",
+    "palette": [
+      "#81796f",
+      "#53483a",
+      "#6d6456",
+      "#363229",
+      "#9a9995"
+    ],
+    "radar": [
+      0.01033152174204588,
+      0.2563478350639343,
+      0.06617391109466553,
+      0.023081522434949875,
+      0.0006467391503974795,
+      0.00013586955901701003,
+      0.6432825922966003
+    ],
+    "technique": "Oil on canvas, 33 x 25 cm",
+    "time_elapsed": 3,
+    "timeline": "1701-1750",
+    "title": "Still-Life",
+    "url_wga_info": "https://www.wga.hu/html/o/oudry/father/still_li.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oudry/father/still_li.jpg"
+  },
+  {
+    "author": "OUDRY, Jean-Baptiste",
+    "date": "1716",
+    "id": 20691,
+    "local_img": "/images/o/20691.jpg",
+    "num_iterations": 9,
+    "painting_type": "landscape",
+    "palette": [
+      "#322a1d",
+      "#68532f",
+      "#464733",
+      "#62725e",
+      "#739991"
+    ],
+    "radar": [
+      0.007572254166007042,
+      0.4254797697067261,
+      0.18327167630195618,
+      0.20375722646713257,
+      0.1646069437265396,
+      0.00043930637184530497,
+      0.014872832223773003
+    ],
+    "technique": "Oil on canvas, 136 x 195 cm",
+    "time_elapsed": 2,
+    "timeline": "1701-1750",
+    "title": "Two Hunting Dogs with Hares and Game Birds",
+    "url_wga_info": "https://www.wga.hu/html/o/oudry/father/two_dogs.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oudry/father/two_dogs.jpg"
+  },
+  {
+    "author": "OUDRY, Jean-Baptiste",
+    "date": "1718",
+    "id": 20692,
+    "local_img": "/images/o/20692.jpg",
+    "num_iterations": 16,
+    "painting_type": "still-life",
+    "palette": [
+      "#171210",
+      "#32281e",
+      "#b5a089",
+      "#584832",
+      "#726a55"
+    ],
+    "radar": [
+      0.10011279582977295,
+      0.4691062867641449,
+      0.0760173499584198,
+      0.137101948261261,
+      0.10583947598934174,
+      0.007245119195431471,
+      0.10457700490951538
+    ],
+    "technique": "Oil on canvas, 81 x 87 cm",
+    "time_elapsed": 4,
+    "timeline": "1701-1750",
+    "title": "Still-Life with a Partridge, a Hare and Hollyhock",
+    "url_wga_info": "https://www.wga.hu/html/o/oudry/father/stil_lif.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oudry/father/stil_lif.jpg"
+  },
+  {
+    "author": "OUDRY, Jean-Baptiste",
+    "date": "1721",
+    "id": 20693,
+    "local_img": "/images/o/20693.jpg",
+    "num_iterations": 29,
+    "painting_type": "still-life",
+    "palette": [
+      "#191919",
+      "#423128",
+      "#6f543f",
+      "#988166",
+      "#c3baa6"
+    ],
+    "radar": [
+      0.13927671313285828,
+      0.5170958638191223,
+      0.11050411313772202,
+      0.03750684857368469,
+      0.09284931421279907,
+      0.014460274018347263,
+      0.08830685168504715
+    ],
+    "technique": "Oil on canvas, 193 x 260 cm",
+    "time_elapsed": 6,
+    "timeline": "1701-1750",
+    "title": "Dead Roe",
+    "url_wga_info": "https://www.wga.hu/html/o/oudry/father/dead_roe.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oudry/father/dead_roe.jpg"
+  },
+  {
+    "author": "OUDRY, Jean-Baptiste",
+    "date": "1721",
+    "id": 20694,
+    "local_img": "/images/o/20694.jpg",
+    "num_iterations": 25,
+    "painting_type": "still-life",
+    "palette": [
+      "#473429",
+      "#71523e",
+      "#d1bfac",
+      "#9f8061",
+      "#1c1b18"
+    ],
+    "radar": [
+      0.1073516458272934,
+      0.6297912001609802,
+      0.08331868052482605,
+      0.058648351579904556,
+      0.017939560115337372,
+      0.007461538538336754,
+      0.0954890102148056
+    ],
+    "technique": "Oil on canvas, 193 x 260 cm",
+    "time_elapsed": 5,
+    "timeline": "1701-1750",
+    "title": "Dead Wolf",
+    "url_wga_info": "https://www.wga.hu/html/o/oudry/father/deadwolf.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oudry/father/deadwolf.jpg"
+  },
+  {
+    "author": "OUDRY, Jean-Baptiste",
+    "date": "1721",
+    "id": 20695,
+    "local_img": "/images/o/20695.jpg",
+    "num_iterations": 14,
+    "painting_type": "still-life",
+    "palette": [
+      "#2c1d14",
+      "#603c21",
+      "#8d6a3d",
+      "#c69955",
+      "#444436"
+    ],
+    "radar": [
+      0.10262468457221985,
+      0.7099143862724304,
+      0.09584886580705643,
+      0.09078589081764221,
+      0.00013098237104713917,
+      0.00010075566387968138,
+      0.000594458426348865
+    ],
+    "technique": "Oil on canvas, 74 x 92 cm",
+    "time_elapsed": 3,
+    "timeline": "1701-1750",
+    "title": "Still-Life with Fruit",
+    "url_wga_info": "https://www.wga.hu/html/o/oudry/father/stillife.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oudry/father/stillife.jpg"
+  },
+  {
+    "author": "OUDRY, Jean-Baptiste",
+    "date": "1722",
+    "id": 20696,
+    "local_img": "/images/o/20696.jpg",
+    "num_iterations": 28,
+    "painting_type": "mythological",
+    "palette": [
+      "#170f0f",
+      "#402824",
+      "#774c42",
+      "#d7c9c4",
+      "#b28473"
+    ],
+    "radar": [
+      0.4374796450138092,
+      0.21733936667442322,
+      0.01023529376834631,
+      0.004108597058802843,
+      0.034248869866132736,
+      0.05996380001306534,
+      0.23662443459033966
+    ],
+    "technique": "Oil on canvas",
+    "time_elapsed": 7,
+    "timeline": "1701-1750",
+    "title": "Allegory of Europe",
+    "url_wga_info": "https://www.wga.hu/html/o/oudry/father/allegory.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oudry/father/allegory.jpg"
+  },
+  {
+    "author": "OUDRY, Jean-Baptiste",
+    "date": "1722",
+    "id": 20697,
+    "local_img": "/images/o/20697.jpg",
+    "num_iterations": 25,
+    "painting_type": "portrait",
+    "palette": [
+      "#ccbdba",
+      "#2e2a29",
+      "#80706b",
+      "#4c433e",
+      "#161215"
+    ],
+    "radar": [
+      0.30708950757980347,
+      0.14971356093883514,
+      0.053135551512241364,
+      0.018516624346375465,
+      0.07085933536291122,
+      0.1274322271347046,
+      0.2732532024383545
+    ],
+    "technique": "Oil on canvas, 147 x 114 cm",
+    "time_elapsed": 5,
+    "timeline": "1701-1750",
+    "title": "Henri Camille, Chevalier de Beringhen",
+    "url_wga_info": "https://www.wga.hu/html/o/oudry/father/beringhe.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oudry/father/beringhe.jpg"
+  },
+  {
+    "author": "OUDRY, Jean-Baptiste",
+    "date": "1722",
+    "id": 20698,
+    "local_img": "/images/o/20698.jpg",
+    "num_iterations": 29,
+    "painting_type": "portrait",
+    "palette": [
+      "#332b29",
+      "#dbbcad",
+      "#8c7569",
+      "#56473f",
+      "#171516"
+    ],
+    "radar": [
+      0.3842499852180481,
+      0.3379676043987274,
+      0.022907407954335213,
+      0.008495369926095009,
+      0.013675926253199577,
+      0.0552314817905426,
+      0.17747221887111664
+    ],
+    "technique": "Oil on canvas",
+    "time_elapsed": 7,
+    "timeline": "1701-1750",
+    "title": "Henri Camille, Chevalier de Beringhen (detail)",
+    "url_wga_info": "https://www.wga.hu/html/o/oudry/father/beringhx.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oudry/father/beringhx.jpg"
+  },
+  {
+    "author": "OUDRY, Jean-Baptiste",
+    "date": "1725",
+    "id": 20699,
+    "local_img": "/images/o/20699.jpg",
+    "num_iterations": 34,
+    "painting_type": "landscape",
+    "palette": [
+      "#1b1714",
+      "#32281a",
+      "#726241",
+      "#b4a480",
+      "#4b432e"
+    ],
+    "radar": [
+      0.04649009928107262,
+      0.48349010944366455,
+      0.2526386082172394,
+      0.14032673835754395,
+      0.02673267386853695,
+      0.009178217500448227,
+      0.04114356264472008
+    ],
+    "technique": "Oil on canvas, 80 x 65 cm",
+    "time_elapsed": 7,
+    "timeline": "1701-1750",
+    "title": "Landscape with a Brace of Partridges and a Hare",
+    "url_wga_info": "https://www.wga.hu/html/o/oudry/father/parthare.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oudry/father/parthare.jpg"
+  },
+  {
+    "author": "OUDRY, Jean-Baptiste",
+    "date": "1725",
+    "id": 20700,
+    "local_img": "/images/o/20700.jpg",
+    "num_iterations": 18,
+    "painting_type": "landscape",
+    "palette": [
+      "#201614",
+      "#34241d",
+      "#4e3d2c",
+      "#806843",
+      "#bda06d"
+    ],
+    "radar": [
+      0.3581666648387909,
+      0.5585504770278931,
+      0.06473232060670853,
+      0.0038535352796316147,
+      0.000015151515071920585,
+      0.012853534892201424,
+      0.0018282828386873007
+    ],
+    "technique": "Oil on canvas, 129 x 162 cm",
+    "time_elapsed": 4,
+    "timeline": "1701-1750",
+    "title": "Dog Pointing a Partridge",
+    "url_wga_info": "https://www.wga.hu/html/o/oudry/father/partridg.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oudry/father/partridg.jpg"
+  },
+  {
+    "author": "OUDRY, Jean-Baptiste",
+    "date": "1729",
+    "id": 20701,
+    "local_img": "/images/o/20701.jpg",
+    "num_iterations": 9,
+    "painting_type": "other",
+    "palette": [
+      "#362b24",
+      "#828180",
+      "#5b4e3f",
+      "#d8ccb3",
+      "#161215"
+    ],
+    "radar": [
+      0.16135376691818237,
+      0.4067409336566925,
+      0.0749192163348198,
+      0.035236768424510956,
+      0.11513091623783112,
+      0.05630640685558319,
+      0.15031197667121887
+    ],
+    "technique": "Oil on canvas, 98 x 132 cm",
+    "time_elapsed": 2,
+    "timeline": "1701-1750",
+    "title": "Misse and Luttine",
+    "url_wga_info": "https://www.wga.hu/html/o/oudry/father/misselut.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oudry/father/misselut.jpg"
+  },
+  {
+    "author": "OUDRY, Jean-Baptiste",
+    "date": "1730s",
+    "id": 20702,
+    "local_img": "/images/o/20702.jpg",
+    "num_iterations": 13,
+    "painting_type": "other",
+    "palette": [
+      "#38311d",
+      "#7a693b",
+      "#584c2a",
+      "#9e9060",
+      "#cac7a7"
+    ],
+    "radar": [
+      0.012500000186264515,
+      0.3231250047683716,
+      0.43560415506362915,
+      0.20408333837985992,
+      0.013744791969656944,
+      0.000010416666555101983,
+      0.010932291857898235
+    ],
+    "technique": "Oil on canvas, 183 x 142 cm",
+    "time_elapsed": 3,
+    "timeline": "1701-1750",
+    "title": "Three Dogs and a Macaw in a Park",
+    "url_wga_info": "https://www.wga.hu/html/o/oudry/father/threedog.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oudry/father/threedog.jpg"
+  },
+  {
+    "author": "OUDRY, Jean-Baptiste",
+    "date": "1731",
+    "id": 20703,
+    "local_img": "/images/o/20703.jpg",
+    "num_iterations": 17,
+    "painting_type": "genre",
+    "palette": [
+      "#c2b7b4",
+      "#332317",
+      "#8b8173",
+      "#675a3d",
+      "#4a3e23"
+    ],
+    "radar": [
+      0.062443241477012634,
+      0.4723675549030304,
+      0.29365405440330505,
+      0.07092432677745819,
+      0.08620540797710419,
+      0.0018972973339259624,
+      0.012508108280599117
+    ],
+    "technique": "Oil on panel, 59 x 47 cm",
+    "time_elapsed": 3,
+    "timeline": "1701-1750",
+    "title": "Boar Hunt",
+    "url_wga_info": "https://www.wga.hu/html/o/oudry/father/huntboar.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oudry/father/huntboar.jpg"
+  },
+  {
+    "author": "OUDRY, Jean-Baptiste",
+    "date": "1731",
+    "id": 20704,
+    "local_img": "/images/o/20704.jpg",
+    "num_iterations": 13,
+    "painting_type": "genre",
+    "palette": [
+      "#2f251d",
+      "#4d4635",
+      "#746a4d",
+      "#9f9674",
+      "#b7c2d0"
+    ],
+    "radar": [
+      0.06472122669219971,
+      0.3304091989994049,
+      0.1824347823858261,
+      0.18186700344085693,
+      0.18929411470890045,
+      0.0045370846055448055,
+      0.046736571937799454
+    ],
+    "technique": "Oil on panel, 59 x 47 cm",
+    "time_elapsed": 3,
+    "timeline": "1701-1750",
+    "title": "Stag Hunt",
+    "url_wga_info": "https://www.wga.hu/html/o/oudry/father/huntstag.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oudry/father/huntstag.jpg"
+  },
+  {
+    "author": "OUDRY, Jean-Baptiste",
+    "date": "1740",
+    "id": 20705,
+    "local_img": "/images/o/20705.jpg",
+    "num_iterations": 9,
+    "painting_type": "still-life",
+    "palette": [
+      "#47362e",
+      "#9b8577",
+      "#d8c8ba",
+      "#74604b",
+      "#100a10"
+    ],
+    "radar": [
+      0.17315150797367096,
+      0.5359242558479309,
+      0.05492929369211197,
+      0.014808081090450287,
+      0.0007373737171292305,
+      0.04839899018406868,
+      0.17205050587654114
+    ],
+    "technique": "Oil on canvas",
+    "time_elapsed": 2,
+    "timeline": "1701-1750",
+    "title": "Hound with Gun and Dead Game",
+    "url_wga_info": "https://www.wga.hu/html/o/oudry/father/houndgun.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oudry/father/houndgun.jpg"
+  },
+  {
+    "author": "OUDRY, Jean-Baptiste",
+    "date": "1750",
+    "id": 20706,
+    "local_img": "/images/o/20706.jpg",
+    "num_iterations": 15,
+    "painting_type": "landscape",
+    "palette": [
+      "#281515",
+      "#4b2825",
+      "#774f41",
+      "#a68770",
+      "#d2c5b3"
+    ],
+    "radar": [
+      0.614331066608429,
+      0.280729740858078,
+      0.05362837761640549,
+      6.756756647519069e-6,
+      0.0,
+      0.01122297253459692,
+      0.04008108004927635
+    ],
+    "technique": "Oil on canvas, 130 x 212 cm",
+    "time_elapsed": 2,
+    "timeline": "1701-1750",
+    "title": "Farmhouse",
+    "url_wga_info": "https://www.wga.hu/html/o/oudry/father/farm.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oudry/father/farm.jpg"
+  },
+  {
+    "author": "OUDRY, Jean-Baptiste",
+    "date": "1763",
+    "id": 20707,
+    "local_img": "/images/o/20707.jpg",
+    "num_iterations": 11,
+    "painting_type": "still-life",
+    "palette": [
+      "#4c3737",
+      "#7d665a",
+      "#c1976d",
+      "#e0c08f",
+      "#21181a"
+    ],
+    "radar": [
+      0.1675407886505127,
+      0.6899093389511108,
+      0.00797583069652319,
+      0.00016918429173529148,
+      0.059498488903045654,
+      0.03685196489095688,
+      0.03805438056588173
+    ],
+    "technique": "Oil on canvas, 97 x 64 cm",
+    "time_elapsed": 2,
+    "timeline": "1701-1750",
+    "title": "Still-life with Pheasant",
+    "url_wga_info": "https://www.wga.hu/html/o/oudry/father/pheasant.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oudry/father/pheasant.jpg"
+  },
+  {
+    "author": "OUDRY, Jean-Baptiste",
+    "date": "c. 1725",
+    "id": 20708,
+    "local_img": "/images/o/20708.jpg",
+    "num_iterations": 14,
+    "painting_type": "still-life",
+    "palette": [
+      "#8c531b",
+      "#99815d",
+      "#513a17",
+      "#262011",
+      "#c7c0a6"
+    ],
+    "radar": [
+      0.01773056946694851,
+      0.5149326324462891,
+      0.4079274535179138,
+      0.02200518175959587,
+      0.014854921959340572,
+      0.0006113989511504769,
+      0.021937822923064232
+    ],
+    "technique": "Oil on canvas, 63 x 77 cm",
+    "time_elapsed": 3,
+    "timeline": "1701-1750",
+    "title": "Still-Life",
+    "url_wga_info": "https://www.wga.hu/html/o/oudry/father/stillifx.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/oudry/father/stillifx.jpg"
+  },
+  {
+    "author": "OUTIN, Pierre",
+    "date": "-",
+    "id": 20709,
+    "local_img": "/images/o/20709.jpg",
+    "num_iterations": 19,
+    "painting_type": "other",
+    "palette": [
+      "#e9dfd2",
+      "#bba482",
+      "#897556",
+      "#595136",
+      "#322f22"
+    ],
+    "radar": [
+      0.016802260652184486,
+      0.5571581721305847,
+      0.26888135075569153,
+      0.09567231684923172,
+      0.008683615364134312,
+      0.0013389830710366368,
+      0.05146327614784241
+    ],
+    "technique": "Oil on canvas, 67 x 90 cm",
+    "time_elapsed": 4,
+    "timeline": "1851-1900",
+    "title": "Bathing Ladies (Le Bain des Dames)",
+    "url_wga_info": "https://www.wga.hu/html/o/outin/bathing.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/outin/bathing.jpg"
+  },
+  {
+    "author": "OUTIN, Pierre",
+    "date": "-",
+    "id": 20710,
+    "local_img": "/images/o/20710.jpg",
+    "num_iterations": 14,
+    "painting_type": "genre",
+    "palette": [
+      "#342215",
+      "#553921",
+      "#a98866",
+      "#d5bca0",
+      "#765f3c"
+    ],
+    "radar": [
+      0.1734323650598526,
+      0.5425039529800415,
+      0.1751830279827118,
+      0.09980902075767517,
+      0.004769230727106333,
+      0.00014323607319965959,
+      0.0041591511107981205
+    ],
+    "technique": "Oil on canvas, 67 x 91 cm",
+    "time_elapsed": 3,
+    "timeline": "1851-1900",
+    "title": "The Flower Seller",
+    "url_wga_info": "https://www.wga.hu/html/o/outin/flowerse.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/outin/flowerse.jpg"
+  },
+  {
+    "author": "OUTIN, Pierre",
+    "date": "-",
+    "id": 20711,
+    "local_img": "/images/o/20711.jpg",
+    "num_iterations": 15,
+    "painting_type": "other",
+    "palette": [
+      "#271c19",
+      "#7a634b",
+      "#4c3d2e",
+      "#dfcaaa",
+      "#9f8e75"
+    ],
+    "radar": [
+      0.1400698870420456,
+      0.6403279304504395,
+      0.1286451667547226,
+      0.07932258397340775,
+      0.0006075268611311913,
+      0.006010752636939287,
+      0.005016128998249769
+    ],
+    "technique": "Oil on canvas, 61 x 81 cm",
+    "time_elapsed": 3,
+    "timeline": "1851-1900",
+    "title": "My Valentine",
+    "url_wga_info": "https://www.wga.hu/html/o/outin/valentin.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/outin/valentin.jpg"
+  },
+  {
+    "author": "OUWATER, Albert van",
+    "date": "c. 1455",
+    "id": 20712,
+    "local_img": "/images/o/20712.jpg",
+    "num_iterations": 38,
+    "painting_type": "religious",
+    "palette": [
+      "#321b19",
+      "#593127",
+      "#8d5d41",
+      "#bf996e",
+      "#0f080d"
+    ],
+    "radar": [
+      0.47054025530815125,
+      0.2774233818054199,
+      0.0029818182811141014,
+      0.00003636363544501364,
+      0.00020779221085831523,
+      0.0402701310813427,
+      0.20854026079177856
+    ],
+    "technique": "Oil on wood, 122 x 92 cm",
+    "time_elapsed": 8,
+    "timeline": "1451-1500",
+    "title": "The Raising of Lazarus",
+    "url_wga_info": "https://www.wga.hu/html/o/ouwater/albert/lazarus.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ouwater/albert/lazarus.jpg"
+  },
+  {
+    "author": "OUWATER, Isaak",
+    "date": "1770s",
+    "id": 20713,
+    "local_img": "/images/o/20713.jpg",
+    "num_iterations": 9,
+    "painting_type": "landscape",
+    "palette": [
+      "#1b1a1a",
+      "#5a4f48",
+      "#8b786b",
+      "#38332f",
+      "#c6cac5"
+    ],
+    "radar": [
+      0.05978973209857941,
+      0.1540440171957016,
+      0.043315403163433075,
+      0.01390709076076746,
+      0.051007334142923355,
+      0.013872860930860043,
+      0.664063572883606
+    ],
+    "technique": "Oil on canvas, 38 x 47 cm",
+    "time_elapsed": 2,
+    "timeline": "1751-1800",
+    "title": "View of the Singel with the Munttoren in Amsterdam",
+    "url_wga_info": "https://www.wga.hu/html/o/ouwater/isaak/singel.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ouwater/isaak/singel.jpg"
+  },
+  {
+    "author": "OUWATER, Isaak",
+    "date": "1779",
+    "id": 20714,
+    "local_img": "/images/o/20714.jpg",
+    "num_iterations": 25,
+    "painting_type": "other",
+    "palette": [
+      "#66493a",
+      "#31241d",
+      "#4c362a",
+      "#8b7158",
+      "#c4a77b"
+    ],
+    "radar": [
+      0.2516162395477295,
+      0.7290428876876831,
+      0.017327314242720604,
+      0.00022121895744930953,
+      0.0000677200878271833,
+      0.0014853272587060928,
+      0.00023927765141706914
+    ],
+    "technique": "Oil on canvas",
+    "time_elapsed": 6,
+    "timeline": "1751-1800",
+    "title": "The Lottery Office",
+    "url_wga_info": "https://www.wga.hu/html/o/ouwater/isaak/lottery.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ouwater/isaak/lottery.jpg"
+  },
+  {
+    "author": "OUWATER, Isaak",
+    "date": "1779",
+    "id": 20715,
+    "local_img": "/images/o/20715.jpg",
+    "num_iterations": 50,
+    "painting_type": "other",
+    "palette": [
+      "#2a1f1c",
+      "#4d352c",
+      "#715744",
+      "#a08562",
+      "#cbb184"
+    ],
+    "radar": [
+      0.3674061596393585,
+      0.5674285888671875,
+      0.05815686285495758,
+      0.00020728290837723762,
+      0.0000672268943162635,
+      0.005994397681206465,
+      0.0007394957938231528
+    ],
+    "technique": "Oil on canvas",
+    "time_elapsed": 9,
+    "timeline": "1751-1800",
+    "title": "The Lottery Office (detail)",
+    "url_wga_info": "https://www.wga.hu/html/o/ouwater/isaak/lottery_.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ouwater/isaak/lottery_.jpg"
+  },
+  {
+    "author": "OUWATER, Isaak",
+    "date": "1779",
+    "id": 20716,
+    "local_img": "/images/o/20716.jpg",
+    "num_iterations": 28,
+    "painting_type": "landscape",
+    "palette": [
+      "#22201a",
+      "#474636",
+      "#70715d",
+      "#cfd1ce",
+      "#a1b1bd"
+    ],
+    "radar": [
+      0.014515068382024765,
+      0.12151233106851578,
+      0.08396164327859879,
+      0.08241643756628036,
+      0.2773972749710083,
+      0.0006410959176719189,
+      0.4195561707019806
+    ],
+    "technique": "Oil on canvas, 57 x 78 cm",
+    "time_elapsed": 5,
+    "timeline": "1751-1800",
+    "title": "Ouderkerk, near Amsterdam",
+    "url_wga_info": "https://www.wga.hu/html/o/ouwater/isaak/ouderker.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ouwater/isaak/ouderker.jpg"
+  },
+  {
+    "author": "OVENS, Jürgen",
+    "date": "1658",
+    "id": 20717,
+    "local_img": "/images/o/20717.jpg",
+    "num_iterations": 7,
+    "painting_type": "portrait",
+    "palette": [
+      "#312828",
+      "#814634",
+      "#4e3930",
+      "#aa9675",
+      "#1d1b20"
+    ],
+    "radar": [
+      0.36902743577957153,
+      0.32066333293914795,
+      0.024099750444293022,
+      0.0006234414177015424,
+      0.08470822870731354,
+      0.14076808094978333,
+      0.06010972708463669
+    ],
+    "technique": "Oil on canvas, 163 x 128 cm",
+    "time_elapsed": 2,
+    "timeline": "1651-1700",
+    "title": "Portrait of Cornelis Nuyts",
+    "url_wga_info": "https://www.wga.hu/html/o/ovens/portrait.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ovens/portrait.jpg"
+  },
+  {
+    "author": "OVENS, Jürgen",
+    "date": "1670-75",
+    "id": 20718,
+    "local_img": "/images/o/20718.jpg",
+    "num_iterations": 22,
+    "painting_type": "portrait",
+    "palette": [
+      "#321a13",
+      "#502b16",
+      "#865019",
+      "#100a0d",
+      "#1e1011"
+    ],
+    "radar": [
+      0.44874346256256104,
+      0.23394764959812164,
+      0.0012408377369865775,
+      0.0,
+      0.0,
+      0.134041890501976,
+      0.18202617764472961
+    ],
+    "technique": "Oil on canvas, 125 x 95 cm",
+    "time_elapsed": 4,
+    "timeline": "1651-1700",
+    "title": "Self-Portrait",
+    "url_wga_info": "https://www.wga.hu/html/o/ovens/selfport.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ovens/selfport.jpg"
+  },
+  {
+    "author": "OVENS, Jürgen",
+    "date": "c. 1660",
+    "id": 20719,
+    "local_img": "/images/o/20719.jpg",
+    "num_iterations": 13,
+    "painting_type": "portrait",
+    "palette": [
+      "#1b1b1b",
+      "#736964",
+      "#b6a999",
+      "#423b32",
+      "#2b486d"
+    ],
+    "radar": [
+      0.08792874962091446,
+      0.368712455034256,
+      0.09718066453933716,
+      0.06387786567211151,
+      0.2270534336566925,
+      0.005552162881940603,
+      0.14969465136528015
+    ],
+    "technique": "Oil on canvas, 85 x 66 cm",
+    "time_elapsed": 3,
+    "timeline": "1651-1700",
+    "title": "Portrait of a Young Woman as Flora",
+    "url_wga_info": "https://www.wga.hu/html/o/ovens/flora.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/ovens/flora.jpg"
+  },
+  {
+    "author": "OVERBECK, Friedrich",
+    "date": "1815-28",
+    "id": 20720,
+    "local_img": "/images/o/20720.jpg",
+    "num_iterations": 44,
+    "painting_type": "other",
+    "palette": [
+      "#131212",
+      "#533b25",
+      "#a07947",
+      "#dad9d3",
+      "#8d99b1"
+    ],
+    "radar": [
+      0.1022876426577568,
+      0.2807191014289856,
+      0.09012135118246078,
+      0.04352809116244316,
+      0.17126742005348206,
+      0.020638201385736465,
+      0.29143819212913513
+    ],
+    "technique": "Oil on canvas, 94 x 104 cm",
+    "time_elapsed": 10,
+    "timeline": "1801-1850",
+    "title": "Italia and Germania",
+    "url_wga_info": "https://www.wga.hu/html/o/overbeck/italia1.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/overbeck/italia1.jpg"
+  },
+  {
+    "author": "OVERBECK, Friedrich",
+    "date": "1823-25",
+    "id": 20721,
+    "local_img": "/images/o/20721.jpg",
+    "num_iterations": 10,
+    "painting_type": "historical",
+    "palette": [
+      "#4d3f3e",
+      "#7b6764",
+      "#616896",
+      "#bfb6be",
+      "#272124"
+    ],
+    "radar": [
+      0.4585196077823639,
+      0.1787254959344864,
+      0.007063725497573614,
+      0.005740195978432894,
+      0.14518137276172638,
+      0.1268431395292282,
+      0.07792647182941437
+    ],
+    "technique": "Fresco",
+    "time_elapsed": 2,
+    "timeline": "1801-1850",
+    "title": "The Siege of Jerusalem",
+    "url_wga_info": "https://www.wga.hu/html/o/overbeck/jerusale.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/overbeck/jerusale.jpg"
+  },
+  {
+    "author": "OVERBECK, Friedrich",
+    "date": "after 1828",
+    "id": 20722,
+    "local_img": "/images/o/20722.jpg",
+    "num_iterations": 14,
+    "painting_type": "other",
+    "palette": [
+      "#764b36",
+      "#ad815f",
+      "#d8d5d0",
+      "#a3b0cf",
+      "#242225"
+    ],
+    "radar": [
+      0.22225454449653625,
+      0.2849772870540619,
+      0.07862727344036102,
+      0.046786364167928696,
+      0.2437727302312851,
+      0.018590908497571945,
+      0.10499090701341629
+    ],
+    "technique": "Oil on canvas, 95 x 105 cm",
+    "time_elapsed": 3,
+    "timeline": "1801-1850",
+    "title": "Italia and Germania",
+    "url_wga_info": "https://www.wga.hu/html/o/overbeck/italia2.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/overbeck/italia2.jpg"
+  },
+  {
+    "author": "OVERBECK, Friedrich",
+    "date": "c. 1810",
+    "id": 20723,
+    "local_img": "/images/o/20723.jpg",
+    "num_iterations": 15,
+    "painting_type": "portrait",
+    "palette": [
+      "#1b1411",
+      "#87796a",
+      "#5e5347",
+      "#3a342c",
+      "#d8d7dc"
+    ],
+    "radar": [
+      0.1380641758441925,
+      0.35926201939582825,
+      0.13763101398944855,
+      0.037631016224622726,
+      0.04350802302360535,
+      0.051844920963048935,
+      0.2320588231086731
+    ],
+    "technique": "Oil on canvas, 62 x 47 cm",
+    "time_elapsed": 3,
+    "timeline": "1801-1850",
+    "title": "Portrait of the Painter Franz Pforr",
+    "url_wga_info": "https://www.wga.hu/html/o/overbeck/p_pforr.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/overbeck/p_pforr.jpg"
+  },
+  {
+    "author": "OVERBEKE, Adriaen van",
+    "date": "-",
+    "id": 20724,
+    "local_img": "/images/o/20724.jpg",
+    "num_iterations": 22,
+    "painting_type": "religious",
+    "palette": [
+      "#2a221b",
+      "#875d38",
+      "#ae865f",
+      "#d4bb9f",
+      "#4e3e2b"
+    ],
+    "radar": [
+      0.12452233582735062,
+      0.6606666445732117,
+      0.07712715119123459,
+      0.06302405148744583,
+      0.0425429567694664,
+      0.005670103244483471,
+      0.026446735486388206
+    ],
+    "technique": "Oil on panel, 68 x 56 cm (central panel)",
+    "time_elapsed": 3,
+    "timeline": "1501-1550",
+    "title": "Ecce Homo",
+    "url_wga_info": "https://www.wga.hu/html/o/overbeke/triptyc1.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/overbeke/triptyc1.jpg"
+  },
+  {
+    "author": "OVERBEKE, Adriaen van",
+    "date": "1510-15",
+    "id": 20725,
+    "local_img": "/images/o/20725.jpg",
+    "num_iterations": 16,
+    "painting_type": "religious",
+    "palette": [
+      "#271a12",
+      "#5d351a",
+      "#a95e2c",
+      "#b2b599",
+      "#687662"
+    ],
+    "radar": [
+      0.1842285692691803,
+      0.47911688685417175,
+      0.14372986555099487,
+      0.12993766367435455,
+      0.05277402698993683,
+      0.000748051970731467,
+      0.009464935399591923
+    ],
+    "technique": "Oil on panel, 71 x 55 cm",
+    "time_elapsed": 3,
+    "timeline": "1501-1550",
+    "title": "The Adoration of the Magi",
+    "url_wga_info": "https://www.wga.hu/html/o/overbeke/triptyc2.html",
+    "url_wga_jpg": "https://www.wga.hu/art/o/overbeke/triptyc2.jpg"
+  }
+]

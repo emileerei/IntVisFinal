@@ -1,0 +1,1202 @@
+[
+  {
+    "author": "QUADAL, Martin Ferdinand",
+    "date": "1784",
+    "id": 22734,
+    "local_img": "/images/q/22734.jpg",
+    "num_iterations": 18,
+    "painting_type": "portrait",
+    "palette": [
+      "#c09f79",
+      "#785c3c",
+      "#3a3326",
+      "#25221a",
+      "#0f0d10"
+    ],
+    "radar": [
+      0.07411475479602814,
+      0.4375191330909729,
+      0.10173223912715912,
+      0.12412022054195404,
+      0.003983606584370136,
+      0.014032786712050438,
+      0.24449726939201355
+    ],
+    "technique": "Oil on canvas, 101 x 77 cm",
+    "time_elapsed": 4,
+    "timeline": "1751-1800",
+    "title": "Portrait of Count Anton Lamberg-Sprinzenstein",
+    "url_wga_info": "https://www.wga.hu/html/q/quadal/lamberg.html",
+    "url_wga_jpg": "https://www.wga.hu/art/q/quadal/lamberg.jpg"
+  },
+  {
+    "author": "QUADAL, Martin Ferdinand",
+    "date": "1787",
+    "id": 22735,
+    "local_img": "/images/q/22735.jpg",
+    "num_iterations": 27,
+    "painting_type": "genre",
+    "palette": [
+      "#271e1c",
+      "#4d382e",
+      "#856953",
+      "#c3b09f",
+      "#0f0d10"
+    ],
+    "radar": [
+      0.2573712468147278,
+      0.2485089749097824,
+      0.006191616877913475,
+      0.003077844390645623,
+      0.01345509011298418,
+      0.12495209276676178,
+      0.3464431166648865
+    ],
+    "technique": "Oil on canvas, 144 x 207 cm",
+    "time_elapsed": 5,
+    "timeline": "1751-1800",
+    "title": "Life Class in the Vienna Academy",
+    "url_wga_info": "https://www.wga.hu/html/q/quadal/class.html",
+    "url_wga_jpg": "https://www.wga.hu/art/q/quadal/class.jpg"
+  },
+  {
+    "author": "QUADAL, Martin Ferdinand",
+    "date": "1787",
+    "id": 22736,
+    "local_img": "/images/q/22736.jpg",
+    "num_iterations": 24,
+    "painting_type": "genre",
+    "palette": [
+      "#2e2322",
+      "#5b4438",
+      "#c9bdb4",
+      "#957862",
+      "#0d0c10"
+    ],
+    "radar": [
+      0.20792856812477112,
+      0.29456189274787903,
+      0.006500000134110451,
+      0.0006619047489948571,
+      0.03389047458767891,
+      0.06945238262414932,
+      0.3870047628879547
+    ],
+    "technique": "Oil on canvas",
+    "time_elapsed": 5,
+    "timeline": "1751-1800",
+    "title": "Life Class in the Vienna Academy (detail)",
+    "url_wga_info": "https://www.wga.hu/html/q/quadal/class1.html",
+    "url_wga_jpg": "https://www.wga.hu/art/q/quadal/class1.jpg"
+  },
+  {
+    "author": "QUAGLIO, Domenico",
+    "date": "1826",
+    "id": 22737,
+    "local_img": "/images/q/22737.jpg",
+    "num_iterations": 15,
+    "painting_type": "landscape",
+    "palette": [
+      "#3b322b",
+      "#e1dad4",
+      "#937e6b",
+      "#625346",
+      "#9ea9b2"
+    ],
+    "radar": [
+      0.03985561430454254,
+      0.6971497535705566,
+      0.008689839392900467,
+      0.0008502673590555787,
+      0.13499465584754944,
+      0.0021229947451502085,
+      0.1163368970155716
+    ],
+    "technique": "Oil on canvas, 64 x 84 cm",
+    "time_elapsed": 3,
+    "timeline": "1801-1850",
+    "title": "Residenzstrasse Looking Towards Max-Joseph-Platz in 1826",
+    "url_wga_info": "https://www.wga.hu/html/q/quaglio/residenz.html",
+    "url_wga_jpg": "https://www.wga.hu/art/q/quaglio/residenz.jpg"
+  },
+  {
+    "author": "QUAGLIO, Domenico",
+    "date": "1827",
+    "id": 22738,
+    "local_img": "/images/q/22738.jpg",
+    "num_iterations": 9,
+    "painting_type": "landscape",
+    "palette": [
+      "#e2dbd3",
+      "#4c402c",
+      "#9a8457",
+      "#88a4cd",
+      "#b0bcd1"
+    ],
+    "radar": [
+      0.0038118278607726097,
+      0.4058494567871094,
+      0.13788709044456482,
+      0.004134408663958311,
+      0.329532265663147,
+      0.0008924730936996639,
+      0.11789247393608093
+    ],
+    "technique": "Oil on canvas, 54 x 70 cm",
+    "time_elapsed": 2,
+    "timeline": "1801-1850",
+    "title": "The Cathedral of Notre-Dame, Reims with a Procession of Communicants",
+    "url_wga_info": "https://www.wga.hu/html/q/quaglio/cathedra.html",
+    "url_wga_jpg": "https://www.wga.hu/art/q/quaglio/cathedra.jpg"
+  },
+  {
+    "author": "QUAST, Pieter Jansz.",
+    "date": "-",
+    "id": 22739,
+    "local_img": "/images/q/22739.jpg",
+    "num_iterations": 27,
+    "painting_type": "genre",
+    "palette": [
+      "#513315",
+      "#745124",
+      "#35240d",
+      "#b4975e",
+      "#141109"
+    ],
+    "radar": [
+      0.03714127466082573,
+      0.7655069231987,
+      0.08238226920366287,
+      0.012310249730944633,
+      0.00006094182754168287,
+      0.00028254848439246416,
+      0.10231579095125198
+    ],
+    "technique": "Oil on panel, 42 x 59 cm",
+    "time_elapsed": 4,
+    "timeline": "1601-1650",
+    "title": "Elegant Company Making Music",
+    "url_wga_info": "https://www.wga.hu/html/q/quast/musicmak.html",
+    "url_wga_jpg": "https://www.wga.hu/art/q/quast/musicmak.jpg"
+  },
+  {
+    "author": "QUAST, Pieter Jansz.",
+    "date": "1643",
+    "id": 22740,
+    "local_img": "/images/q/22740.jpg",
+    "num_iterations": 41,
+    "painting_type": "genre",
+    "palette": [
+      "#432417",
+      "#885026",
+      "#ba8d52",
+      "#efdcb0",
+      "#0d0e10"
+    ],
+    "radar": [
+      0.16552814841270447,
+      0.45965683460235596,
+      0.026069704443216324,
+      0.0014691689284518361,
+      0.02020375244319439,
+      0.007356568239629269,
+      0.31971582770347595
+    ],
+    "technique": "Oil on panel, 36 x 47 cm",
+    "time_elapsed": 8,
+    "timeline": "1601-1650",
+    "title": "Soldiers Gambling with Dice",
+    "url_wga_info": "https://www.wga.hu/html/q/quast/gambling.html",
+    "url_wga_jpg": "https://www.wga.hu/art/q/quast/gambling.jpg"
+  },
+  {
+    "author": "QUAST, Pieter Jansz.",
+    "date": "c. 1638",
+    "id": 22741,
+    "local_img": "/images/q/22741.jpg",
+    "num_iterations": 14,
+    "painting_type": "genre",
+    "palette": [
+      "#251a19",
+      "#342927",
+      "#6e523d",
+      "#a5937b",
+      "#100b0f"
+    ],
+    "radar": [
+      0.29792413115501404,
+      0.31962600350379944,
+      0.0193495936691761,
+      0.0020813008304685354,
+      0.00985907856374979,
+      0.21308401226997375,
+      0.13807588815689087
+    ],
+    "technique": "Oil on panel, 38 x 50 cm",
+    "time_elapsed": 2,
+    "timeline": "1601-1650",
+    "title": "Party of Merrymakers",
+    "url_wga_info": "https://www.wga.hu/html/q/quast/merrymak.html",
+    "url_wga_jpg": "https://www.wga.hu/art/q/quast/merrymak.jpg"
+  },
+  {
+    "author": "QUELLINUS, Artus I",
+    "date": "1651-54",
+    "id": 22742,
+    "local_img": "/images/q/22742.jpg",
+    "num_iterations": 33,
+    "painting_type": "historical",
+    "palette": [
+      "#3c3530",
+      "#c9ad98",
+      "#a88c73",
+      "#5f4f41",
+      "#816c57"
+    ],
+    "radar": [
+      0.023527272045612335,
+      0.9312090873718262,
+      0.007018181961029768,
+      0.005218181759119034,
+      0.01189090870320797,
+      0.001081818132661283,
+      0.020054545253515244
+    ],
+    "technique": "Marble",
+    "time_elapsed": 4,
+    "timeline": "1601-1650",
+    "title": "Reliefs in the Tribunal",
+    "url_wga_info": "https://www.wga.hu/html/q/quellin/artus/tribune1.html",
+    "url_wga_jpg": "https://www.wga.hu/art/q/quellin/artus/tribune1.jpg"
+  },
+  {
+    "author": "QUELLINUS, Artus I",
+    "date": "1651-54",
+    "id": 22743,
+    "local_img": "/images/q/22743.jpg",
+    "num_iterations": 21,
+    "painting_type": "historical",
+    "palette": [
+      "#faf3f3",
+      "#4e261c",
+      "#8a4c39",
+      "#b9735a",
+      "#d89a7c"
+    ],
+    "radar": [
+      0.4257260262966156,
+      0.5099269151687622,
+      0.00006392694194801152,
+      4.566210009215865e-6,
+      0.000041095889173448086,
+      0.0003150684933643788,
+      0.06392237544059753
+    ],
+    "technique": "Terracotta, 73 x 83 cm",
+    "time_elapsed": 5,
+    "timeline": "1601-1650",
+    "title": "The Judgment of Brutus: Justice",
+    "url_wga_info": "https://www.wga.hu/html/q/quellin/artus/tribune2.html",
+    "url_wga_jpg": "https://www.wga.hu/art/q/quellin/artus/tribune2.jpg"
+  },
+  {
+    "author": "QUELLINUS, Artus I",
+    "date": "1651-54",
+    "id": 22744,
+    "local_img": "/images/q/22744.jpg",
+    "num_iterations": 30,
+    "painting_type": "historical",
+    "palette": [
+      "#652f2b",
+      "#955143",
+      "#ba705d",
+      "#d99780",
+      "#39181c"
+    ],
+    "radar": [
+      0.9088725447654724,
+      0.08169607818126678,
+      0.0,
+      0.0,
+      0.00003431372533668764,
+      0.0053431373089551926,
+      0.004053921438753605
+    ],
+    "technique": "Terracotta",
+    "time_elapsed": 6,
+    "timeline": "1601-1650",
+    "title": "The Judgment of Brutus: Justice (detail)",
+    "url_wga_info": "https://www.wga.hu/html/q/quellin/artus/tribune3.html",
+    "url_wga_jpg": "https://www.wga.hu/art/q/quellin/artus/tribune3.jpg"
+  },
+  {
+    "author": "QUELLINUS, Artus I",
+    "date": "1661",
+    "id": 22745,
+    "local_img": "/images/q/22745.jpg",
+    "num_iterations": 38,
+    "painting_type": "portrait",
+    "palette": [
+      "#3c2a29",
+      "#6f5449",
+      "#a6897b",
+      "#dccabf",
+      "#0a0607"
+    ],
+    "radar": [
+      0.16413870453834534,
+      0.3091498911380768,
+      0.00017002236563712358,
+      0.0,
+      0.000022371365048456937,
+      0.09595973044633865,
+      0.43055927753448486
+    ],
+    "technique": "Marble, height 75 cm",
+    "time_elapsed": 9,
+    "timeline": "1601-1650",
+    "title": "Andries de Graeff",
+    "url_wga_info": "https://www.wga.hu/html/q/quellin/artus/graeff.html",
+    "url_wga_jpg": "https://www.wga.hu/art/q/quellin/artus/graeff.jpg"
+  },
+  {
+    "author": "QUELLINUS, Artus I",
+    "date": "1665",
+    "id": 22746,
+    "local_img": "/images/q/22746.jpg",
+    "num_iterations": 17,
+    "painting_type": "portrait",
+    "palette": [
+      "#39261c",
+      "#6b5442",
+      "#8a7665",
+      "#e2d4c3",
+      "#b8a289"
+    ],
+    "radar": [
+      0.05053333193063736,
+      0.8959752917289734,
+      0.0015604938380420208,
+      0.0,
+      0.00006913580000400543,
+      0.006938271690160036,
+      0.044923458248376846
+    ],
+    "technique": "Marble, height 95 cm",
+    "time_elapsed": 4,
+    "timeline": "1601-1650",
+    "title": "Portrait of Johan de Witt",
+    "url_wga_info": "https://www.wga.hu/html/q/quellin/artus/de_wit.html",
+    "url_wga_jpg": "https://www.wga.hu/art/q/quellin/artus/de_wit.jpg"
+  },
+  {
+    "author": "QUELLINUS, Erasmus II",
+    "date": "-",
+    "id": 22747,
+    "local_img": "/images/q/22747.jpg",
+    "num_iterations": 12,
+    "painting_type": "mythological",
+    "palette": [
+      "#201c19",
+      "#3c3223",
+      "#584a33",
+      "#796c4f",
+      "#ada17f"
+    ],
+    "radar": [
+      0.04247536137700081,
+      0.37041160464286804,
+      0.47876521944999695,
+      0.07481159269809723,
+      0.0034144928213208914,
+      0.002626087050884962,
+      0.027495652437210083
+    ],
+    "technique": "Oil on canvas, 114 x 164 cm",
+    "time_elapsed": 2,
+    "timeline": "1601-1650",
+    "title": "Achilles with the Daughters of Lycomedes",
+    "url_wga_info": "https://www.wga.hu/html/q/quellin/erasmus/achille.html",
+    "url_wga_jpg": "https://www.wga.hu/art/q/quellin/erasmus/achille.jpg"
+  },
+  {
+    "author": "QUELLINUS, Erasmus II",
+    "date": "-",
+    "id": 22748,
+    "local_img": "/images/q/22748.jpg",
+    "num_iterations": 12,
+    "painting_type": "portrait",
+    "palette": [
+      "#5a504d",
+      "#88766a",
+      "#bbab9f",
+      "#393336",
+      "#181415"
+    ],
+    "radar": [
+      0.20422349870204926,
+      0.29192548990249634,
+      0.018355300650000572,
+      0.005793696269392967,
+      0.10418911278247833,
+      0.04609169065952301,
+      0.32942119240760803
+    ],
+    "technique": "Oil on canvas, 136 x 103 cm",
+    "time_elapsed": 2,
+    "timeline": "1601-1650",
+    "title": "Portrait of a Young Boy",
+    "url_wga_info": "https://www.wga.hu/html/q/quellin/erasmus/youngboy.html",
+    "url_wga_jpg": "https://www.wga.hu/art/q/quellin/erasmus/youngboy.jpg"
+  },
+  {
+    "author": "QUELLINUS, Erasmus II",
+    "date": "1636-38",
+    "id": 22749,
+    "local_img": "/images/q/22749.jpg",
+    "num_iterations": 20,
+    "painting_type": "mythological",
+    "palette": [
+      "#403224",
+      "#5b4931",
+      "#c9ad7d",
+      "#736241",
+      "#8a7c55"
+    ],
+    "radar": [
+      0.017955735325813293,
+      0.5390583276748657,
+      0.43898189067840576,
+      0.004004023969173431,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "technique": "Oil on canvas, 98 x 98 cm",
+    "time_elapsed": 5,
+    "timeline": "1601-1650",
+    "title": "Cupid on a Dolphin",
+    "url_wga_info": "https://www.wga.hu/html/q/quellin/erasmus/parada.html",
+    "url_wga_jpg": "https://www.wga.hu/art/q/quellin/erasmus/parada.jpg"
+  },
+  {
+    "author": "QUELLINUS, Erasmus II",
+    "date": "1650s",
+    "id": 22750,
+    "local_img": "/images/q/22750.jpg",
+    "num_iterations": 12,
+    "painting_type": "religious",
+    "palette": [
+      "#221b1a",
+      "#412f27",
+      "#614535",
+      "#846852",
+      "#b9ac9c"
+    ],
+    "radar": [
+      0.36168372631073,
+      0.48993954062461853,
+      0.04739534854888916,
+      0.0064790695905685425,
+      0.021655814722180367,
+      0.009930232539772987,
+      0.06291627883911133
+    ],
+    "technique": "Oil on canvas, 200 x 170 cm",
+    "time_elapsed": 3,
+    "timeline": "1601-1650",
+    "title": "Birth of the Virgin",
+    "url_wga_info": "https://www.wga.hu/html/q/quellin/erasmus/birthvir.html",
+    "url_wga_jpg": "https://www.wga.hu/art/q/quellin/erasmus/birthvir.jpg"
+  },
+  {
+    "author": "QUELLINUS, Erasmus II",
+    "date": "1652",
+    "id": 22751,
+    "local_img": "/images/q/22751.jpg",
+    "num_iterations": 35,
+    "painting_type": "religious",
+    "palette": [
+      "#422e1e",
+      "#292017",
+      "#664b31",
+      "#8e7351",
+      "#c0a57e"
+    ],
+    "radar": [
+      0.06141340732574463,
+      0.7784581184387207,
+      0.13507820665836334,
+      0.00727374292910099,
+      0.010363128036260605,
+      0.00048044693539850414,
+      0.006932960823178291
+    ],
+    "technique": "Oil on canvas, 60 x 82 cm",
+    "time_elapsed": 7,
+    "timeline": "1601-1650",
+    "title": "Adoration of the Shepherds",
+    "url_wga_info": "https://www.wga.hu/html/q/quellin/erasmus/adorati.html",
+    "url_wga_jpg": "https://www.wga.hu/art/q/quellin/erasmus/adorati.jpg"
+  },
+  {
+    "author": "QUELLINUS, Erasmus II",
+    "date": "1652",
+    "id": 22752,
+    "local_img": "/images/q/22752.jpg",
+    "num_iterations": 23,
+    "painting_type": "mythological",
+    "palette": [
+      "#4c341d",
+      "#312212",
+      "#b89771",
+      "#775a3a",
+      "#1b170f"
+    ],
+    "radar": [
+      0.0810338631272316,
+      0.7059729099273682,
+      0.14110609889030457,
+      0.04121896252036095,
+      0.005629797000437975,
+      0.0022979683708399534,
+      0.022740406915545464
+    ],
+    "technique": "Oil on canvas, 124 x 140 cm",
+    "time_elapsed": 6,
+    "timeline": "1601-1650",
+    "title": "Artemisia",
+    "url_wga_info": "https://www.wga.hu/html/q/quellin/erasmus/artemisi.html",
+    "url_wga_jpg": "https://www.wga.hu/art/q/quellin/erasmus/artemisi.jpg"
+  },
+  {
+    "author": "QUELLINUS, Erasmus II",
+    "date": "1669",
+    "id": 22753,
+    "local_img": "/images/q/22753.jpg",
+    "num_iterations": 30,
+    "painting_type": "religious",
+    "palette": [
+      "#4f4134",
+      "#8a6943",
+      "#c5af84",
+      "#272a26",
+      "#0f1713"
+    ],
+    "radar": [
+      0.01599503681063652,
+      0.3538362383842468,
+      0.09175185859203339,
+      0.22624318301677704,
+      0.18984615802764893,
+      0.0017766749951988459,
+      0.12055087089538574
+    ],
+    "technique": "Oil on canvas",
+    "time_elapsed": 6,
+    "timeline": "1601-1650",
+    "title": "Adoration of the Shepherds",
+    "url_wga_info": "https://www.wga.hu/html/q/quellin/erasmus/adoratio.html",
+    "url_wga_jpg": "https://www.wga.hu/art/q/quellin/erasmus/adoratio.jpg"
+  },
+  {
+    "author": "QUELLINUS, Erasmus II",
+    "date": "c. 1635",
+    "id": 22754,
+    "local_img": "/images/q/22754.jpg",
+    "num_iterations": 7,
+    "painting_type": "religious",
+    "palette": [
+      "#301a14",
+      "#753d2c",
+      "#a16340",
+      "#ba9564",
+      "#d3c494"
+    ],
+    "radar": [
+      0.3384464979171753,
+      0.5275116562843323,
+      0.12150697410106659,
+      0.004255814012140036,
+      0.0,
+      0.000018604650904308073,
+      0.00826046522706747
+    ],
+    "technique": "Oil on panel, 58 x 79,5 cm (entire painting)",
+    "time_elapsed": 2,
+    "timeline": "1601-1650",
+    "title": "Saul and David (detail)",
+    "url_wga_info": "https://www.wga.hu/html/q/quellin/erasmus/sauldavi.html",
+    "url_wga_jpg": "https://www.wga.hu/art/q/quellin/erasmus/sauldavi.jpg"
+  },
+  {
+    "author": "QUELLINUS, Erasmus II",
+    "date": "c. 1643",
+    "id": 22755,
+    "local_img": "/images/q/22755.jpg",
+    "num_iterations": 8,
+    "painting_type": "mythological",
+    "palette": [
+      "#4e3330",
+      "#2b201e",
+      "#714c45",
+      "#9f7a6d",
+      "#dcc3b0"
+    ],
+    "radar": [
+      0.752639651298523,
+      0.19913062453269958,
+      0.002135135233402252,
+      0.0003243243263568729,
+      0.0034369369968771935,
+      0.02038738690316677,
+      0.021945945918560028
+    ],
+    "technique": "Oil on canvas, 220 x 240 cm",
+    "time_elapsed": 2,
+    "timeline": "1601-1650",
+    "title": "Achilles among the Daughters of Lycomedes",
+    "url_wga_info": "https://www.wga.hu/html/q/quellin/erasmus/achilles.html",
+    "url_wga_jpg": "https://www.wga.hu/art/q/quellin/erasmus/achilles.jpg"
+  },
+  {
+    "author": "QUELLINUS, Erasmus II",
+    "date": "c. 1645",
+    "id": 22756,
+    "local_img": "/images/q/22756.jpg",
+    "num_iterations": 22,
+    "painting_type": "still-life",
+    "palette": [
+      "#776f61",
+      "#bbb29f",
+      "#4a4536",
+      "#2f2b1e",
+      "#17160f"
+    ],
+    "radar": [
+      0.02057219296693802,
+      0.26215508580207825,
+      0.45932620763778687,
+      0.11813368648290634,
+      0.03326737880706787,
+      0.0003689839504659176,
+      0.1061764732003212
+    ],
+    "technique": "Oil on canvas, 112 x 83 cm",
+    "time_elapsed": 4,
+    "timeline": "1601-1650",
+    "title": "Still-Life in an Architectural Setting",
+    "url_wga_info": "https://www.wga.hu/html/q/quellin/erasmus/stillife.html",
+    "url_wga_jpg": "https://www.wga.hu/art/q/quellin/erasmus/stillife.jpg"
+  },
+  {
+    "author": "QUELLINUS, Jan-Erasmus",
+    "date": "1651",
+    "id": 22757,
+    "local_img": "/images/q/22757.jpg",
+    "num_iterations": 18,
+    "painting_type": "religious",
+    "palette": [
+      "#2e2622",
+      "#38332f",
+      "#494541",
+      "#655d51",
+      "#988b74"
+    ],
+    "radar": [
+      0.20923267304897308,
+      0.42428216338157654,
+      0.08020792156457901,
+      0.015460396185517311,
+      0.07737128436565399,
+      0.04199009761214256,
+      0.15145544707775116
+    ],
+    "technique": "Oil on canvas, 184 x 232 cm",
+    "time_elapsed": 4,
+    "timeline": "1651-1700",
+    "title": "Mary Visiting Elizabeth",
+    "url_wga_info": "https://www.wga.hu/html/q/quellin/jan/visitati.html",
+    "url_wga_jpg": "https://www.wga.hu/art/q/quellin/jan/visitati.jpg"
+  },
+  {
+    "author": "QUELLINUS, Jan-Erasmus",
+    "date": "1668",
+    "id": 22758,
+    "local_img": "/images/q/22758.jpg",
+    "num_iterations": 14,
+    "painting_type": "mythological",
+    "palette": [
+      "#29221e",
+      "#453125",
+      "#624433",
+      "#83654a",
+      "#bb9d75"
+    ],
+    "radar": [
+      0.2416374683380127,
+      0.5500724911689758,
+      0.0889788493514061,
+      0.04097281023859978,
+      0.03156495466828346,
+      0.004972809460014105,
+      0.0418006032705307
+    ],
+    "technique": "Oil on canvas,",
+    "time_elapsed": 2,
+    "timeline": "1651-1700",
+    "title": "Thetis Dips Achilles in a Vase with Water from the Styx",
+    "url_wga_info": "https://www.wga.hu/html/q/quellin/jan/thetis.html",
+    "url_wga_jpg": "https://www.wga.hu/art/q/quellin/jan/thetis.jpg"
+  },
+  {
+    "author": "QUELLINUS, Jan-Erasmus",
+    "date": "1702",
+    "id": 22759,
+    "local_img": "/images/q/22759.jpg",
+    "num_iterations": 32,
+    "painting_type": "religious",
+    "palette": [
+      "#423433",
+      "#24201e",
+      "#a09085",
+      "#0e0f0d",
+      "#60575b"
+    ],
+    "radar": [
+      0.140011265873909,
+      0.2272225320339203,
+      0.06187042221426964,
+      0.08067042380571365,
+      0.19700844585895538,
+      0.031859155744314194,
+      0.26135775446891785
+    ],
+    "technique": "Oil on canvas, 300 x 430 cm",
+    "time_elapsed": 6,
+    "timeline": "1651-1700",
+    "title": "Saint Francis Xavier in Dispute with the Emperor of Japan",
+    "url_wga_info": "https://www.wga.hu/html/q/quellin/jan/dispute.html",
+    "url_wga_jpg": "https://www.wga.hu/art/q/quellin/jan/dispute.jpg"
+  },
+  {
+    "author": "QUERCIA, Priamo della",
+    "date": "1442",
+    "id": 22760,
+    "local_img": "/images/q/22760.jpg",
+    "num_iterations": 14,
+    "painting_type": "religious",
+    "palette": [
+      "#43312d",
+      "#645046",
+      "#8a7768",
+      "#c0af9e",
+      "#21181a"
+    ],
+    "radar": [
+      0.2657545506954193,
+      0.4846136271953583,
+      0.043963637202978134,
+      0.006509090773761272,
+      0.054540909826755524,
+      0.053959090262651443,
+      0.09065908938646317
+    ],
+    "technique": "Fresco, height c. 450 cm",
+    "time_elapsed": 3,
+    "timeline": "1401-1450",
+    "title": "Agostino Novello Installing the First Rector",
+    "url_wga_info": "https://www.wga.hu/html/q/quercia/priamo/pellegri.html",
+    "url_wga_jpg": "https://www.wga.hu/art/q/quercia/priamo/pellegri.jpg"
+  },
+  {
+    "author": "QUERCIA, Priamo della",
+    "date": "c. 1430",
+    "id": 22761,
+    "local_img": "/images/q/22761.jpg",
+    "num_iterations": 27,
+    "painting_type": "religious",
+    "palette": [
+      "#5f481f",
+      "#443a26",
+      "#7c5f24",
+      "#9a7d3a",
+      "#20221f"
+    ],
+    "radar": [
+      0.010063091292977333,
+      0.38179811835289,
+      0.4391356408596039,
+      0.12118612229824066,
+      0.007621451281011105,
+      0.0011167192133143544,
+      0.03907886520028114
+    ],
+    "technique": "Tempera on panel, gold ground, 67 x 53 cm",
+    "time_elapsed": 4,
+    "timeline": "1401-1450",
+    "title": "Madonna and Child Enthroned with Adoring Angels",
+    "url_wga_info": "https://www.wga.hu/html/q/quercia/priamo/madchild.html",
+    "url_wga_jpg": "https://www.wga.hu/art/q/quercia/priamo/madchild.jpg"
+  },
+  {
+    "author": "QUERFURT, August",
+    "date": "-",
+    "id": 22762,
+    "local_img": "/images/q/22762.jpg",
+    "num_iterations": 12,
+    "painting_type": "historical",
+    "palette": [
+      "#1e1716",
+      "#3c2f29",
+      "#63564d",
+      "#bac1c7",
+      "#8f8f95"
+    ],
+    "radar": [
+      0.21588678658008575,
+      0.2459784299135208,
+      0.016700807958841324,
+      0.002264150884002447,
+      0.13856065273284912,
+      0.04802156239748001,
+      0.3325875997543335
+    ],
+    "technique": "Oil on canvas, 107 x 144 cm",
+    "time_elapsed": 2,
+    "timeline": "1701-1750",
+    "title": "Cavalry Engagement",
+    "url_wga_info": "https://www.wga.hu/html/q/querfurt/cavalry.html",
+    "url_wga_jpg": "https://www.wga.hu/art/q/querfurt/cavalry.jpg"
+  },
+  {
+    "author": "QUERFURT, August",
+    "date": "-",
+    "id": 22763,
+    "local_img": "/images/q/22763.jpg",
+    "num_iterations": 18,
+    "painting_type": "genre",
+    "palette": [
+      "#403327",
+      "#938a70",
+      "#59513c",
+      "#61686c",
+      "#241a1b"
+    ],
+    "radar": [
+      0.11102769523859024,
+      0.2316061556339264,
+      0.2183261513710022,
+      0.05104615539312363,
+      0.2827507555484772,
+      0.049870770424604416,
+      0.05537230893969536
+    ],
+    "technique": "Oil on panel, 21 x 32 cm",
+    "time_elapsed": 3,
+    "timeline": "1701-1750",
+    "title": "After the Hunt",
+    "url_wga_info": "https://www.wga.hu/html/q/querfurt/hunt1.html",
+    "url_wga_jpg": "https://www.wga.hu/art/q/querfurt/hunt1.jpg"
+  },
+  {
+    "author": "QUERFURT, August",
+    "date": "-",
+    "id": 22764,
+    "local_img": "/images/q/22764.jpg",
+    "num_iterations": 12,
+    "painting_type": "genre",
+    "palette": [
+      "#241b1b",
+      "#413626",
+      "#97957e",
+      "#525449",
+      "#6a726c"
+    ],
+    "radar": [
+      0.07240993529558182,
+      0.298186331987381,
+      0.17589440941810608,
+      0.1477826088666916,
+      0.1960993856191635,
+      0.04186956584453583,
+      0.06775776296854019
+    ],
+    "technique": "Oil on panel, 21 x 32 cm",
+    "time_elapsed": 2,
+    "timeline": "1701-1750",
+    "title": "At the Field Camp",
+    "url_wga_info": "https://www.wga.hu/html/q/querfurt/hunt2.html",
+    "url_wga_jpg": "https://www.wga.hu/art/q/querfurt/hunt2.jpg"
+  },
+  {
+    "author": "QUESNEL, François",
+    "date": "-",
+    "id": 22765,
+    "local_img": "/images/q/22765.jpg",
+    "num_iterations": 4,
+    "painting_type": "portrait",
+    "palette": [
+      "#c9b89f",
+      "#4f442c",
+      "#2b2a21",
+      "#1b1c1a",
+      "#141616"
+    ],
+    "radar": [
+      0.0015501222806051373,
+      0.3102004826068878,
+      0.3373692035675049,
+      0.08362346887588501,
+      0.005784841254353523,
+      0.0007041564676910639,
+      0.26076772809028625
+    ],
+    "technique": "Oil on panel, 77 x 63 cm",
+    "time_elapsed": 1,
+    "timeline": "1551-1600",
+    "title": "Portrait of a Lady in a Black Robe.",
+    "url_wga_info": "https://www.wga.hu/html/q/quesnel/portrai1.html",
+    "url_wga_jpg": "https://www.wga.hu/art/q/quesnel/portrai1.jpg"
+  },
+  {
+    "author": "QUESNEL, François",
+    "date": "1572",
+    "id": 22766,
+    "local_img": "/images/q/22766.jpg",
+    "num_iterations": 11,
+    "painting_type": "portrait",
+    "palette": [
+      "#815c3b",
+      "#be8e4e",
+      "#271e0f",
+      "#f8de98",
+      "#161306"
+    ],
+    "radar": [
+      0.024193717166781425,
+      0.5895916223526001,
+      0.28251832723617554,
+      0.06574345380067825,
+      0.00010994764306815341,
+      0.0003455497499089688,
+      0.0374973826110363
+    ],
+    "technique": "Oil on panel",
+    "time_elapsed": 2,
+    "timeline": "1551-1600",
+    "title": "Mary Ann Waltham",
+    "url_wga_info": "https://www.wga.hu/html/q/quesnel/mary_ann.html",
+    "url_wga_jpg": "https://www.wga.hu/art/q/quesnel/mary_ann.jpg"
+  },
+  {
+    "author": "QUESNEL, François",
+    "date": "1582-86",
+    "id": 22767,
+    "local_img": "/images/q/22767.jpg",
+    "num_iterations": 9,
+    "painting_type": "portrait",
+    "palette": [
+      "#d8bea1",
+      "#495754",
+      "#24292c",
+      "#181a1e",
+      "#030406"
+    ],
+    "radar": [
+      0.004962365608662367,
+      0.09171505272388458,
+      0.0067688170820474625,
+      0.01147311832755804,
+      0.37106451392173767,
+      0.007284946274012327,
+      0.5067312121391296
+    ],
+    "technique": "Oil on panel, 66 x 52 cm",
+    "time_elapsed": 2,
+    "timeline": "1551-1600",
+    "title": "Henri III, King of France",
+    "url_wga_info": "https://www.wga.hu/html/q/quesnel/henri3.html",
+    "url_wga_jpg": "https://www.wga.hu/art/q/quesnel/henri3.jpg"
+  },
+  {
+    "author": "QUESNEL, François",
+    "date": "1582-86",
+    "id": 22768,
+    "local_img": "/images/q/22768.jpg",
+    "num_iterations": 16,
+    "painting_type": "portrait",
+    "palette": [
+      "#1b170f",
+      "#312918",
+      "#d6c59f",
+      "#857a54",
+      "#524a31"
+    ],
+    "radar": [
+      0.021945945918560028,
+      0.502078652381897,
+      0.3196658492088318,
+      0.08164127916097641,
+      0.0006437346455641091,
+      0.0013611793983727694,
+      0.07266338914632797
+    ],
+    "technique": "Oil on panel, 66 x 52 cm",
+    "time_elapsed": 4,
+    "timeline": "1551-1600",
+    "title": "Henri III, King of France",
+    "url_wga_info": "https://www.wga.hu/html/q/quesnel/henri3a.html",
+    "url_wga_jpg": "https://www.wga.hu/art/q/quesnel/henri3a.jpg"
+  },
+  {
+    "author": "QUESNEL, François",
+    "date": "c. 1593",
+    "id": 22769,
+    "local_img": "/images/q/22769.jpg",
+    "num_iterations": 23,
+    "painting_type": "portrait",
+    "palette": [
+      "#302722",
+      "#ccbda9",
+      "#85745d",
+      "#625038",
+      "#161512"
+    ],
+    "radar": [
+      0.11267559975385666,
+      0.7027828693389893,
+      0.07565683871507645,
+      0.0028310990892350674,
+      0.00003217158155166544,
+      0.010975871235132217,
+      0.09504557400941849
+    ],
+    "technique": "Oil on canvas, 129 x 97 cm",
+    "time_elapsed": 5,
+    "timeline": "1551-1600",
+    "title": "Portrait of Jeanne de Bourdeille",
+    "url_wga_info": "https://www.wga.hu/html/q/quesnel/portrai2.html",
+    "url_wga_jpg": "https://www.wga.hu/art/q/quesnel/portrai2.jpg"
+  },
+  {
+    "author": "QUILLARD, Pierre-Antoine",
+    "date": "-",
+    "id": 22770,
+    "local_img": "/images/q/22770.jpg",
+    "num_iterations": 23,
+    "painting_type": "genre",
+    "palette": [
+      "#5c4d24",
+      "#322d15",
+      "#888669",
+      "#1d1d10",
+      "#b3b597"
+    ],
+    "radar": [
+      0.00006232294254004955,
+      0.12865155935287476,
+      0.5815353989601135,
+      0.2544929087162018,
+      0.011580736376345158,
+      0.0,
+      0.023677052929997444
+    ],
+    "technique": "Oil on canvas, 83 x 117 cm",
+    "time_elapsed": 4,
+    "timeline": "1701-1750",
+    "title": "Amorous Couples in a Garden Setting",
+    "url_wga_info": "https://www.wga.hu/html/q/quillard/garden1.html",
+    "url_wga_jpg": "https://www.wga.hu/art/q/quillard/garden1.jpg"
+  },
+  {
+    "author": "QUILLARD, Pierre-Antoine",
+    "date": "-",
+    "id": 22771,
+    "local_img": "/images/q/22771.jpg",
+    "num_iterations": 20,
+    "painting_type": "genre",
+    "palette": [
+      "#7f7249",
+      "#55502c",
+      "#37361e",
+      "#9b9b79",
+      "#232318"
+    ],
+    "radar": [
+      0.0004305948968976736,
+      0.13835693895816803,
+      0.4087308645248413,
+      0.4479433298110962,
+      0.00022096317843534052,
+      0.000016997166312648915,
+      0.004300283268094063
+    ],
+    "technique": "Oil on canvas, 83 x 117 cm",
+    "time_elapsed": 4,
+    "timeline": "1701-1750",
+    "title": "Elegantly Dressed Group in a Garden Setting",
+    "url_wga_info": "https://www.wga.hu/html/q/quillard/garden2.html",
+    "url_wga_jpg": "https://www.wga.hu/art/q/quillard/garden2.jpg"
+  },
+  {
+    "author": "QUINSA, Giovanni",
+    "date": "-",
+    "id": 22772,
+    "local_img": "/images/q/22772.jpg",
+    "num_iterations": 10,
+    "painting_type": "still-life",
+    "palette": [
+      "#4f3924",
+      "#221d15",
+      "#7c6b3d",
+      "#272519",
+      "#171314"
+    ],
+    "radar": [
+      0.09386131167411804,
+      0.202153280377388,
+      0.5488831996917725,
+      0.023627737537026405,
+      0.0005912408814765513,
+      0.10802919417619705,
+      0.022854015231132507
+    ],
+    "technique": "Oil on canvas, 58 x 106 cm",
+    "time_elapsed": 1,
+    "timeline": "1601-1650",
+    "title": "Still-Life",
+    "url_wga_info": "https://www.wga.hu/html/q/quinsa/stillife.html",
+    "url_wga_jpg": "https://www.wga.hu/art/q/quinsa/stillife.jpg"
+  },
+  {
+    "author": "QUINSA, Giovanni",
+    "date": "c. 1640",
+    "id": 22773,
+    "local_img": "/images/q/22773.jpg",
+    "num_iterations": 19,
+    "painting_type": "still-life",
+    "palette": [
+      "#5a4a26",
+      "#353121",
+      "#85773d",
+      "#b8ba9a",
+      "#171817"
+    ],
+    "radar": [
+      0.040684014558792114,
+      0.11525650322437286,
+      0.4682602286338806,
+      0.155063197016716,
+      0.05228996276855469,
+      0.011962825432419777,
+      0.15648327767848969
+    ],
+    "technique": "Oil on canvas",
+    "time_elapsed": 3,
+    "timeline": "1601-1650",
+    "title": "Still-Life with a Breakfast Table",
+    "url_wga_info": "https://www.wga.hu/html/q/quinsa/stillifx.html",
+    "url_wga_jpg": "https://www.wga.hu/art/q/quinsa/stillifx.jpg"
+  }
+]
