@@ -1,7 +1,6 @@
 body {
   margin: 0 10px 0 0;
-  /*font-family: 'Roboto', 'sans-serif';*/
-  /*font-family: 'Martel', serif;*/
+  font-family: 'Roboto', 'sans-serif';
   font-size: 1rem;
   color: #000000;
   text-align: center;
@@ -11,7 +10,7 @@ body {
 h1 {
   /*font-family: 'Roboto Slab', 'serif';*/
   font-family: 'Martel', serif;
-  font-size: 2rem;
+  font-size: 1.8rem;
 }
 
 h2 {
@@ -101,9 +100,8 @@ h2 {
 }
 
 .resultstitle {
-  /*font-family: 'Roboto Slab', 'serif';*/
-  font-family: 'Martel', 'serif';
-  /*margin-top: -35px;*/
+  font-family: 'Roboto', 'sans-serif';
+  font-size: 1.2rem;
 }
 
 .navlink {
@@ -123,16 +121,13 @@ h2 {
 /* SEARCH RESULTS */
 
 .searchresults {
-  margin: 100px 30px 50px 0;
-  float: right;
-  width: 70%;
+  margin: 100px 0 50px 55px;
+  float: left;
+  width: 66%;
   border: 1px solid #a1a1a1;
   border-radius: 10px;
   background-color: #fdfdfd;
-  padding-top: 25px;
-  padding-left: 25px;
-  padding-right: 25px;
-  padding-bottom: 25px;
+  padding: 25px;
 }
 
 .results {
@@ -150,8 +145,8 @@ h2 {
   display: inline-block;
   width: 100%;
   padding: 10px 0;
+  font-family: 'Martel', serif;
   border: 1px solid #a1a1a1;
-  border-radius: 5px;
 }
 
 #pageLinks {
@@ -174,14 +169,13 @@ h2 {
   grid-template-columns: 1.5fr 2fr .8fr;
   grid-template-areas: 
       'info palette checkbox';
-      border-radius: 4px;
 }
 
 .paintingimg {
   float: left;
   margin-left: 10px;
-  max-width: 80px;
-  max-height: 80px;
+  max-width: 85px;
+  max-height: 90px;
   cursor: pointer;
 }
 
@@ -194,7 +188,7 @@ h2 {
   margin: auto 0;
   grid-area: info;
   display: inline;
-  margin-left: 100px;
+  margin-left: 110px;
   text-align: left;
 }
 
@@ -206,8 +200,8 @@ h2 {
 .box {
   float: left;
   margin: 20px 5px;
-  width: 60px;
-  height: 60px;
+  width: 70px;
+  height: 70px;
   border-radius: 5px;
 }
 
@@ -238,10 +232,13 @@ h2 {
 /* COMPARE PANEL */
 
 .compareresults {
-  margin: 100px 0 0 50px;
-  float: left;
-  width: 22%;
+  margin: 100px 35px 0 0;
+  float: right;
+  width: 20%;
+  background-color: #fdfdfd;
   border: 1px solid #a1a1a1;
+  border-radius: 5px;
+  padding: 15px;
 }
 
 .scrollcover {
@@ -298,7 +295,7 @@ h2 {
   background-color: #eeeeee;
   margin: 10px auto;
   padding: 5px 10px;
-  font-size: 0.8rem;
+  font-size: 0.9rem;
   border: 1px solid #a1a1a1;
 }
 
@@ -428,14 +425,13 @@ h2 {
 .paintingSearchTechniqueText {
   color: #7a7a7a;
   text-shadow: #000;
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 .paintingSearchMainText {
   color: #000000;
-  /*font-family: 'Nunito', sans-serif;*/
-  font-family: 'EB Garamond', serif;
-  font-size: 13pt;
+  font-family: 'Martel', 'serif';
+  font-size: 0.9rem;
 }
 
 .mainLogoText {

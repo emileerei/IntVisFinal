@@ -434,6 +434,7 @@ function populateRadarData(paintings) {
       { axis: colorArray[5], value: p.radar[5] },
       { axis: colorArray[6], value: p.radar[6] }]);
   });
+  data.reverse();
 
   return data;
 }
@@ -444,9 +445,10 @@ function populateRange(n, primary, secondary) {
   for (var i = 0; i < n; i++) {
     if (i != n-1) {
       range.push(secondary);
+    } else {
+      range.push(primary);
     }
   }
-  range.push(primary);
 
   return range;
 }

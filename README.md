@@ -26,10 +26,11 @@ which should compile the program and place an executable in a created target dir
 Our Rust modules are currently set up mostly hardcoded and do not take command line arguments, so you'll probably need to edit the main function at the bottom of each src/main.rs file to point it at the right locations/files.
 
 # Todo (web):
-* help button tooltip/popup
+* ~help button tooltip/popup~
 * radar chart blob tooltip
 * ~hex color for palette hovers~
 * selected painting background
 * change focus painting
-* remove search button
+* ~remove search button~
 * make sure checkboxes stay checked in results page if they are checked when page is swapped
+* compare page focus painting color order wrong

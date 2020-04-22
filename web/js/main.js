@@ -43,7 +43,6 @@ function populatePageLinks(total) {
   var t = document.createTextNode(total + " Results (" + perPage + " per page)");
   pageLinkDiv.appendChild(t);
 
-  //var whitespace = document.createTextNode("\n");
   var whitespace = document.createElement("br");
   pageLinkDiv.appendChild(whitespace);
 
@@ -68,9 +67,7 @@ function populatePageLinks(total) {
     // Add a gap between links
     var whitespace = document.createTextNode("\t");
     pageLinkDiv.appendChild(whitespace);
-
   }
-
 }
 
 function filterKeyword(db, filter, keyword, exact_match) {
@@ -151,76 +148,6 @@ function parseSearchResults() {
 
   displayPaintings(filteredPaintings);
   populatePageLinks(filteredPaintings.length);
-
-  /*
-  OLD OR-BASED CODE-------------
-
-  let fp = [];
-  parsedString.forEach((element) => {
-    if (element.startsWith("title:")) {
-      fp.push(
-        paintingDatabase.filter((painting) => {
-          return painting.title
-            .toLowerCase()
-            .includes(element.replace("title:", ""));
-        })
-      );
-    } else if (element.startsWith("artist:")) {
-      fp.push(
-        paintingDatabase.filter((painting) => {
-          return painting.author
-            .toLowerCase()
-            .includes(element.replace("artist:", ""));
-        })
-      );
-    } else if (element.startsWith("timeline:")) {
-      fp.push(
-        paintingDatabase.filter((painting) => {
-          return painting.timeline
-            .toLowerCase()
-            .includes(element.replace("timeline:", ""));
-        })
-      );
-    } else if (element.startsWith("technique:")) {
-      fp.push(
-        paintingDatabase.filter((painting) => {
-          return painting.technique
-            .toLowerCase()
-            .includes(element.replace("technique:", ""));
-        })
-      );
-    } else if (element.startsWith("type:")) {
-      fp.push(
-        paintingDatabase.filter((painting) => {
-          return painting.painting_type
-            .toLowerCase()
-            .includes(element.replace("type:", ""));
-        })
-      );
-    } else {
-      fp.push(
-        paintingDatabase.filter((painting) => {
-          // possibly add timeline, technique, and date
-          return (
-            painting.title.toLowerCase().includes(element) ||
-            painting.author.toLowerCase().includes(element)
-          );
-        })
-      );
-    }
-  });
-
-  // we combine the array of arrays we have gathered from the filtering for each of the search strings
-  let filteredPaintings = [];
-  fp.forEach((arr) => {
-    arr.forEach((painting) => {
-      // makes sure there are no duplicates in final array
-      if (!filteredPaintings.includes(painting)) {
-        filteredPaintings.push(painting);
-      }
-    });
-  });
-  */
 }
 
 searchBar.addEventListener("keyup", (e) => {
@@ -243,7 +170,7 @@ const displayPaintings = (paintings) => {
       >
         <div class="info">
         <p class="paintingSearchMainText">
-        <large><strong>${painting.title}</strong></large> <br />  <i>${painting.author} (${painting.date})</i>
+        <strong>${painting.title}</strong> <br />  <span style="font-size:0.8rem"><i>${painting.author} (${painting.date})</i></span>
         </p> 
         <small><p class="paintingSearchTechniqueText">${painting.technique}</p></small></div></p>
         <div class="palette">
