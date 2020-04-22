@@ -33,4 +33,4 @@ Our Rust modules are currently set up mostly hardcoded and do not take command l
 * change focus painting
 * ~remove search button~
 * make sure checkboxes stay checked in results page if they are checked when page is swapped
-* compare page focus painting color order wrong
+* ~compare page focus painting color order wrong~
