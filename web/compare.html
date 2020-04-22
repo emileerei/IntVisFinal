@@ -23,7 +23,19 @@
     <!-- <img class="logo" src="/imgs/logo.png" alt="website logo"> -->
       <a class="navlink" href="/web/index.html"><img class="home-icon" src="/imgs/home.png"></a>
     
-      <a href="/web/index.html"><img class="help-icon" src="/imgs/help.png" alt="help button"></a>
+      <div class="popup" onclick="helpPopupFunction()">
+      <img class="help-icon" src="/imgs/help.png" alt="help button">
+      <span class="popuptext" id="helpPopup">
+        <strong>How to Use the Program:</strong>
+        <ol>
+          <li>Use the search bar to search for an artist or painting title. If you would like to find more specific results, you are able to specify any of these five categories: 'artist:', 'painting:', 'technique:', 'type:', or 'timeline:'. First type any of those strings followed by, without a space, the search you would like to conduct. </li>
+          <li>Select paintings, by clicking on the checkbox for that painting, to add paintings to your comparison sidebar. This sidebar holds all the paintings you would like to compare the color palettes of. You may click the checkbox to remove them from the sidebar.</li>
+          <li>Click the 'Compare' button when you are ready to move to the comparison page.</li>
+          <li>On the comparison page, you will see a radar chart featuring all of the color information for each painting. There is a default 'focus painting', which shows a large version of the painting and its title and artist, on top of the 'Selected Paintings' sidebar. This focus painting's radar chart blob/area will be the darker and more opaque of all the other blobs.</li>
+          <li>You may click on other paintings in the 'Selected Paintings' sidebar to change the 'focus painting'.</li>
+        </ol>
+      </span>
+      </div>
   </div>
 
   <div class="radarchart">
