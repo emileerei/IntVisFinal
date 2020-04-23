@@ -27,10 +27,11 @@ Our Rust modules are currently set up mostly hardcoded and do not take command l
 
 # Todo (web):
 * ~help button tooltip/popup~
-* radar chart blob tooltip
+* ~radar chart blob tooltip~
 * ~hex color for palette hovers~
 * selected painting background
 * change focus painting
 * ~remove search button~
 * make sure checkboxes stay checked in results page if they are checked when page is swapped
 * ~compare page focus painting color order wrong~
+* ~redo radar chart background~

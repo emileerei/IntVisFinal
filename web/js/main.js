@@ -251,7 +251,7 @@ const displayComparison = (ids) => {
       return `<li class="compares">   
         <p>
         <img class="paintingimg3" src="${pid.local_img}">
-        <div class="info"><strong>${pid.title}</strong> <br /> ${pid.author}</div></p>
+        <div class="info"><strong>${pid.title}</strong> <br /> <span style="font-size:0.8rem"><i>${pid.author}</i></span></div></p>
         <input type="checkbox" class="checkbox" id=${pid.id} name="checkbox" value="compare">
       </li>
     `;

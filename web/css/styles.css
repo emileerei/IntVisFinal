@@ -100,7 +100,7 @@ h2 {
 }
 
 .resultstitle {
-  font-family: 'Roboto', 'sans-serif';
+  font-family: 'Martel', 'serif';
   font-size: 1.2rem;
 }
 
@@ -239,6 +239,7 @@ h2 {
   border: 1px solid #a1a1a1;
   border-radius: 5px;
   padding: 15px;
+  font-family: 'Martel', serif;
 }
 
 .scrollcover {
@@ -273,15 +274,15 @@ h2 {
 .paintingimg3 {
   float: left;
   margin-left: 10px;
-  max-width: 80px;
-  max-height: 80px;
+  max-width: 70px;
+  max-height: 70px;
 }
 
 .compares > .info {
   margin: auto 0;
   grid-area: info;
   display: inline;
-  margin-left: 100px;
+  margin-left: 90px;
   text-align: left;
   font-size: 0.8rem;
 }
@@ -307,12 +308,13 @@ h2 {
 /* RADAR CHART */
 
 .legend {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Roboto', sans-serif;
   fill: #333333;
 }
 
 .tooltip {
   fill: #333333;
+  color: #fff;
 }
 
 .radarchart {
@@ -338,6 +340,7 @@ h2 {
   margin: 50px 100px 0 0;
   float: right;
   width: 32%;
+  font-family: 'Martel', serif;
 }
 
 #selectedList {
@@ -361,7 +364,8 @@ h2 {
 .selectedPainting > p {
   grid-area: image;
   padding: 0;
-  margin: 0;
+  margin: auto 0;
+  width: 100px;
 }
 
 .selectedPainting > .info {
@@ -370,7 +374,7 @@ h2 {
   display: inline;
   text-align: left;
   font-size: 0.8rem;
-  margin-left: 10px;
+  margin-left: 13px;
 }
 
 .selectedPainting > .palette {
@@ -435,5 +439,6 @@ h2 {
 }
 
 .mainLogoText {
+  margin-top: 40px;
   font-family: 'Martel', serif;
 }
