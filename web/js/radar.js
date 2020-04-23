@@ -351,7 +351,7 @@ function RadarChart(id, data, options) {
     tooltipB
       .html("<strong>Painting: </strong>" + d.title + "<br> <strong>Artist: </strong>" + d.artist + "<br><strong>Percentage of " + d.axis + ": </strong>" + Format(d.value))
       .style("left", (d3.mouse(this)[0] + 420) + "px") // It is important to put the +90: other wise the tooltip is exactly where the point is an it creates a weird effect
-      .style("top", (d3.mouse(this)[1] + 300) + "px")
+      .style("top", (d3.mouse(this)[1] + 350) + "px")
   }
 
   // A function that change this tooltip when the leaves a point: just need to set opacity to 0 again
@@ -391,57 +391,6 @@ function RadarChart(id, data, options) {
     .on("mouseover", mouseoverA)
     .on("mousemove", mousemoveA)
     .on("mouseleave", mouseleaveA);
-    // .on("mouseover", function (d, i) {
-    //   // newX = parseFloat(d3.select(this).attr("cx")) - 10;
-    //   // newY = parseFloat(d3.select(this).attr("cy")) - 10;
-
-    //   // tooltip
-    //   //   .attr("x", newX)
-    //   //   .attr("y", newY)
-    //   //   .text(Format(d.value))
-    //   //   .transition()
-    //   //   .duration(200)
-    //   //   .style("opacity", 1);
-    // })
-    // .on("mouseout", function () {
-    //   // tooltip.transition().duration(200).style("opacity", 0);
-    // });
-
-  //Set up the small tooltip for when you hover over a circle
-  // var tooltip = g.append("text").attr("class", "tooltip").style("opacity", 0);
-  var tooltipB = d3.select(".radarchart")
-    .append("div")
-    .style("opacity", 0)
-    .attr("class", "tooltipB")
-    .style("background-color", "white")
-    .style("position", "fixed")
-    .style("border", "solid")
-    .style("border-width", "1px")
-    .style("text-align", "left")
-    .style("border-radius", "5px")
-    .style("padding", "10px");
-
-  // A function that change this tooltip when the user hover a point.
-  // Its opacity is set to 1: we can now see it. Plus it set the text and position of tooltip depending on the datapoint (d)
-  var mouseoverA = function (d, i) {
-    tooltipB
-      .style("opacity", 1)
-      .html("Painting: " + Format(d.value))
-  }
-
-  var mousemoveA = function (d, i) {
-    tooltipB
-      .style("left", (d3.mouse(this)[0] ) + "px") // It is important to put the +90: other wise the tooltip is exactly where the point is an it creates a weird effect
-      .style("top", (d3.mouse(this)[1] ) + "px")
-  }
-
-  // A function that change this tooltip when the leaves a point: just need to set opacity to 0 again
-  var mouseleaveA = function (d) {
-    tooltipB
-      .transition()
-      .duration(200)
-      .style("opacity", 0)
-  }
 
   /////////////////////////////////////////////////////////
   /////////////////// Helper Function /////////////////////
@@ -510,7 +459,7 @@ document.addEventListener('DOMContentLoaded', function() {
   populateTitles(comparisons);
   populateSelectionSidebar(comparisons);
 
-  var color = d3.scale.ordinal().range(populateRange(data2.length, "#111", "#999"));
+  var color = d3.scale.ordinal().range(populateRange(data2.length, "#111", "#ededed"));
   var opacity = d3.scale.ordinal().range(populateRange(data2.length, 0.9, 0.7));
 
   var radarChartOptions = {
@@ -588,8 +537,12 @@ function populateSelectionSidebar(paintings) {
     console.log(painting);
     const htmlString = paintings
       .map((painting) => {
+        var backgroundColor = "#ffffff";
+        if (painting.selected) {
+          backgroundColor = "#eee";
+        }
         return `
-      <li class="selectedPainting">   
+      <li style="background-color: ${backgroundColor}" class="selectedPainting">   
         <p>
           <img class="paintingimg2" src="${painting.local_img}">
           <div class="info">

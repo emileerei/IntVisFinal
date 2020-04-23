@@ -405,6 +405,7 @@ h2 {
   height: 40px;
   float: left;
   margin: 2px 4px 0;
+  border-radius: 5px;
 }
 
 /* Tooltip text */
