@@ -40,33 +40,69 @@ function populatePageLinks(total) {
   }
 
   // Add text / dropdown box maybe
-  var t = document.createTextNode(total + " Results (" + perPage + " per page)");
+  var numPages = Math.floor(total / perPage);
+  var t = document.createTextNode(total + " Results (" + perPage + " per page / " + numPages + " pages total)");
   pageLinkDiv.appendChild(t);
 
-  var whitespace = document.createElement("br");
-  pageLinkDiv.appendChild(whitespace);
+  var p = document.createElement("p");
+  pageLinkDiv.appendChild(p);
 
+  var LEFT_RIGHT = 10;
+  var min = pageNum - LEFT_RIGHT;
+  if (min < 0) { min = 0; }
+  var max = pageNum + LEFT_RIGHT;
+  if (max > numPages) { max = numPages; }
 
   // Add all the links
-  var numPages = total / perPage;
 
-  for (var i = 0; i < numPages; ++i) {
-    if (pageNum != i) {
-      var a = document.createElement('a');
-      var linkText = document.createTextNode("" + (i + 1))
-      a.appendChild(linkText);
-      a.title = "tooltip";
-      a.href = "javascript:setPage(" + i + ")";
-      pageLinkDiv.appendChild(a);
+  // Previous Page
+  if (pageNum > 0) {
+    var prev = document.createElement("a");
+    prev.appendChild(document.createTextNode("Previous Page"));
+    prev.href = "javascript:setPage(" + (pageNum - 1) + ")";
+    p.appendChild(prev);
+    p.appendChild(document.createTextNode("\t"));
+
+    if (min > 0) {
+      p.appendChild(document.createTextNode("..."));
+      p.appendChild(document.createTextNode("\t"));
     }
-    else {
-      var linkText = document.createTextNode("" + (i + 1))
-      pageLinkDiv.appendChild(linkText);
+  }
+
+  // LEFT
+  for (var i = min; i < pageNum; ++i) {
+    var a = document.createElement('a');
+    a.appendChild(document.createTextNode("" + (i+1)));
+    a.href = "javascript:setPage(" + i + ")";
+    p.appendChild(a);
+    p.appendChild(document.createTextNode("\t"));
+  }
+
+  // CENTER
+  p.appendChild(document.createTextNode("" + (pageNum+1)));
+  p.appendChild(document.createTextNode("\t"));
+
+  // RIGHT
+  for (var i = pageNum + 1; i < max; ++i) {
+    var a = document.createElement('a');
+    a.appendChild(document.createTextNode("" + (i+1)));
+    a.href = "javascript:setPage(" + i + ")";
+    p.appendChild(a);
+    p.appendChild(document.createTextNode("\t"));
+  }
+
+  // Next Page
+  if (pageNum < numPages - 1) {
+    if (max < numPages) {
+      p.appendChild(document.createTextNode("..."));
+      p.appendChild(document.createTextNode("\t"));
     }
 
-    // Add a gap between links
-    var whitespace = document.createTextNode("\t");
-    pageLinkDiv.appendChild(whitespace);
+    var next = document.createElement("a");
+    next.appendChild(document.createTextNode("Next Page"));
+    next.href = "javascript:setPage(" + (pageNum + 1) + ")";
+    p.appendChild(document.createTextNode("\t"));
+    p.appendChild(next);
   }
 }
 
