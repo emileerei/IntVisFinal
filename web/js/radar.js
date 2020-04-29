@@ -163,7 +163,7 @@ function RadarChart(id, data, options) {
       return rScale(maxValue * 1.1) * Math.sin(angleSlice * i - Math.PI / 2);
     })
     .attr("class", "line")
-    .style("stroke", "white")
+    .style("stroke", "lightgray")
     .style("stroke-width", "2px");
 
   //Append the labels at each axis
@@ -459,7 +459,7 @@ document.addEventListener('DOMContentLoaded', function() {
   populateTitles(comparisons);
   populateSelectionSidebar(comparisons);
 
-  var color = d3.scale.ordinal().range(populateRange(data2.length, "#111", "#ededed"));
+  var color = d3.scale.ordinal().range(populateRange(data2.length, "#111", "whitesmoke"));
   var opacity = d3.scale.ordinal().range(populateRange(data2.length, 0.9, 0.7));
 
   var radarChartOptions = {

@@ -16,7 +16,7 @@ function setPage(num) {
 function loadJSON(callback) {
   var xobj = new XMLHttpRequest();
   xobj.overrideMimeType("application/json");
-  xobj.open("GET", "/data/json3/m.json", false);
+  xobj.open("GET", "/data/json2/combined.json", false);
   xobj.onreadystatechange = function () {
     if (xobj.readyState == 4 && xobj.status == "200") {
       callback(xobj.responseText);
@@ -156,7 +156,7 @@ function filterDB(db, filter) {
   else if (filter.startsWith("iter:")) {
     // This is an int so requires something a bit special
     return db.filter((painting) => {
-      return painting["iterations_taken"] == Number(filter.replace("iter:", ""));
+      return painting["num_iterations"] == Number(filter.replace("iter:", ""));
     });
   }
   // General Search
