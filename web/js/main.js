@@ -16,7 +16,7 @@ function setPage(num) {
 function loadJSON(callback) {
   var xobj = new XMLHttpRequest();
   xobj.overrideMimeType("application/json");
-  xobj.open("GET", "/data/json2/combined.json", false);
+  xobj.open("GET", "/data/json3/m.json", false);
   xobj.onreadystatechange = function () {
     if (xobj.readyState == 4 && xobj.status == "200") {
       callback(xobj.responseText);
