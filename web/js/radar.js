@@ -12,11 +12,11 @@ function RadarChart(id, data, options) {
     margin: { top: 0, right: 10, bottom: 0, left: 10 }, //The margins of the SVG
     levels: 10, //How many levels or inner circles should there be drawn
     maxValue: 100, //What is the value that the biggest circle will represent
-    labelFactor: 1.15, //How much farther than the radius of the outer circle should the labels be placed
+    labelFactor: 1.21, //How much farther than the radius of the outer circle should the labels be placed
     wrapWidth: 60, //The number of pixels after which a label needs to be given a new line
     opacityArea: 0.45, //The opacity of the area of the blob
     dotRadius: 4, //The size of the colored circles of each blog
-    opacityCircles: 1, //The opacity of the circles of each blob
+    opacityCircles: 0.6, //The opacity of the circles of each blob
     opacity: d3.scale.category10(),
     strokeWidth: 2, //The width of the stroke around each blob
     roundStrokes: true, //If true the area and stroke will follow a round path (cardinal-closed)
@@ -95,7 +95,7 @@ function RadarChart(id, data, options) {
     .attr("width", cfg.w / 2)
     .attr("height", cfg.h / 2)
     .append("svg:image")
-    .attr("xlink:href", "/imgs/wheel2.png")
+    .attr("xlink:href", "/imgs/huewheel.png")
     .attr("width", cfg.w)
     .attr("height", cfg.h)
     .attr("x", 0)
@@ -163,7 +163,7 @@ function RadarChart(id, data, options) {
       return rScale(maxValue * 1.1) * Math.sin(angleSlice * i - Math.PI / 2);
     })
     .attr("class", "line")
-    .style("stroke", "white")
+    .style("stroke", "lightgray")
     .style("stroke-width", "2px");
 
   //Append the labels at each axis
@@ -209,13 +209,51 @@ function RadarChart(id, data, options) {
     radarLine.interpolate("cardinal-closed");
   }
 
+  var tooltipA = d3.select(".radarchart")
+    .append("div")
+    .style("opacity", 0)
+    .attr("class", "tooltipA")
+    .style("background-color", "white")
+    .style("position", "fixed")
+    .style("border", "solid")
+    .style("border-width", "1px")
+    .style("text-align", "left")
+    .style("border-radius", "5px")
+    .style("pointer-events", "none")
+    .style("padding", "10px");
+
+  // A function that change this tooltip when the user hover a point.
+  // Its opacity is set to 1: we can now see it. Plus it set the text and position of tooltip depending on the datapoint (d)
+  var mouseover = function (d) {
+    tooltipA
+      .style("opacity", 1)
+  }
+
+  var mousemove = function (d) {
+    tooltipA
+      .html("<strong>Painting: </strong>" + d[0].title + "<br> <strong>Artist: </strong>" + d[0].artist)
+      .style("left", (d3.mouse(this)[0] + 460) + "px") // It is important to put the +90: other wise the tooltip is exactly where the point is an it creates a weird effect
+      .style("top", (d3.mouse(this)[1] + 350) + "px")
+  }
+
+  // A function that change this tooltip when the leaves a point: just need to set opacity to 0 again
+  var mouseleave = function (d) {
+    tooltipA
+      .transition()
+      .duration(200)
+      .style("opacity", 0)
+  }
+
   //Create a wrapper for the blobs
   var blobWrapper = g
     .selectAll(".radarWrapper")
     .data(data)
     .enter()
     .append("g")
-    .attr("class", "radarWrapper");
+    .attr("class", "radarWrapper")
+    .on("mouseover", mouseover)
+    .on("mousemove", mousemove)
+    .on("mouseleave", mouseleave);
 
   //Append the backgrounds
   blobWrapper
@@ -234,6 +272,7 @@ function RadarChart(id, data, options) {
         .transition()
         .duration(200)
         .style("fill-opacity", 0.1);
+      
       //Bring back the hovered over blob
       d3.select(this).transition().duration(200).style("fill-opacity", 0.7);
     })
@@ -288,6 +327,41 @@ function RadarChart(id, data, options) {
   //////// Append invisible circles for tooltip ///////////
   /////////////////////////////////////////////////////////
 
+  var tooltipB = d3.select(".radarchart")
+    .append("div")
+    .style("opacity", 0)
+    .attr("class", "tooltipB")
+    .style("background-color", "white")
+    .style("position", "fixed")
+    .style("border", "solid")
+    .style("border-width", "1px")
+    .style("text-align", "left")
+    .style("border-radius", "5px")
+    .style("pointer-events", "none")
+    .style("padding", "10px");
+
+  // A function that change this tooltip when the user hover a point.
+  // Its opacity is set to 1: we can now see it. Plus it set the text and position of tooltip depending on the datapoint (d)
+  var mouseoverA = function (d) {
+    tooltipB
+      .style("opacity", 1)
+  }
+
+  var mousemoveA = function (d, i) {
+    tooltipB
+      .html("<strong>Painting: </strong>" + d.title + "<br> <strong>Artist: </strong>" + d.artist + "<br><strong>Percentage of " + d.axis + ": </strong>" + Format(d.value))
+      .style("left", (d3.mouse(this)[0] + 420) + "px") // It is important to put the +90: other wise the tooltip is exactly where the point is an it creates a weird effect
+      .style("top", (d3.mouse(this)[1] + 350) + "px")
+  }
+
+  // A function that change this tooltip when the leaves a point: just need to set opacity to 0 again
+  var mouseleaveA = function (d) {
+    tooltipB
+      .transition()
+      .duration(200)
+      .style("opacity", 0)
+  }
+
   //Wrapper for the invisible circles on top
   var blobCircleWrapper = g
     .selectAll(".radarCircleWrapper")
@@ -314,24 +388,9 @@ function RadarChart(id, data, options) {
     })
     .style("fill", "none")
     .style("pointer-events", "all")
-    .on("mouseover", function (d, i) {
-      newX = parseFloat(d3.select(this).attr("cx")) - 10;
-      newY = parseFloat(d3.select(this).attr("cy")) - 10;
-
-      tooltip
-        .attr("x", newX)
-        .attr("y", newY)
-        .text(Format(d.value))
-        .transition()
-        .duration(200)
-        .style("opacity", 1);
-    })
-    .on("mouseout", function () {
-      tooltip.transition().duration(200).style("opacity", 0);
-    });
-
-  //Set up the small tooltip for when you hover over a circle
-  var tooltip = g.append("text").attr("class", "tooltip").style("opacity", 0);
+    .on("mouseover", mouseoverA)
+    .on("mousemove", mousemoveA)
+    .on("mouseleave", mouseleaveA);
 
   /////////////////////////////////////////////////////////
   /////////////////// Helper Function /////////////////////
@@ -400,7 +459,7 @@ document.addEventListener('DOMContentLoaded', function() {
   populateTitles(comparisons);
   populateSelectionSidebar(comparisons);
 
-  var color = d3.scale.ordinal().range(populateRange(data2.length, "#111", "#999"));
+  var color = d3.scale.ordinal().range(populateRange(data2.length, "#111", "#fff"));
   var opacity = d3.scale.ordinal().range(populateRange(data2.length, 0.9, 0.7));
 
   var radarChartOptions = {
@@ -426,14 +485,15 @@ function populateRadarData(paintings) {
   // RADAR values are ROYGBPG
   paintings.forEach(p => {
     data.push([
-      { axis: colorArray[0], value: p.radar[0] },
-      { axis: colorArray[1], value: p.radar[1] },
-      { axis: colorArray[2], value: p.radar[2] },
-      { axis: colorArray[3], value: p.radar[3] },
-      { axis: colorArray[4], value: p.radar[4] },
-      { axis: colorArray[5], value: p.radar[5] },
-      { axis: colorArray[6], value: p.radar[6] }]);
+      { axis: colorArray[0], value: p.radar[0], title: p.title, artist: p.author },
+      { axis: colorArray[1], value: p.radar[1], title: p.title, artist: p.author },
+      { axis: colorArray[2], value: p.radar[2], title: p.title, artist: p.author },
+      { axis: colorArray[3], value: p.radar[3], title: p.title, artist: p.author },
+      { axis: colorArray[4], value: p.radar[4], title: p.title, artist: p.author },
+      { axis: colorArray[5], value: p.radar[5], title: p.title, artist: p.author },
+      { axis: colorArray[6], value: p.radar[6], title: p.title, artist: p.author }]);
   });
+  data.reverse();
 
   return data;
 }
@@ -444,9 +504,10 @@ function populateRange(n, primary, secondary) {
   for (var i = 0; i < n; i++) {
     if (i != n-1) {
       range.push(secondary);
+    } else {
+      range.push(primary);
     }
   }
-  range.push(primary);
 
   return range;
 }
@@ -473,11 +534,14 @@ function populateSelectionSidebar(paintings) {
 
 // TODO: put background color on selected/focus painting (if statement?)
   paintings.forEach(painting => {
-    console.log(painting);
     const htmlString = paintings
       .map((painting) => {
+        var backgroundColor = "#ffffff";
+        if (painting.selected) {
+          backgroundColor = "#eee";
+        }
         return `
-      <li class="selectedPainting">   
+      <li style="background-color: ${backgroundColor}" class="selectedPainting">   
         <p>
           <img class="paintingimg2" src="${painting.local_img}">
           <div class="info">
@@ -486,7 +550,7 @@ function populateSelectionSidebar(paintings) {
             </span> 
             <span style="float:right;">${painting.date}</span>
             <br /> 
-            ${painting.author}
+            <span style="font-size:0.8rem"><i>${painting.author}</i></span>
             <span style="text-transform:capitalize; float:right;">${painting.painting_type}</span>
           </div>
         </p>

@@ -16,7 +16,11 @@ function setPage(num) {
 function loadJSON(callback) {
   var xobj = new XMLHttpRequest();
   xobj.overrideMimeType("application/json");
+<<<<<<< HEAD
+  xobj.open("GET", "/data/json3/combined.json", false);
+=======
   xobj.open("GET", "/data/json2/aq.json", false);
+>>>>>>> master
   xobj.onreadystatechange = function () {
     if (xobj.readyState == 4 && xobj.status == "200") {
       callback(xobj.responseText);
@@ -40,37 +44,70 @@ function populatePageLinks(total) {
   }
 
   // Add text / dropdown box maybe
-  var t = document.createTextNode(total + " Results (" + perPage + " per page)");
+  var numPages = Math.floor(total / perPage);
+  var t = document.createTextNode(total + " Results (" + perPage + " per page / " + numPages + " pages total)");
   pageLinkDiv.appendChild(t);
 
-  //var whitespace = document.createTextNode("\n");
-  var whitespace = document.createElement("br");
-  pageLinkDiv.appendChild(whitespace);
+  var p = document.createElement("p");
+  pageLinkDiv.appendChild(p);
 
+  var LEFT_RIGHT = 10;
+  var min = pageNum - LEFT_RIGHT;
+  if (min < 0) { min = 0; }
+  var max = pageNum + LEFT_RIGHT;
+  if (max > numPages) { max = numPages; }
 
   // Add all the links
-  var numPages = total / perPage;
 
-  for (var i = 0; i < numPages; ++i) {
-    if (pageNum != i) {
-      var a = document.createElement('a');
-      var linkText = document.createTextNode("" + (i + 1))
-      a.appendChild(linkText);
-      a.title = "tooltip";
-      a.href = "javascript:setPage(" + i + ")";
-      pageLinkDiv.appendChild(a);
+  // Previous Page
+  if (pageNum > 0) {
+    var prev = document.createElement("a");
+    prev.appendChild(document.createTextNode("Previous Page"));
+    prev.href = "javascript:setPage(" + (pageNum - 1) + ")";
+    p.appendChild(prev);
+    p.appendChild(document.createTextNode("\t"));
+
+    if (min > 0) {
+      p.appendChild(document.createTextNode("..."));
+      p.appendChild(document.createTextNode("\t"));
     }
-    else {
-      var linkText = document.createTextNode("" + (i + 1))
-      pageLinkDiv.appendChild(linkText);
-    }
-
-    // Add a gap between links
-    var whitespace = document.createTextNode("\t");
-    pageLinkDiv.appendChild(whitespace);
-
   }
 
+  // LEFT
+  for (var i = min; i < pageNum; ++i) {
+    var a = document.createElement('a');
+    a.appendChild(document.createTextNode("" + (i+1)));
+    a.href = "javascript:setPage(" + i + ")";
+    p.appendChild(a);
+    p.appendChild(document.createTextNode("\t"));
+  }
+
+  // CENTER
+  p.appendChild(document.createTextNode("" + (pageNum+1)));
+  p.appendChild(document.createTextNode("\t"));
+
+  // RIGHT
+  for (var i = pageNum + 1; i < max; ++i) {
+    var a = document.createElement('a');
+    a.appendChild(document.createTextNode("" + (i+1)));
+    a.href = "javascript:setPage(" + i + ")";
+    p.appendChild(a);
+    p.appendChild(document.createTextNode("\t"));
+  }
+
+  // Next Page
+  if (pageNum < numPages - 1) {
+    if (max < numPages) {
+      p.appendChild(document.createTextNode("..."));
+      p.appendChild(document.createTextNode("\t"));
+    }
+
+    var next = document.createElement("a");
+    next.appendChild(document.createTextNode("Next Page"));
+    next.href = "javascript:setPage(" + (pageNum + 1) + ")";
+    p.appendChild(document.createTextNode("\t"));
+    p.appendChild(next);
+  }
 }
 
 function filterKeyword(db, filter, keyword, exact_match) {
@@ -123,7 +160,7 @@ function filterDB(db, filter) {
   else if (filter.startsWith("iter:")) {
     // This is an int so requires something a bit special
     return db.filter((painting) => {
-      return painting["iterations_taken"] == Number(filter.replace("iter:", ""));
+      return painting["num_iterations"] == Number(filter.replace("iter:", ""));
     });
   }
   // General Search
@@ -151,76 +188,6 @@ function parseSearchResults() {
 
   displayPaintings(filteredPaintings);
   populatePageLinks(filteredPaintings.length);
-
-  /*
-  OLD OR-BASED CODE-------------
-
-  let fp = [];
-  parsedString.forEach((element) => {
-    if (element.startsWith("title:")) {
-      fp.push(
-        paintingDatabase.filter((painting) => {
-          return painting.title
-            .toLowerCase()
-            .includes(element.replace("title:", ""));
-        })
-      );
-    } else if (element.startsWith("artist:")) {
-      fp.push(
-        paintingDatabase.filter((painting) => {
-          return painting.author
-            .toLowerCase()
-            .includes(element.replace("artist:", ""));
-        })
-      );
-    } else if (element.startsWith("timeline:")) {
-      fp.push(
-        paintingDatabase.filter((painting) => {
-          return painting.timeline
-            .toLowerCase()
-            .includes(element.replace("timeline:", ""));
-        })
-      );
-    } else if (element.startsWith("technique:")) {
-      fp.push(
-        paintingDatabase.filter((painting) => {
-          return painting.technique
-            .toLowerCase()
-            .includes(element.replace("technique:", ""));
-        })
-      );
-    } else if (element.startsWith("type:")) {
-      fp.push(
-        paintingDatabase.filter((painting) => {
-          return painting.painting_type
-            .toLowerCase()
-            .includes(element.replace("type:", ""));
-        })
-      );
-    } else {
-      fp.push(
-        paintingDatabase.filter((painting) => {
-          // possibly add timeline, technique, and date
-          return (
-            painting.title.toLowerCase().includes(element) ||
-            painting.author.toLowerCase().includes(element)
-          );
-        })
-      );
-    }
-  });
-
-  // we combine the array of arrays we have gathered from the filtering for each of the search strings
-  let filteredPaintings = [];
-  fp.forEach((arr) => {
-    arr.forEach((painting) => {
-      // makes sure there are no duplicates in final array
-      if (!filteredPaintings.includes(painting)) {
-        filteredPaintings.push(painting);
-      }
-    });
-  });
-  */
 }
 
 searchBar.addEventListener("keyup", (e) => {
@@ -243,7 +210,7 @@ const displayPaintings = (paintings) => {
       >
         <div class="info">
         <p class="paintingSearchMainText">
-        <large><strong>${painting.title}</strong></large> <br />  <i>${painting.author} (${painting.date})</i>
+        <strong>${painting.title}</strong> <br />  <span style="font-size:0.8rem"><i>${painting.author} (${painting.date})</i></span>
         </p> 
         <small><p class="paintingSearchTechniqueText">${painting.technique}</p></small></div></p>
         <div class="palette">
@@ -264,7 +231,6 @@ const displayPaintings = (paintings) => {
 
 var selections = [];
 document.body.addEventListener('change', function(e) {
-  console.log(e.target);
   var checkboxes = document.querySelectorAll('input[type=checkbox]');
   for (var checkbox of checkboxes) {
     var updated;
@@ -324,7 +290,7 @@ const displayComparison = (ids) => {
       return `<li class="compares">   
         <p>
         <img class="paintingimg3" src="${pid.local_img}">
-        <div class="info"><strong>${pid.title}</strong> <br /> ${pid.author}</div></p>
+        <div class="info"><strong>${pid.title}</strong> <br /> <span style="font-size:0.8rem"><i>${pid.author}</i></span></div></p>
         <input type="checkbox" class="checkbox" id=${pid.id} name="checkbox" value="compare">
       </li>
     `;
@@ -338,13 +304,8 @@ function helpPopupFunction() {
   popup.classList.toggle("show");
 }
 
-
 // For updating
 window.onload = function setup() {
   console.log("Loaded");
   this.parseSearchResults();
-
-  // TODO: update the comparison list here!
-
-  // TODO: make the pagenum local storage and load it between page swaps
 }
