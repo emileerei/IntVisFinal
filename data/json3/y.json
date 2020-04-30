@@ -1,0 +1,602 @@
+[
+  {
+    "author": "YKENS, Catharina II",
+    "date": "-",
+    "id": 31475,
+    "local_img": "/images/y/31475.jpg",
+    "num_iterations": 10,
+    "painting_type": "still-life",
+    "palette": [
+      "#b09577",
+      "#715c44",
+      "#433e2c",
+      "#2d2d1e",
+      "#1c1d10"
+    ],
+    "radar": [
+      0.02298714593052864,
+      0.13573265075683594,
+      0.6614139080047607,
+      0.1740102767944336,
+      0.000010282776202075183,
+      0.0,
+      0.005845758132636547
+    ],
+    "technique": "Oil on canvas, 90 x 71 cm",
+    "time_elapsed": 3,
+    "timeline": "1651-1700",
+    "title": "Garland with Landscape",
+    "url_wga_info": "https://www.wga.hu/html/y/ykens1/catharin/garland1.html",
+    "url_wga_jpg": "https://www.wga.hu/art/y/ykens1/catharin/garland1.jpg"
+  },
+  {
+    "author": "YKENS, Catharina II",
+    "date": "-",
+    "id": 31476,
+    "local_img": "/images/y/31476.jpg",
+    "num_iterations": 12,
+    "painting_type": "still-life",
+    "palette": [
+      "#8d6147",
+      "#ccb39e",
+      "#4c4335",
+      "#383125",
+      "#221d12"
+    ],
+    "radar": [
+      0.05296143889427185,
+      0.5546426773071289,
+      0.37409254908561707,
+      0.005331619642674923,
+      0.0031053985003381968,
+      0.0,
+      0.009866324253380299
+    ],
+    "technique": "Oil on canvas, 90 x 70 cm",
+    "time_elapsed": 3,
+    "timeline": "1651-1700",
+    "title": "Landscape within a Garland",
+    "url_wga_info": "https://www.wga.hu/html/y/ykens1/catharin/garland2.html",
+    "url_wga_jpg": "https://www.wga.hu/art/y/ykens1/catharin/garland2.jpg"
+  },
+  {
+    "author": "YKENS, Catharina II",
+    "date": "1688",
+    "id": 31477,
+    "local_img": "/images/y/31477.jpg",
+    "num_iterations": 10,
+    "painting_type": "still-life",
+    "palette": [
+      "#99785b",
+      "#2e2820",
+      "#65533c",
+      "#3d3529",
+      "#c0bfbb"
+    ],
+    "radar": [
+      0.014000000432133675,
+      0.5112007856369019,
+      0.18111968040466309,
+      0.009699797257781029,
+      0.003833671333268285,
+      0.0005314401350915432,
+      0.2796145975589752
+    ],
+    "technique": "Oil on oak panel, 21 x 21 cm",
+    "time_elapsed": 3,
+    "timeline": "1651-1700",
+    "title": "Vanitas Bust of a Lady",
+    "url_wga_info": "https://www.wga.hu/html/y/ykens1/catharin/bustlady.html",
+    "url_wga_jpg": "https://www.wga.hu/art/y/ykens1/catharin/bustlady.jpg"
+  },
+  {
+    "author": "YKENS, Frans",
+    "date": "-",
+    "id": 31478,
+    "local_img": "/images/y/31478.jpg",
+    "num_iterations": 15,
+    "painting_type": "religious",
+    "palette": [
+      "#7a5849",
+      "#170d08",
+      "#b39e91",
+      "#48362a",
+      "#291f16"
+    ],
+    "radar": [
+      0.26775845885276794,
+      0.3999130427837372,
+      0.1549951732158661,
+      0.009855072014033794,
+      0.004700483288615942,
+      0.012294686399400234,
+      0.15048308670520782
+    ],
+    "technique": "Oil on canvas, 147 x 120 cm",
+    "time_elapsed": 3,
+    "timeline": "1601-1650",
+    "title": "Flower Garland around the Holy Family",
+    "url_wga_info": "https://www.wga.hu/html/y/ykens/garland.html",
+    "url_wga_jpg": "https://www.wga.hu/art/y/ykens/garland.jpg"
+  },
+  {
+    "author": "YKENS, Frans",
+    "date": "-",
+    "id": 31479,
+    "local_img": "/images/y/31479.jpg",
+    "num_iterations": 25,
+    "painting_type": "still-life",
+    "palette": [
+      "#d5c2b1",
+      "#2e2721",
+      "#a17e60",
+      "#5e4d36",
+      "#3b372e"
+    ],
+    "radar": [
+      0.040831804275512695,
+      0.5632293820381165,
+      0.2748134434223175,
+      0.06930886954069138,
+      0.01946789026260376,
+      0.0068562692031264305,
+      0.025492355227470398
+    ],
+    "technique": "Oil on panel, 48 x 73 cm",
+    "time_elapsed": 3,
+    "timeline": "1601-1650",
+    "title": "Still-Life",
+    "url_wga_info": "https://www.wga.hu/html/y/ykens/stillif1.html",
+    "url_wga_jpg": "https://www.wga.hu/art/y/ykens/stillif1.jpg"
+  },
+  {
+    "author": "YKENS, Frans",
+    "date": "-",
+    "id": 31480,
+    "local_img": "/images/y/31480.jpg",
+    "num_iterations": 19,
+    "painting_type": "still-life",
+    "palette": [
+      "#473520",
+      "#8b714f",
+      "#685132",
+      "#1c1409",
+      "#d1ba8c"
+    ],
+    "radar": [
+      0.01764673925936222,
+      0.8284782767295837,
+      0.09545108675956726,
+      0.004434782546013594,
+      0.0005760869826190174,
+      5.4347824516298715e-6,
+      0.05340760946273804
+    ],
+    "technique": "Oil on canvas, 105 x 139 cm",
+    "time_elapsed": 2,
+    "timeline": "1601-1650",
+    "title": "Pronk Still-Life",
+    "url_wga_info": "https://www.wga.hu/html/y/ykens/stillif4.html",
+    "url_wga_jpg": "https://www.wga.hu/art/y/ykens/stillif4.jpg"
+  },
+  {
+    "author": "YKENS, Frans",
+    "date": "-",
+    "id": 31481,
+    "local_img": "/images/y/31481.jpg",
+    "num_iterations": 13,
+    "painting_type": "still-life",
+    "palette": [
+      "#895b40",
+      "#1d1812",
+      "#bfac8e",
+      "#493d2a",
+      "#2e291e"
+    ],
+    "radar": [
+      0.08787930756807327,
+      0.41375863552093506,
+      0.35631608963012695,
+      0.07902873307466507,
+      0.01701149344444275,
+      0.003534482792019844,
+      0.0424712635576725
+    ],
+    "technique": "Oil on oak panel, 83 x 60 cm",
+    "time_elapsed": 1,
+    "timeline": "1601-1650",
+    "title": "Still-Life",
+    "url_wga_info": "https://www.wga.hu/html/y/ykens/stillif7.html",
+    "url_wga_jpg": "https://www.wga.hu/art/y/ykens/stillif7.jpg"
+  },
+  {
+    "author": "YKENS, Frans",
+    "date": "-",
+    "id": 31482,
+    "local_img": "/images/y/31482.jpg",
+    "num_iterations": 10,
+    "painting_type": "still-life",
+    "palette": [
+      "#ad8a67",
+      "#6e522d",
+      "#1c1710",
+      "#42351f",
+      "#2e2617"
+    ],
+    "radar": [
+      0.03381052613258362,
+      0.5866357684135437,
+      0.3280336856842041,
+      0.02105684205889702,
+      0.0007200000109151006,
+      0.0003326315782032907,
+      0.029410526156425476
+    ],
+    "technique": "Oil on panel, 33 x 34 cm",
+    "time_elapsed": 1,
+    "timeline": "1601-1650",
+    "title": "Still-Life",
+    "url_wga_info": "https://www.wga.hu/html/y/ykens/stillife.html",
+    "url_wga_jpg": "https://www.wga.hu/art/y/ykens/stillife.jpg"
+  },
+  {
+    "author": "YKENS, Frans",
+    "date": "1646",
+    "id": 31483,
+    "local_img": "/images/y/31483.jpg",
+    "num_iterations": 27,
+    "painting_type": "still-life",
+    "palette": [
+      "#735f45",
+      "#b3a579",
+      "#39372c",
+      "#172320",
+      "#011716"
+    ],
+    "radar": [
+      0.01911897026002407,
+      0.08094533532857895,
+      0.14902250468730927,
+      0.25984567403793335,
+      0.40965917706489563,
+      0.0006430867942981422,
+      0.0807652696967125
+    ],
+    "technique": "Oil on canvas, 107 x 173 cm",
+    "time_elapsed": 3,
+    "timeline": "1601-1650",
+    "title": "Still-Life",
+    "url_wga_info": "https://www.wga.hu/html/y/ykens/stillif2.html",
+    "url_wga_jpg": "https://www.wga.hu/art/y/ykens/stillif2.jpg"
+  },
+  {
+    "author": "YKENS, Frans",
+    "date": "1646",
+    "id": 31484,
+    "local_img": "/images/y/31484.jpg",
+    "num_iterations": 13,
+    "painting_type": "still-life",
+    "palette": [
+      "#2a2220",
+      "#484239",
+      "#71664c",
+      "#bdaf82",
+      "#070b0a"
+    ],
+    "radar": [
+      0.07151149213314056,
+      0.26055172085762024,
+      0.201683908700943,
+      0.08378735929727554,
+      0.07817241549491882,
+      0.022551724687218666,
+      0.2817413806915283
+    ],
+    "technique": "Oil on panel, 74 x 105 cm",
+    "time_elapsed": 1,
+    "timeline": "1601-1650",
+    "title": "Still-Life",
+    "url_wga_info": "https://www.wga.hu/html/y/ykens/stillif3.html",
+    "url_wga_jpg": "https://www.wga.hu/art/y/ykens/stillif3.jpg"
+  },
+  {
+    "author": "YKENS, Frans",
+    "date": "1649",
+    "id": 31485,
+    "local_img": "/images/y/31485.jpg",
+    "num_iterations": 17,
+    "painting_type": "still-life",
+    "palette": [
+      "#998865",
+      "#715d34",
+      "#c7c3a8",
+      "#3a3928",
+      "#4a4c3c"
+    ],
+    "radar": [
+      0.015184986405074596,
+      0.11676675826311111,
+      0.515603244304657,
+      0.29436996579170227,
+      0.018337801098823547,
+      0.0010777480201795697,
+      0.03865951672196388
+    ],
+    "technique": "Oil on canvas, 40 x 53 cm",
+    "time_elapsed": 2,
+    "timeline": "1601-1650",
+    "title": "Still-Life",
+    "url_wga_info": "https://www.wga.hu/html/y/ykens/stillif5.html",
+    "url_wga_jpg": "https://www.wga.hu/art/y/ykens/stillif5.jpg"
+  },
+  {
+    "author": "YKENS, Frans",
+    "date": "1649",
+    "id": 31486,
+    "local_img": "/images/y/31486.jpg",
+    "num_iterations": 9,
+    "painting_type": "still-life",
+    "palette": [
+      "#885822",
+      "#423b26",
+      "#b8ae86",
+      "#544f38",
+      "#847e59"
+    ],
+    "radar": [
+      0.02148701250553131,
+      0.1377597451210022,
+      0.7354155778884888,
+      0.05279869958758354,
+      0.024253247305750847,
+      0.0009415584499947727,
+      0.027344156056642532
+    ],
+    "technique": "Oil on canvas",
+    "time_elapsed": 1,
+    "timeline": "1601-1650",
+    "title": "Still-Life (detail)",
+    "url_wga_info": "https://www.wga.hu/html/y/ykens/stillif6.html",
+    "url_wga_jpg": "https://www.wga.hu/art/y/ykens/stillif6.jpg"
+  },
+  {
+    "author": "YKENS, Peter",
+    "date": "-",
+    "id": 31487,
+    "local_img": "/images/y/31487.jpg",
+    "num_iterations": 10,
+    "painting_type": "other",
+    "palette": [
+      "#73624b",
+      "#3a3125",
+      "#c3a983",
+      "#524635",
+      "#26221b"
+    ],
+    "radar": [
+      0.042378995567560196,
+      0.6200821995735168,
+      0.19614611566066742,
+      0.037557076662778854,
+      0.07491780817508698,
+      0.0022876712027937174,
+      0.026630137115716934
+    ],
+    "technique": "Oil on canvas, 61 x 70 cm",
+    "time_elapsed": 1,
+    "timeline": "1651-1700",
+    "title": "Architectural Capriccio",
+    "url_wga_info": "https://www.wga.hu/html/y/ykens1/peter/capricci.html",
+    "url_wga_jpg": "https://www.wga.hu/art/y/ykens1/peter/capricci.jpg"
+  },
+  {
+    "author": "YKENS, Peter",
+    "date": "-",
+    "id": 31488,
+    "local_img": "/images/y/31488.jpg",
+    "num_iterations": 25,
+    "painting_type": "still-life",
+    "palette": [
+      "#2b2724",
+      "#3c352a",
+      "#5f4f36",
+      "#867758",
+      "#c8bda4"
+    ],
+    "radar": [
+      0.0990837961435318,
+      0.38029608130455017,
+      0.34701675176620483,
+      0.04873184487223625,
+      0.008687150664627552,
+      0.016826815903186798,
+      0.09935754537582397
+    ],
+    "technique": "Oil on canvas, 157 x 104 cm",
+    "time_elapsed": 3,
+    "timeline": "1651-1700",
+    "title": "A Lady Adorning a Sculpted Urn",
+    "url_wga_info": "https://www.wga.hu/html/y/ykens1/peter/lady_urn.html",
+    "url_wga_jpg": "https://www.wga.hu/art/y/ykens1/peter/lady_urn.jpg"
+  },
+  {
+    "author": "YKENS, Peter",
+    "date": "c. 1685",
+    "id": 31489,
+    "local_img": "/images/y/31489.jpg",
+    "num_iterations": 10,
+    "painting_type": "mythological",
+    "palette": [
+      "#635a45",
+      "#c4b691",
+      "#918765",
+      "#f7f5eb",
+      "#24372e"
+    ],
+    "radar": [
+      0.03384581580758095,
+      0.32017621397972107,
+      0.24155506491661072,
+      0.21173128485679626,
+      0.10594713687896729,
+      0.00033480176352895796,
+      0.08640968799591064
+    ],
+    "technique": "Tapestry, wool and silk, 299 x 328 cm",
+    "time_elapsed": 1,
+    "timeline": "1651-1700",
+    "title": "Orpheus Playing the Lyre to Hades and Persephone",
+    "url_wga_info": "https://www.wga.hu/html/y/ykens1/peter/tapestry.html",
+    "url_wga_jpg": "https://www.wga.hu/art/y/ykens1/peter/tapestry.jpg"
+  },
+  {
+    "author": "YVON, Adolphe",
+    "date": "-",
+    "id": 31490,
+    "local_img": "/images/y/31490.jpg",
+    "num_iterations": 22,
+    "painting_type": "historical",
+    "palette": [
+      "#b48d6f",
+      "#55361e",
+      "#2a1e13",
+      "#855e37",
+      "#d5c0c4"
+    ],
+    "radar": [
+      0.23503592610359192,
+      0.627119779586792,
+      0.02502395212650299,
+      0.002598802326247096,
+      0.014107784256339073,
+      0.04392814263701439,
+      0.052185628563165665
+    ],
+    "technique": "Oil on canvas, 103 x 152 cm",
+    "time_elapsed": 2,
+    "timeline": "1851-1900",
+    "title": "Taking of the Gorge de Malakoff, September 1855",
+    "url_wga_info": "https://www.wga.hu/html/y/yvon/malakoff.html",
+    "url_wga_jpg": "https://www.wga.hu/art/y/yvon/malakoff.jpg"
+  },
+  {
+    "author": "YVON, Adolphe",
+    "date": "1868",
+    "id": 31491,
+    "local_img": "/images/y/31491.jpg",
+    "num_iterations": 29,
+    "painting_type": "portrait",
+    "palette": [
+      "#dcbeae",
+      "#8c7164",
+      "#0b0d22",
+      "#382837",
+      "#724546"
+    ],
+    "radar": [
+      0.1768038272857666,
+      0.11718181520700455,
+      0.001779904356226325,
+      0.00007655502122361213,
+      0.5352727174758911,
+      0.1646411418914795,
+      0.004244019277393818
+    ],
+    "technique": "Oil on canvas, 56 x 47 cm",
+    "time_elapsed": 4,
+    "timeline": "1851-1900",
+    "title": "Portrait of Napoleon III",
+    "url_wga_info": "https://www.wga.hu/html/y/yvon/napoleo3.html",
+    "url_wga_jpg": "https://www.wga.hu/art/y/yvon/napoleo3.jpg"
+  },
+  {
+    "author": "YÁÑEZ DE LA ALMEDINA, Fernando",
+    "date": "1505-10",
+    "id": 31492,
+    "local_img": "/images/y/31492.jpg",
+    "num_iterations": 22,
+    "painting_type": "religious",
+    "palette": [
+      "#432e2a",
+      "#61443d",
+      "#876e65",
+      "#140b10",
+      "#2b1819"
+    ],
+    "radar": [
+      0.5362856984138489,
+      0.1952255666255951,
+      0.0001428571413271129,
+      0.0,
+      0.011857142671942711,
+      0.1260601431131363,
+      0.13042856752872467
+    ],
+    "technique": "Oil on canvas, 212 x 112 cm",
+    "time_elapsed": 2,
+    "timeline": "1501-1550",
+    "title": "Saint Catherine",
+    "url_wga_info": "https://www.wga.hu/html/y/yanez/catherin.html",
+    "url_wga_jpg": "https://www.wga.hu/art/y/yanez/catherin.jpg"
+  },
+  {
+    "author": "YÁÑEZ DE LA ALMEDINA, Fernando",
+    "date": "1507",
+    "id": 31493,
+    "local_img": "/images/y/31493.jpg",
+    "num_iterations": 10,
+    "painting_type": "religious",
+    "palette": [
+      "#402d27",
+      "#724d3a",
+      "#9a8160",
+      "#bec9b6",
+      "#111214"
+    ],
+    "radar": [
+      0.2488841563463211,
+      0.2632387578487396,
+      0.03990070894360542,
+      0.11917730420827866,
+      0.09133806079626083,
+      0.02408510632812977,
+      0.21337588131427765
+    ],
+    "technique": "Oil on panel, 194 x 227 cm",
+    "time_elapsed": 1,
+    "timeline": "1501-1550",
+    "title": "Rest during the Flight to Egypt",
+    "url_wga_info": "https://www.wga.hu/html/y/yanez/d_virgin.html",
+    "url_wga_jpg": "https://www.wga.hu/art/y/yanez/d_virgin.jpg"
+  },
+  {
+    "author": "YÁÑEZ DE LA ALMEDINA, Fernando",
+    "date": "c. 1505",
+    "id": 31494,
+    "local_img": "/images/y/31494.jpg",
+    "num_iterations": 7,
+    "painting_type": "religious",
+    "palette": [
+      "#bdacab",
+      "#412a23",
+      "#7f522f",
+      "#75748e",
+      "#170f13"
+    ],
+    "radar": [
+      0.16696806252002716,
+      0.3199557662010193,
+      0.005036855116486549,
+      0.0002014742058236152,
+      0.1559164673089981,
+      0.1568353772163391,
+      0.19508600234985352
+    ],
+    "technique": "Oil on panel, 78 x 64 cm",
+    "time_elapsed": 1,
+    "timeline": "1501-1550",
+    "title": "Madonna and Child with Infant St John",
+    "url_wga_info": "https://www.wga.hu/html/y/yanez/madonna.html",
+    "url_wga_jpg": "https://www.wga.hu/art/y/yanez/madonna.jpg"
+  }
+]
