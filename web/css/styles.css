@@ -202,6 +202,7 @@ h2 {
   margin: 20px 5px;
   width: 70px;
   height: 70px;
+  font-family: 'Martel', 'serif';
   border-radius: 5px;
 }
 
@@ -416,7 +417,6 @@ h2 {
   text-align: center;
   padding: 5px 10px;
   border-radius: 6px;
- 
   /* Position the tooltip text - see examples below! */
   position: absolute;
   z-index: 1;

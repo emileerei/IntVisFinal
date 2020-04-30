@@ -232,7 +232,7 @@ function RadarChart(id, data, options) {
   var mousemove = function (d) {
     tooltipA
       .html("<strong>Painting: </strong>" + d[0].title + "<br> <strong>Artist: </strong>" + d[0].artist)
-      .style("left", (d3.mouse(this)[0] + 300) + "px") // It is important to put the +90: other wise the tooltip is exactly where the point is an it creates a weird effect
+      .style("left", (d3.mouse(this)[0] + 460) + "px") // It is important to put the +90: other wise the tooltip is exactly where the point is an it creates a weird effect
       .style("top", (d3.mouse(this)[1] + 350) + "px")
   }
 
@@ -459,7 +459,7 @@ document.addEventListener('DOMContentLoaded', function() {
   populateTitles(comparisons);
   populateSelectionSidebar(comparisons);
 
-  var color = d3.scale.ordinal().range(populateRange(data2.length, "#111", "whitesmoke"));
+  var color = d3.scale.ordinal().range(populateRange(data2.length, "#111", "#fff"));
   var opacity = d3.scale.ordinal().range(populateRange(data2.length, 0.9, 0.7));
 
   var radarChartOptions = {
@@ -534,7 +534,6 @@ function populateSelectionSidebar(paintings) {
 
 // TODO: put background color on selected/focus painting (if statement?)
   paintings.forEach(painting => {
-    console.log(painting);
     const htmlString = paintings
       .map((painting) => {
         var backgroundColor = "#ffffff";
