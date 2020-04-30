@@ -12,7 +12,7 @@ function RadarChart(id, data, options) {
     margin: { top: 0, right: 10, bottom: 0, left: 10 }, //The margins of the SVG
     levels: 10, //How many levels or inner circles should there be drawn
     maxValue: 100, //What is the value that the biggest circle will represent
-    labelFactor: 1.15, //How much farther than the radius of the outer circle should the labels be placed
+    labelFactor: 1.21, //How much farther than the radius of the outer circle should the labels be placed
     wrapWidth: 60, //The number of pixels after which a label needs to be given a new line
     opacityArea: 0.45, //The opacity of the area of the blob
     dotRadius: 4, //The size of the colored circles of each blog
@@ -163,7 +163,7 @@ function RadarChart(id, data, options) {
       return rScale(maxValue * 1.1) * Math.sin(angleSlice * i - Math.PI / 2);
     })
     .attr("class", "line")
-    .style("stroke", "white")
+    .style("stroke", "lightgray")
     .style("stroke-width", "2px");
 
   //Append the labels at each axis
@@ -232,7 +232,7 @@ function RadarChart(id, data, options) {
   var mousemove = function (d) {
     tooltipA
       .html("<strong>Painting: </strong>" + d[0].title + "<br> <strong>Artist: </strong>" + d[0].artist)
-      .style("left", (d3.mouse(this)[0] + 300) + "px") // It is important to put the +90: other wise the tooltip is exactly where the point is an it creates a weird effect
+      .style("left", (d3.mouse(this)[0] + 460) + "px") // It is important to put the +90: other wise the tooltip is exactly where the point is an it creates a weird effect
       .style("top", (d3.mouse(this)[1] + 350) + "px")
   }
 
@@ -459,7 +459,7 @@ document.addEventListener('DOMContentLoaded', function() {
   populateTitles(comparisons);
   populateSelectionSidebar(comparisons);
 
-  var color = d3.scale.ordinal().range(populateRange(data2.length, "#111", "#ededed"));
+  var color = d3.scale.ordinal().range(populateRange(data2.length, "#111", "#fff"));
   var opacity = d3.scale.ordinal().range(populateRange(data2.length, 0.9, 0.7));
 
   var radarChartOptions = {
@@ -534,7 +534,6 @@ function populateSelectionSidebar(paintings) {
 
 // TODO: put background color on selected/focus painting (if statement?)
   paintings.forEach(painting => {
-    console.log(painting);
     const htmlString = paintings
       .map((painting) => {
         var backgroundColor = "#ffffff";

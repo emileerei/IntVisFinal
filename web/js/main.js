@@ -156,7 +156,7 @@ function filterDB(db, filter) {
   else if (filter.startsWith("iter:")) {
     // This is an int so requires something a bit special
     return db.filter((painting) => {
-      return painting["iterations_taken"] == Number(filter.replace("iter:", ""));
+      return painting["num_iterations"] == Number(filter.replace("iter:", ""));
     });
   }
   // General Search
@@ -227,7 +227,6 @@ const displayPaintings = (paintings) => {
 
 var selections = [];
 document.body.addEventListener('change', function(e) {
-  console.log(e.target);
   var checkboxes = document.querySelectorAll('input[type=checkbox]');
   for (var checkbox of checkboxes) {
     var updated;
@@ -301,13 +300,8 @@ function helpPopupFunction() {
   popup.classList.toggle("show");
 }
 
-
 // For updating
 window.onload = function setup() {
   console.log("Loaded");
   this.parseSearchResults();
-
-  // TODO: update the comparison list here!
-
-  // TODO: make the pagenum local storage and load it between page swaps
 }
